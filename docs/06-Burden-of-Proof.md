@@ -86,6 +86,14 @@ To prevail on an account stated theory, the plaintiff must generally establish:
 
 Account stated does not eliminate the standing requirement. A plaintiff that cannot establish its right to enforce the receivable cannot recover under an account stated theory on the strength of statements alone, even if those statements were sent and not disputed.
 
+**Privity limitation.** Account stated requires prior accounting transactions between the actual parties to the case. *Ellison v. Weintrob*, 139 Va. 29, 35 (1924) holds that an account stated requires proof that "the accounts between the parties were actually settled." This requirement has a privity dimension: the prior transactions must have been between the plaintiff and the defendant — not between the defendant and a prior creditor that the plaintiff later replaced.
+
+A plaintiff that acquired the receivable by assignment or purchase after the defendant's default had no prior accounting relationship with the defendant. The "account" that was rendered and not disputed ran between the defendant and the original creditor, not between the defendant and the acquiring plaintiff. A debt buyer or subsequent assignee asserting account stated must address this threshold limitation before relying on statements it did not generate and a relationship it did not have.
+
+Practitioners should evaluate whether the plaintiff's relationship to the original account is sufficient to support an account stated theory before including it in any filing. Where the plaintiff is a reacquirer (Theory 2) or an assignee (Theory 6), the privity question is material.
+
+> **Citation note.** *Ellison v. Weintrob*, 139 Va. 29, 35 (1924) is cited in Chapter 18 as the source for this privity standard. Practitioners should verify this citation on Westlaw or LexisNexis before relying on it in any filing.
+
 ### 6.3.3 Unjust Enrichment
 
 Unjust enrichment typically requires the plaintiff to establish:

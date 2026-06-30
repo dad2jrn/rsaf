@@ -78,6 +78,26 @@ RSAF must read these characterizations carefully and must not substitute its own
 
 The retention theory is often asserted without account-specific exclusion documentation. A bank may contend that it retained a receivable simply because it continues to appear in account records — without distinguishing its ownership role from its servicing role. The same records are generated whether the bank owns the receivable outright or services it on behalf of a trust.
 
+**Affirmative proof standard for retention.**
+
+Absence of transfer documentation is not proof of retention. Proof that the plaintiff serviced the account does not distinguish ownership from servicing. Program-level documents describing the securitization structure do not prove what occurred with the defendant's specific receivable. The following categories of account-specific evidence may affirmatively support a retention theory; each should be classified using Chapter 21's evidentiary taxonomy (Proven Fact, Supported Documentary Inference, etc.) before it is relied upon.
+
+*Account-specific evidence that may affirmatively prove retention:*
+
+1. **Internal ineligibility flag.** A record showing that this account was flagged as ineligible for the trust pool — identifying the specific ineligibility criterion and the date it was applied — establishes that the account was positively excluded at origination or prior to transfer.
+
+2. **Explicit exclusion from the pool schedule.** The pool transfer schedule itself, produced in authenticated form, showing that the defendant's account number is absent from the list of transferred accounts. This requires production of the schedule, not merely an assertion that the account does not appear on it.
+
+3. **Certified trust statement.** A statement from the trust (or its trustee) that the defendant's account was never a trust receivable. This must be a statement about this account, not a general characterization of the trust's holdings.
+
+4. **Continuous ownership records.** Direct account records — account history, internal ledger entries, or ownership designations — showing the plaintiff held the receivable continuously as owner, with no transfer notation and no period during which the account appeared as a trust asset.
+
+*The analytical problem with "absence from trust schedules."*
+
+Relying on a trust schedule to prove retention requires the plaintiff to produce the schedule and then show the account is absent. Both elements depend on document production the plaintiff controls. A plaintiff that declines to produce the trust schedules cannot use the purported absence of the account from those schedules as affirmative evidence of retention. The absence of a produced document is not evidence of anything — it is a gap in the record that leaves the retention question unresolved.
+
+*Burden reminder.* The burden of establishing the retention theory rests with the plaintiff asserting it. The defendant is not required to disprove retention, to produce trust schedules, or to demonstrate that the account was transferred. Where the plaintiff has not produced account-specific evidence affirmatively showing retention, the retention element remains unestablished on the current record.
+
 ---
 
 ### Theory 2: Plaintiff Transferred the Receivable and Later Reacquired It
@@ -124,6 +144,8 @@ The retention theory is often asserted without account-specific exclusion docume
 **Common evidentiary weaknesses.**
 
 The reacquisition chain frequently breaks at the removal or reassignment link. Plaintiffs often produce program-level documents describing how removal is supposed to work, and charge-off records reflecting the accounting event, without producing the account-specific removal notice or executed reassignment instrument required by the governing agreements. The result is a structural map and an accounting entry, but no account-specific documentation of the legal event.
+
+**Account stated — privity note.** When the reacquisition theory is asserted, practitioners should separately evaluate whether account stated is available as an alternative theory. A plaintiff that had no prior account relationship with the defendant — because the receivable was held in trust during the period account statements were rendered — may face a privity limitation under Virginia's account stated doctrine. See § 6.3.2.
 
 ---
 
@@ -295,6 +317,8 @@ This theory requires both proof of the agency relationship and proof that the pr
 The bill of sale without a corresponding account schedule is the most common deficiency in assignee-theory cases. The bill of sale establishes that a transfer occurred; the schedule establishes that this particular account was included. Both are required. Producing one without the other leaves the specific transfer of this receivable undocumented.
 
 A related weakness is the missing intermediate link. If the originating bank transferred a receivable into a trust, the trust must have removed and reassigned it before the bank could assign it to anyone. Where that intermediate step is not documented, the chain is broken at the point before the first assignment to a third party.
+
+**Account stated — privity note.** When the assignee theory is asserted, practitioners should separately evaluate whether account stated is available as an alternative theory. A plaintiff that acquired the receivable by purchase or assignment after the defendant's default had no prior account relationship with the defendant and may not be able to establish the prior-transactions element of account stated. See § 6.3.2.
 
 ---
 
