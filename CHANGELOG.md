@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.4.0 — Theory Identification and Open Questions (2026-06-30)
+
+### New Chapters
+
+- **docs/20-Plaintiff-Theory-Identification.md** — Seven enforcement theories with full evidentiary analysis structure for each. Core framing shift throughout: "present legal right to enforce" rather than "ownership only." §20.5 explains how theory identification flows into all subsequent analytical steps.
+- **docs/21-Inference-Classification.md** — Six inference categories (Proven Fact, Supported Documentary Inference, Legal Inference, Competing Explanation, Open Legal Question, Speculation) with hierarchy diagram, securitization examples, common mistakes, and five common analytical errors.
+- **docs/22-Routine-Securitization-Practice.md** — Research chapter on whether documented routine securitization practice creates an evidentiary inference of specific transfer. Identifies four possible inferences (not adopted). Analyzes four competing legal positions. Lists research required before RSAF can adopt a position. Includes Open Legal Question section with verbatim current RSAF position.
+- **OPEN-LEGAL-QUESTIONS.md** — New register for open legal questions material to RSAF analysis. Three entries: OLQ-001 (routine securitization inference — high priority), OLQ-002 (servicer standing to sue in own name — medium priority), OLQ-003 (Delaware ABSFA effect on Virginia analysis — low priority).
+
+### Updated Chapters
+
+- **docs/05-Legal-Methodology.md** — Added "Identify Plaintiff's Enforcement Theory" step to analysis pipeline (between "Map the receivable transfer path" and "Identify required account-level proof"). New §5.13 explaining why theory identification must precede evidentiary sufficiency evaluation. Added inference classification cross-reference to §5.9. Added routine securitization open-question cross-reference to §5.18. Sections renumbered 5.13–5.24.
+- **docs/08-Program-vs-Account-Level-Evidence.md** — Reframed program-level evidence as "plaintiff's own transfer framework." Strengthened §8.3 to identify what the framework establishes about required documentation. Revised §8.6 to make the "plaintiff's own framework" point explicit. Added cross-reference to Chapter 22 and OPEN-LEGAL-QUESTIONS.md in §8.7.
+- **docs/19-Research-Methodology.md** — Fixed chapter header (was labeled 18). Added §18.11 "Researching Unresolved Legal Questions" covering: factual vs. legal uncertainty distinction; how to identify open questions; documentation standards (with cross-reference to OPEN-LEGAL-QUESTIONS.md); primary-authority research priority; documenting competing interpretations; confidence assessments (High/Medium/Low/Indeterminate); preserving unresolved questions through analysis; what RSAF must not do with open questions.
+- **NEXT-STEPS.md** — Updated to reflect current framework state. Includes: completed chapters table (22 chapters), open legal questions summary, remaining research tasks, recommended implementation order, bank playbook status table, critical constraint statement.
+
+---
+
 ## 0.3.0 — Active Case Preparation (2026-06-30)
 
 ### Citation and Framing Corrections
