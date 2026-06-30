@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.5.0 — Usability Pass 1 (2026-06-30)
+
+### New Resources
+
+- **Glossary.md** — Plain-language definitions for judges, attorneys, and pro se litigants. Distinguishes commonly confused terms: servicer vs. owner, standing vs. ownership, legal title vs. beneficial ownership, assignee vs. holder, present legal right to enforce vs. historical ownership. Includes "Common Confusions" table.
+
+### Judge's Checklists
+
+Added Judge's Checklist sections to all applicable analytical chapters: 02, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22. Each checklist is calibrated to the specific chapter's subject matter and written for a judge reading ten minutes before a hearing.
+
+### Visual and Structural Improvements
+
+- **docs/06-Burden-of-Proof.md** — Added burden flow diagram (§ 6.1A) showing how the standing and failure-of-proof framings split procedurally, where each is raised, and why both must be preserved.
+- **docs/22-Routine-Securitization-Practice.md** — Converted the four possible legal inferences (A–D) from prose to a structured comparison table. Added note on cumulative nature of the inferences.
+- **docs/07-Evidence-Hierarchy.md** — Added cross-reference to Chapter 08 as the definitive treatment of the structural/transaction evidence distinction.
+- **docs/09-Securitization-Primer.md** — Added cross-references to Chapters 08, 10, and 16.
+
+### Updated Resources
+
+- **docs/00-Introduction.md** — Updated to v0.4.0. Chapter map now includes Chapters 20–22 in a new "Advanced Analysis" section. Glossary.md and OPEN-LEGAL-QUESTIONS.md added to the resource table. Usage guide expanded to 11 steps, now including theory identification (step 2) and inference classification (step 6).
+- **OPEN-LEGAL-QUESTIONS.md** — Each OLQ entry (OLQ-001, OLQ-002, OLQ-003) now includes a "Next Research Step" field specifying the immediate action required to advance the research.
+- **NEXT-STEPS.md** — Reprioritized. Research on OLQ-001 (routine securitization inference) is the highest-priority remaining work. Recommendations now include rationale for each item and explicit guidance on what not to prioritize.
+
+---
+
 ## 0.4.0 — Theory Identification and Open Questions (2026-06-30)
 
 ### New Chapters
