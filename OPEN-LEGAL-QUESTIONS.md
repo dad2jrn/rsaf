@@ -53,6 +53,8 @@ RSAF currently treats public securitization documents as structural evidence def
 
 **Research Priority.** High. This question affects the outcome of any case in which the plaintiff relies on program-level evidence without producing account-specific transfer documentation. It is the most frequently encountered evidentiary gap in active RSAF analysis.
 
+**Next Research Step.** Locate and read Virginia Rule of Evidence 2:406 (or the equivalent). Determine whether Virginia has adopted FRE 406's routine practice doctrine and whether any Virginia case applies it in a commercial context. Search the Fourth Circuit for securitization-specific opinions. Search bankruptcy courts for opinions addressing transfer documentation sufficiency in consumer receivables portfolios.
+
 **Cross-References.** Chapter 21 (Inference Classification), Section 21.6 and Section 21.10. Chapter 22 (Routine Securitization Practice), in full.
 
 ---
@@ -81,6 +83,8 @@ RSAF currently treats public securitization documents as structural evidence def
 
 **Research Priority.** Medium. Highly fact-dependent; relevant primarily where the plaintiff's relationship to the receivable is ambiguous.
 
+**Next Research Step.** Read the real-party-in-interest rule in Virginia (Va. R. Sup. Ct. 3:17 or equivalent). Search for Virginia cases addressing servicer authority in consumer collection actions. Read the servicer-authority provisions in the governing agreement for the specific case.
+
 **Cross-References.** Chapter 02 (Guiding Principles), Section 2.9. Chapter 06 (Burden of Proof). Chapter 13 (Virginia Law).
 
 ---
@@ -108,6 +112,8 @@ RSAF currently treats public securitization documents as structural evidence def
 **Confidence.** Low.
 
 **Research Priority.** Low. Relevant primarily in cases where the plaintiff invokes Delaware law as a defense to chain-of-title challenges.
+
+**Next Research Step.** Research Virginia choice-of-law doctrine (Restatement (Second) of Conflict of Laws as applied in Virginia) to determine whether Delaware's statutory true-sale characterization follows the transferred asset into Virginia litigation. Identify any Virginia cases where a Delaware-law true-sale argument was raised in a consumer collection action.
 
 **Cross-References.** Chapter 14 (Delaware Law). Chapter 15 (Federal Law).
 
