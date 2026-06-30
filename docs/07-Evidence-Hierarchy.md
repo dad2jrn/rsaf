@@ -2,63 +2,233 @@
 
 ## 7.1 Purpose
 
-Not all documents prove the same thing. RSAF classifies evidence according to what it can and cannot establish.
+Not all evidence proves the same thing. A monthly account statement proves something different from an executed assignment schedule. A prospectus supplement proves something different from a bill of sale. RSAF requires that each document in the evidentiary record be identified by what it can and cannot establish before any analytical conclusion is drawn from it.
 
-## 7.2 Ownership Evidence
+This chapter defines the categories of evidence that appear in consumer credit-card collection litigation, explains what each category may and may not prove, and provides the analytical tools for comparing produced evidence against required proof.
 
-High-value ownership evidence may include:
+---
 
-- Executed assignments.
-- Executed reassignments.
-- Bills of sale.
-- Account schedules identifying the defendant's account.
-- Collateral certificates.
-- Removal notices.
-- Authenticated transfer records.
+## 7.2 The Four Evidentiary Functions
 
-## 7.3 Servicing Evidence
+Evidence in receivable litigation typically serves one or more of four functions.
 
-Servicing evidence may include:
+**Authentication.** Establishing that a document is what it purports to be. Authentication is the threshold requirement for admissibility. It does not prove the truth of the document's contents.
 
-- Monthly statements.
-- Payment histories.
-- Charge-off records.
-- Internal account notes.
-- Collection records.
-- Custodian affidavits authenticating records.
+**Proof of account activity.** Establishing that transactions occurred, that a balance accumulated, that the account was charged off, and what the claimed balance is. Servicing records typically serve this function.
 
-Servicing evidence may show account activity or balance history. It does not necessarily prove ownership.
+**Proof of program structure.** Establishing how the plaintiff's securitization or transfer program operates, what documents govern it, who the participants are, and what transfers are permitted. Structural evidence serves this function.
 
-## 7.4 Structural Evidence
+**Proof of ownership.** Establishing who presently holds the legal right to enforce a specific receivable. This is the most demanding function and requires account-specific evidence tied to the defendant's receivable.
 
-Structural evidence may include:
+RSAF must identify which function each document serves before drawing any conclusion from it. A document that authenticates records does not thereby prove ownership. A document that describes program structure does not thereby prove what occurred with a specific account.
 
-- Prospectuses.
-- Prospectus supplements.
-- Corporate 10-Ks.
-- Trust 10-Ks.
-- RPAs.
-- TSAs.
-- PSAs.
-- Indentures.
-- Trust agreements.
-- UCC financing statements.
+---
 
-Structural evidence explains the program. It may identify the documentary path by which receivables are transferred and reacquired.
+## 7.3 Ownership Evidence
 
-## 7.5 Evidence Weight Table
+Ownership evidence establishes the plaintiff's present legal right to enforce the specific receivable at issue. It is the highest-value category for standing analysis.
 
-| Evidence Type | Typical Ownership Value | Typical Limitation |
-|---|---:|---|
-| Executed account-specific reassignment | High | Must be authenticated and linked to account |
-| Executed account-specific assignment | High | Must identify the receivable or account |
-| Bill of sale with schedule | High | Schedule must connect to defendant's account |
-| Generic bill of sale | Moderate to low | May not prove specific account transfer |
-| Monthly statements | Low for ownership | Shows account activity, not title |
-| Custodian affidavit | Variable | Often authenticates records, but may not prove ownership |
-| Prospectus | Structural | Program-level only |
-| TSA/RPA | Structural | Describes mechanics, not specific transfer unless executed schedule attached |
+Examples include:
 
-## 7.6 Key Analytical Question
+- executed assignments identifying the defendant's account or receivable by reference to the specific account number or a schedule that includes it;
+- executed reassignments returning the receivable from a trust or transferor to the plaintiff;
+- bills of sale accompanied by account schedules that identify the specific receivable;
+- collateral certificates identifying the receivable as included in a securitization interest;
+- account-specific removal notices documenting the receivable's exit from a trust pursuant to governing agreement procedures;
+- authenticated transfer records linking the specific receivable to the plaintiff through an unbroken chain.
 
-What does this document prove, and what does it not prove?
+**Foundation requirements.** For ownership evidence to satisfy the plaintiff's burden, it must generally:
+
+1. identify the specific receivable or account being transferred;
+2. identify the transferor and the transferee;
+3. be executed by an authorized party under the governing agreements;
+4. be authenticated through competent foundation testimony or a certified business-records declaration;
+5. be connected to the plaintiff's asserted chain of title.
+
+**What ownership evidence does not automatically establish.** An assignment that identifies a pool of receivables by general description does not automatically prove the defendant's specific receivable was included. An account schedule that lists receivables proves inclusion of those listed accounts but requires authentication and a showing that the defendant's specific account appears on the schedule as produced.
+
+---
+
+## 7.4 Servicing Evidence
+
+Servicing evidence reflects activity on the credit-card account. It includes records generated by the entity administering the account in the ordinary course of business.
+
+Examples include:
+
+- monthly account statements;
+- payment histories;
+- charge-off records and notices;
+- internal account notes and collection logs;
+- customer service communications;
+- electronic account records;
+- affidavits from records custodians authenticating the above.
+
+**What servicing evidence may establish.**
+
+Servicing evidence may establish:
+
+- that a credit-card account existed in the defendant's name;
+- that charges, fees, or interest accumulated on that account;
+- that payments were or were not made;
+- that the account was charged off at a particular date;
+- the claimed balance as of a particular date.
+
+**What servicing evidence does not establish.**
+
+Servicing evidence does not, standing alone, establish:
+
+- who presently owns the receivable;
+- whether the receivable was transferred or retained;
+- whether any transfer was completed through the procedures required by the governing agreements;
+- the plaintiff's present legal right to enforce the obligation.
+
+This limitation is foundational. A servicer may generate statements, receive payments, and maintain records without owning the receivable. The Constitution distinguishes servicing rights from ownership rights, and that distinction controls the evidentiary analysis.
+
+---
+
+## 7.5 Balance Evidence
+
+Balance evidence establishes the amount claimed. The plaintiff must prove not only its right to enforce the receivable but also the specific dollar amount it is entitled to recover.
+
+Balance evidence must satisfy several requirements:
+
+- the underlying records must be admissible, typically as business records;
+- the calculation methodology must be identified and supported;
+- authentication must be provided by a person with knowledge of the recordkeeping system or through a qualifying declaration;
+- where the account has passed through one or more transfers or servicer changes, the plaintiff must show the balance was accurately carried through each transition without unauthorized modification.
+
+Interest claims carry additional requirements: the contractual or statutory basis for the rate applied, the period over which interest was calculated, and the methodology used. A claimed interest amount that cannot be traced to a binding provision of the governing agreement does not satisfy the balance element.
+
+---
+
+## 7.6 Structural Evidence
+
+Structural evidence describes the legal and contractual framework under which the plaintiff's receivables program operates. It is evidence about the program, not about what occurred with any specific account.
+
+Examples include:
+
+- SEC prospectuses and prospectus supplements;
+- Receivables Purchase Agreements (RPAs);
+- Transfer and Servicing Agreements (TSAs);
+- Pooling and Servicing Agreements (PSAs);
+- Trust agreements and indentures;
+- Annual reports filed with the SEC on Form 10-K;
+- Corporate filings including 10-K and 10-Q;
+- UCC financing statements covering pools of receivables;
+- Regulatory disclosures.
+
+**What structural evidence may establish.**
+
+Structural evidence may establish:
+
+- the existence of a transfer program under which receivables are sold, assigned, or transferred;
+- the identities of the participants: originator, transferor, issuing trust, servicer, trustee;
+- the contractual path by which receivables move from originator to trust;
+- the types of documents required by the governing agreements to evidence each stage of transfer;
+- the procedures by which defaulted or ineligible receivables may be removed from a trust and reassigned.
+
+**What structural evidence does not establish.**
+
+Structural evidence does not establish:
+
+- that the defendant's specific receivable was transferred under the program;
+- that the defendant's receivable was never transferred;
+- that the plaintiff has followed the required procedures with respect to this receivable;
+- the plaintiff's present legal right to enforce this receivable.
+
+The distinction is the difference between proving that a process exists and proving that the process was followed for a specific account. Both are necessary; neither substitutes for the other.
+
+**The proper use of structural evidence.**
+
+RSAF uses structural evidence to define the evidentiary framework. When a plaintiff's governing agreements require specific documentation for each transfer, the absence of that documentation is significant. Structural evidence tells RSAF what proof should exist. The evidentiary record tells RSAF what proof does exist.
+
+---
+
+## 7.7 Authentication Requirements
+
+Authentication is the threshold requirement for admissibility. A document that cannot be properly authenticated cannot be offered as evidence regardless of what it purports to show.
+
+Authentication in consumer receivable litigation typically proceeds through one of the following methods:
+
+**Business records foundation.** The document is authenticated by a custodian or other qualified witness who testifies or certifies that: the record was made at or near the time of the activity recorded; it was made by someone with knowledge of the event, or from information transmitted by such a person; it was kept in the course of a regularly conducted business activity; and creating the record was a regular practice of that activity. The applicable rule is jurisdiction-specific but follows the common-law business records exception.
+
+**Personal knowledge.** A witness with personal knowledge of the underlying facts may authenticate a document through testimony identifying it.
+
+**Admission.** Authentication may be established by admission or stipulation of the opposing party.
+
+RSAF must identify, for each document in the evidentiary inventory, whether authentication has been established. A document produced in discovery is not automatically authenticated. A records custodian affidavit authenticates the records described in it but does not independently prove the truth of those records' contents or establish chain of title.
+
+---
+
+## 7.8 Acquired Records
+
+Where a plaintiff has obtained records from a prior entity — for example, a debt buyer that received the originator's account records with a portfolio purchase — additional authentication complexity arises.
+
+The receiving entity's custodian can authenticate records as business records of the receiving entity only if the receiving entity has integrated those records into its own regularly conducted business activities. Courts have scrutinized affidavits that authenticate records the affiant received rather than created. RSAF should identify whether the authenticating witness has personal knowledge of the originating entity's recordkeeping practices or whether the foundation is limited to the receiving entity's handling of the records.
+
+This is particularly significant when an affidavit purports to establish both the balance and the chain of title for a receivable purchased from an original creditor.
+
+---
+
+## 7.9 Evidence Weight Summary
+
+| Evidence Type | Function | Ownership Value | Key Limitation |
+|---|---|:---:|---|
+| Executed account-specific assignment | Transaction evidence | High | Must be authenticated; must identify the specific receivable |
+| Executed account-specific reassignment | Transaction evidence | High | Must document authorized return of specific receivable |
+| Bill of sale with account schedule | Transaction evidence | High (if schedule links to account) | Schedule must be authenticated and account identified on it |
+| Generic bill of sale without schedule | Transaction evidence | Low to moderate | May not prove transfer of specific account |
+| Account schedule without executed transfer | Transaction evidence | Variable | Must be tied to an executed transfer instrument |
+| Monthly statements | Servicing evidence | Low for ownership | Shows account activity, not title |
+| Payment history | Servicing evidence | Low for ownership | Relevant to balance; does not establish ownership |
+| Charge-off record | Servicing evidence | Low for ownership | Establishes default date and balance; does not establish title |
+| Custodian affidavit | Authentication | Variable | Authenticates the records described; does not prove ownership |
+| Prospectus / prospectus supplement | Structural evidence | Structural only | Program-level; does not prove specific-account transfer |
+| TSA / RPA | Structural evidence | Structural only | Describes mechanics; account-specific proof required |
+| UCC financing statement | Structural evidence | Structural only | Program-level perfection filing; does not prove account-specific transfer |
+| Collateral certificate | Transaction evidence | Moderate to high | Must identify account; foundation required |
+| Account-specific removal notice | Transaction evidence | High if specific | Must identify account and document authorized removal under governing agreements |
+
+---
+
+## 7.10 Admissibility vs. Weight
+
+RSAF maintains a consistent distinction between two separate questions about evidence.
+
+**Admissibility** is whether the evidence may be considered by the trier of fact at all. It requires authentication, satisfaction of hearsay exceptions where applicable, and compliance with applicable evidentiary rules. A document that is not admissible may not be relied upon regardless of what it appears to say.
+
+**Weight** is how much probative value the evidence carries on a particular issue if it is admitted. Even fully admitted evidence may carry little weight on a specific element. Monthly statements may be fully admissible as business records while carrying limited weight on the question of who currently owns the receivable.
+
+RSAF evaluates both dimensions. Identifying an admissibility deficiency is analytically distinct from identifying a gap in the weight of admissible evidence. Both types of deficiencies matter, but they implicate different legal arguments.
+
+---
+
+## 7.11 The Document-by-Document Analysis
+
+For each document in the evidentiary record, RSAF must determine:
+
+1. What does this document purport to be?
+2. Has it been authenticated? By whom? By what method?
+3. What function does it serve: authentication, account activity, program structure, or ownership?
+4. What can it prove? What can it not prove?
+5. What element of the plaintiff's claim does it bear upon?
+6. Does it establish that element, partially support it, or leave it unproven?
+7. Is the document account-specific or program-level?
+
+These questions apply to every document, including those produced mid-litigation, authenticated by agreement, or admitted without objection. Admission without objection does not change what a document proves; it only removes the admissibility barrier.
+
+---
+
+## 7.12 The Required Proof Matrix
+
+The Required Proof Matrix is the framework tool that connects the required proof — what must be proven under the governing law — to the produced proof — what the plaintiff has actually provided.
+
+To construct the Required Proof Matrix, RSAF:
+
+1. States each element of each claim asserted.
+2. Identifies what category and form of evidence would satisfy each element under the governing law.
+3. Identifies what evidence the plaintiff has actually produced.
+4. Assesses whether the produced evidence satisfies the element, partially satisfies it, or leaves it unproven.
+5. Identifies the gap precisely.
+
+The Required Proof Matrix does not draw legal conclusions. It structures the comparison that informs the legal conclusion. The conclusion — that the plaintiff has or has not met its burden — follows from the matrix in the burden assessment.
