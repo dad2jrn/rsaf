@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.6.0 — OLQ-001 Research Pass (2026-06-30)
+
+### Research Conducted
+
+**OLQ-001 — Routine Securitization Inference:** Initial research pass completed. Sources reviewed: Va. Code § 8.01-397.1 (Rule 2:406), *Kimberlin v. PM Transport, Inc.* (264 Va. 261, 2002), Federal Rule of Evidence 406, 12 C.F.R. § 360.6 (FDIC Safe Harbor), ASC 860, 17 C.F.R. Part 229 (Regulation AB), *Green v. Portfolio Recovery Associates* (80 Va.App. 119, 2024, en banc). OLQ-001 remains unresolved — no court has been identified applying routine practice evidence to securitization transfer inference in consumer collection litigation. Research added new support for Position A via the FDIC safe harbor regulatory requirement.
+
+### Updated Files
+
+- **docs/22-Routine-Securitization-Practice.md** — §22.4.1 updated with confirmed statutory text of Va. Code § 8.01-397.1 and *Kimberlin* analysis. New §22.4.4 added: FDIC regulatory framework (12 C.F.R. § 360.6) and its evidentiary implications for the routine practice argument. §22.7 Position 1 strengthened with FDIC safe harbor support. §22.8 converted from "research required" to "research status" with findings organized into authorities reviewed (§22.8.1), authorities still needed (§22.8.2), and updated RSAF position (§22.8.3).
+- **OPEN-LEGAL-QUESTIONS.md** — OLQ-001 entry substantially updated: "Authorities Reviewed" expanded with confirmed research findings; "Authorities Still Needed" narrowed to what genuinely remains open; "Current RSAF Position" updated to incorporate FDIC safe harbor finding; confidence and next research step updated.
+- **docs/08-Program-vs-Account-Level-Evidence.md** — §8.6 updated to note that the "plaintiff's own framework" extends to regulatory obligations: 12 C.F.R. § 360.6 required the bank to separately identify transferred assets in its databases.
+
+### RSAF Position Unchanged
+
+The conservative default is unchanged: program-level evidence alone does not establish that a specific receivable was transferred. The research strengthens this default by identifying the FDIC regulatory counterpoint but does not resolve OLQ-001.
+
+---
+
 ## 0.5.0 — Usability Pass 1 (2026-06-30)
 
 ### New Resources

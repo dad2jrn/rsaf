@@ -33,13 +33,13 @@ Each OLQ entry (OLQ-001, OLQ-002, OLQ-003) now includes a "Next Research Step" f
 
 The following is ordered by impact on the quality and usability of RSAF. Work that is merely incomplete is not recommended here unless it materially increases quality.
 
-### 1. Research OLQ-001 (Routine Securitization Inference) — High Priority
+### 1. Continue Research on OLQ-001 (Routine Securitization Inference) — High Priority
 
-This is the single highest-value research task. The routine practice inference question (OPEN-LEGAL-QUESTIONS.md OLQ-001) affects the outcome of every case in which the plaintiff relies on program-level evidence without producing account-specific transfer documentation.
+An initial research pass has been completed. Va. Code § 8.01-397.1 (Rule 2:406) confirmed; *Kimberlin v. PM Transport, Inc.* (264 Va. 261, 2002) identified as leading Virginia authority; FDIC Safe Harbor (12 C.F.R. § 360.6) reviewed and found to cut against the routine practice inference; ASC 860 and Regulation AB reviewed. No court opinion identified applying the routine practice doctrine to securitization transfer inference in consumer collection litigation — for or against.
 
-**Next research step:** Locate and read Virginia Rule of Evidence 2:406. Determine whether Virginia recognizes the routine practice doctrine in the commercial context. Search Fourth Circuit opinions for securitization-specific sufficiency analysis. Search bankruptcy court opinions for transfer documentation sufficiency in consumer receivables.
+OLQ-001 remains unresolved. The conservative default is unchanged. Chapter 22, OPEN-LEGAL-QUESTIONS.md, and Chapter 08 have been updated to reflect findings.
 
-When this research is complete, update Chapter 22, OPEN-LEGAL-QUESTIONS.md, and potentially Chapter 08 and Chapter 05.
+**Next research step:** Search Virginia circuit court and bankruptcy court opinions for any application of Va. Code § 8.01-397.1 to commercial or financial organizations. Search bankruptcy courts in the Fourth Circuit for proof-of-claim opinions addressing transfer documentation sufficiency for securitized consumer debt. Search Fourth Circuit civil opinions for any treatment of pool-level assignment documentation and specific-account standing. Consider PACER search for bankruptcy court opinions on securitized credit card debt ownership disputes.
 
 ### 2. Chase Bank Playbook — Medium Priority
 
@@ -93,7 +93,7 @@ After Chase, the priority order is: Citi, Synchrony, Discover, Wells Fargo, Amer
 | Bank playbooks — substantive | Bank of America, Capital One |
 | Bank playbooks — stub/not started | Chase, Citi, Synchrony, Discover, Wells Fargo, American Express |
 | Templates | 4 (answer, discovery, motion to compel arbitration, debt verification) |
-| Outstanding research | OLQ-001 (routine securitization inference) — high priority |
+| Outstanding research | OLQ-001 (initial pass complete; follow-up research needed) — high priority |
 | Unresolved architectural issue | None |
 
 ---
