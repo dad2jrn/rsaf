@@ -1,6 +1,6 @@
 # Capital One Playbook
 
-**Status:** Substantive draft — based on public SEC filings; verify all citations before court use  
+**Status:** Structural draft — expected program structure based on public SEC filings; EDGAR research required before any factual proposition can be relied upon  
 **Version:** 0.2.0
 
 ---

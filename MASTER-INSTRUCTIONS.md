@@ -145,11 +145,12 @@ Before any case analysis is considered complete, verify each of the following:
 - [ ] Governing law confirmed for each issue (procedural, substantive, commercial, arbitration).
 - [ ] All relevant entities identified (originator, depositor, trust, servicer, trustee, purchaser, current plaintiff).
 - [ ] Account-level and program-level evidence separated and catalogued.
-- [ ] Evidence classifications completed (proven fact, reasonable inference, legal inference, alternative explanation, open legal question, or speculation).
-- [ ] Alternative explanations considered for evidence that is consistent with more than one interpretation.
+- [ ] Evidence classifications completed (proven fact, supported documentary inference, legal inference, competing explanation, open legal question, or speculation).
+- [ ] Competing explanations considered for evidence that is consistent with more than one interpretation.
 - [ ] Controlling authority researched before legal conclusions reached.
 - [ ] No unsupported inference presented as established fact.
 - [ ] Requested relief aligned with procedural posture and stated theory.
 - [ ] Analysis is bank-neutral unless a verified bank-specific playbook is being applied to a confirmed program structure.
 - [ ] All citations verified against primary sources.
+- [ ] All cited cases verified to confirm they have not been vacated, overruled, reversed on appeal, or superseded by subsequent authority.
 - [ ] Evidentiary gaps described precisely: what is missing, why it is required, what follows from its absence under the plaintiff's burden.

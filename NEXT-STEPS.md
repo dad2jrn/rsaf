@@ -110,7 +110,7 @@ After Chase, the priority order is: Citi, Synchrony, Discover, Wells Fargo, Amer
 | Judge's Checklists | Added to all analytical chapters |
 | Glossary | Created |
 | Open legal questions | 3 documented (OLQ-001 through OLQ-003) |
-| Bank playbooks — substantive | Bank of America, Capital One |
+| Bank playbooks — structural draft | Bank of America, Capital One |
 | Bank playbooks — research stub | Chase, Citi, Synchrony, Discover, Wells Fargo, American Express |
 | Templates | 4 (answer, discovery, motion to compel arbitration, debt verification) |
 | Outstanding research | OLQ-001 (initial pass complete; follow-up research needed) — high priority |

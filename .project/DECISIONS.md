@@ -18,7 +18,11 @@ This document records major design decisions made during RSAF development. Each 
 
 **Decision:** RSAF advances both the standing challenge and the failure-of-proof-on-the-merits challenge, and requires both framings to be preserved. RSAF does not force the analysis into a single frame.
 
-**Rationale:** Green v. Portfolio Recovery Associates, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) established that Virginia courts may treat ownership as a merits element rather than a threshold standing gate. A pure standing framing may fail at summary judgment even on thin evidence if a factual dispute exists. A merits failure-of-proof framing is not defeated by a factual dispute — it requires the plaintiff to prove ownership with competent evidence at trial. Preserving both framings prevents waiver of either argument.
+**Rationale:** Green v. Portfolio Recovery Associates, Record No. 0144-22-3 (Va. Ct. App. Dec. 17, 2024) (en banc), decided the procedural framing question: Virginia courts may treat ownership as a merits element rather than a threshold standing gate. The en banc court affirmed judgment for PRA — the plaintiff won. The holding is confined to that procedural point and does not address what documentation is legally sufficient to prove ownership.
+
+The court did not decide whether generic bills of sale without account-specific schedules satisfy the chain-of-title evidentiary standard. It did not address the routine securitization inference or establish any evidentiary threshold for tracing a specific receivable through a securitization structure. RSAF's account-specific documentation requirements are analytically independent of Green v. PRA — the case simply did not reach those questions.
+
+A pure standing framing may fail at summary judgment even on thin evidence if a factual dispute exists. A merits failure-of-proof framing is not defeated by a factual dispute — it requires the plaintiff to prove ownership with competent evidence at trial. Preserving both framings prevents waiver of either argument.
 
 ---
 

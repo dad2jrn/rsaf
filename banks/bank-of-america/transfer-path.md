@@ -1,6 +1,6 @@
 # Bank of America — Transfer Path Analysis
 
-**Status:** Structural framework — verify all governing document references against EDGAR before use  
+**Status:** Structural draft — expected transfer path based on public SEC filings; EDGAR research required before any factual proposition can be relied upon  
 **Version:** 0.2.0
 
 ---

@@ -27,7 +27,7 @@ Everything else in RSAF exists to answer that question.
 
 ## 0.3 Scope
 
-RSAF covers consumer credit-card collection litigation involving Virginia procedure, Delaware law where selected by the cardmember agreement, and applicable federal law. Bank-specific playbooks for Bank of America and Capital One are at substantive draft level; playbooks for Chase, Citi, Discover, Synchrony, Wells Fargo, and American Express are research stubs requiring EDGAR research before use.
+RSAF covers consumer credit-card collection litigation involving Virginia procedure, Delaware law where selected by the cardmember agreement, and applicable federal law. Bank-specific playbooks for Bank of America and Capital One are at structural draft level (EDGAR research required); playbooks for Chase, Citi, Discover, Synchrony, Wells Fargo, and American Express are research stubs requiring EDGAR research before use.
 
 RSAF is designed to work regardless of which bank originated the account, whether a securitization program is involved, or whether the plaintiff is an original creditor, a servicer, an assignee, a debt buyer, or another entity claiming the right to enforce. The core methodology does not assume any particular transfer path or enforcement theory. RSAF is bank-neutral but currently jurisdiction-scoped to Virginia procedure and Delaware or federal substantive law; matters in other forums require jurisdiction-specific research not yet contained in this framework.
 
@@ -134,8 +134,8 @@ RSAF includes bank-specific playbooks in the `banks/` directory. Each playbook i
 
 | Bank | Status | Notes |
 |---|---|---|
-| Bank of America | Substantive draft | Two-tier trust; FIA/MBNA predecessor chain; research required |
-| Capital One | Substantive draft | Virginia LLC depositor; COMT/COMET distinction; PSA §§ 6.01/6.02 |
+| Bank of America | Structural draft | Two-tier trust; FIA/MBNA predecessor chain; research required |
+| Capital One | Structural draft | Virginia LLC depositor; COMT/COMET distinction; PSA §§ 6.01/6.02 |
 | Chase | Research stub | EDGAR research required; substantive verified playbook does not exist |
 | Citi | Research stub | EDGAR research required; substantive verified playbook does not exist |
 | Discover | Research stub | EDGAR research required; substantive verified playbook does not exist |

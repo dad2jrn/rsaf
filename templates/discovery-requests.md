@@ -106,6 +106,8 @@
 
 **Interrogatory 8.** [Capital One only] State whether the originating account was originated by Capital One Bank (USA), N.A. or by Capital One, N.A., and state the basis for Plaintiff's answer.
 
+**Interrogatory 9.** [Bank of America only] State whether the originating account was originated by Bank of America, N.A., FIA Card Services, N.A., or MBNA America Bank, N.A., and state the basis for Plaintiff's answer, including the identity of any corporate succession documents (merger certificates, name-change documents, or FDIC bank data records) on which Plaintiff relies to establish the relationship between the originating entity and the current plaintiff or servicer.
+
 ---
 
 ## Part 3 — Requests for Admission
