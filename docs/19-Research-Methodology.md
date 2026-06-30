@@ -329,3 +329,26 @@ A court-facing document that presents an open question as settled may draw a cre
 **Do not mistake the absence of contrary authority for affirmative authority.** RSAF has not found a Virginia case holding that routine securitization practice creates an inference of specific transfer. The absence of such a case does not establish the inference. It establishes only that the question has not been directly addressed in a reported Virginia decision.
 
 For the current open questions being researched under this methodology, see OPEN-LEGAL-QUESTIONS.md.
+
+---
+
+## Judge's Checklist
+
+**Before relying on any cited authority:**
+
+- [ ] Is the citation real and verified against the primary source?
+- [ ] Has subsequent history been checked?
+- [ ] Is the authority's binding or persuasive status accurately stated?
+- [ ] Is the citation used for a proposition the case actually holds?
+
+**On open legal questions:**
+
+- [ ] Has the analysis distinguished between factual gaps (missing evidence) and legal gaps (unsettled law)?
+- [ ] Is any unsettled question of law identified as open, with the competing positions stated?
+- [ ] Is any assertion of settled law supported by binding primary authority — or is it based on assumption?
+
+**On the research standard:**
+
+- [ ] Have statutes been verified against the current official text?
+- [ ] Have cases been read directly — not summarized from secondary sources?
+- [ ] Is each proposition supported by the level of authority stated?

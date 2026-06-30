@@ -110,31 +110,16 @@ The current RSAF position is that, absent clear governing authority recognizing 
 
 The following possible legal inferences arise from the documented routine securitization practice. They are identified here for research purposes. RSAF does not presently adopt any of them as established legal positions.
 
-**Possible Inference A: The transfer occurred.**
-
-From proof that a bank routinely transferred all eligible receivables, and proof that the defendant's receivable met the eligibility criteria, a court might draw the inference that the specific receivable was transferred.
-
-Status: Open legal question. Depends on whether governing law recognizes routine practice evidence in this context and whether the predicate can be established. See Section 22.8.
-
-**Possible Inference B: The bank did not retain the receivable.**
-
-From proof that the bank's practice was to transfer all eligible receivables, a court might draw the inference that the bank did not retain this specific receivable absent evidence of exclusion.
-
-Status: Open legal question. This framing shifts the analytical burden toward asking whether the bank has shown retention rather than whether the trust has shown transfer. Whether this inference is available depends on governing law and how the burden is allocated.
-
-**Possible Inference C: The receivable was removed from the trust after charge-off.**
-
-From proof that the bank's routine practice was to remove charged-off receivables from the trust under the governing agreements, a court might infer that this charged-off receivable was so removed.
-
-Status: Open legal question. Depends on the same routine practice doctrine analysis and on the specific terms of the governing agreement's removal procedures. Even if inference A were accepted, inference C requires a separate step.
-
-**Possible Inference D: The bank reacquired the receivable after removal.**
-
-From proof that the bank received reassigned receivables from the trust upon removal, a court might infer that this specific receivable was reassigned to the bank.
-
-Status: Open legal question. Requires the same underlying analysis and an additional link in the chain. Even if inferences A and C were both accepted, inference D requires still further proof or inference.
+| Inference | Argument | Status | What It Would Still Leave Open |
+|---|---|---|---|
+| **A: Transfer occurred** | Bank routinely transferred all eligible receivables + defendant's receivable was eligible → this receivable was transferred | Open — depends on governing law and whether predicate established | Even if accepted, does not prove current holder |
+| **B: Bank did not retain** | Bank's practice was to transfer all eligible receivables → bank did not retain this receivable absent exclusion evidence | Open — may shift analytical burden; depends on how governing law allocates burden | Does not establish who currently holds the receivable |
+| **C: Receivable removed after charge-off** | Bank's routine practice was to remove charged-off receivables under governing agreement → this receivable was removed | Open — requires inference A to be accepted first, plus separate analysis of removal procedures | Does not prove reassignment to plaintiff |
+| **D: Bank reacquired receivable** | Bank received reassigned receivables upon removal → this receivable was reassigned to the bank | Open — requires inferences A and C to be accepted first, plus further analysis | Does not prove transfer from bank to current plaintiff if plaintiff is a successor |
 
 None of these possible inferences is currently adopted by RSAF as a position. Each requires independent research and authority before it could be incorporated into the framework. Each is also subject to rebuttal by account-specific evidence showing that the receivable was not, in fact, treated in the routine manner.
+
+Note also that these inferences are cumulative — each depends on the prior one. Even if a court accepted Inference A (the transfer occurred), the plaintiff would still need Inference C (removal) and Inference D (reacquisition) to establish its current enforcement right if the receivable passed through the securitization structure. Accepting the first inference does not automatically resolve the chain.
 
 ---
 

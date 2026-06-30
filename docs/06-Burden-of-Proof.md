@@ -8,6 +8,32 @@ This rule reflects the fundamental structure of civil litigation: the party seek
 
 ---
 
+## 6.1A Burden Flow — At a Glance
+
+```text
+Plaintiff files suit
+        │
+        ▼
+Plaintiff bears burden on every element
+        │
+        ├─────────────────────────────────┐
+        ▼                                 ▼
+Standing framing                  Failure-of-proof framing
+(plaintiff lacks right to sue)    (plaintiff didn't prove ownership at trial)
+        │                                 │
+        ▼                                 ▼
+Raise at pleading stage           Raise in parallel at every stage
+and summary judgment              through trial
+        │                                 │
+        ▼                                 ▼
+May fail at SJ if plaintiff       Requires plaintiff to prove
+shows factual dispute exists      with account-specific evidence at trial
+```
+
+Both framings must be preserved. Neither should be waived.
+
+---
+
 ## 6.2 Standing as an Element — and the Merits Framing Distinction
 
 Where standing or ownership is contested, the plaintiff's present legal right to enforce the receivable is a required element that must be proven by competent evidence.
