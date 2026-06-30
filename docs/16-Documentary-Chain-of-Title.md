@@ -149,3 +149,31 @@ RSAF's chain-of-title analysis proceeds as follows.
 6. **State the consequence** — under the plaintiff's burden, an unproven link means the chain of title is not established on the current record.
 
 The chain-of-title analysis feeds directly into the burden assessment in Chapter 05. A plaintiff that cannot produce a complete, authenticated, account-specific chain has not satisfied its burden on the standing element.
+
+---
+
+## Judge's Checklist
+
+**Link by link:**
+
+- [ ] **Link 1 (Bank → Transferor):** Has plaintiff produced an executed RPA plus an account schedule or equivalent identifying this specific receivable?
+- [ ] **Link 2 (Transferor → Trust):** Has plaintiff produced an executed TSA or PSA plus account-specific evidence that this receivable entered the trust?
+- [ ] **Link 3 (Removal from Trust):** Has plaintiff produced an account-specific removal notice identifying this receivable and the authority under which removal occurred?
+- [ ] **Link 4 (Reassignment from Trust):** Has plaintiff produced an executed reassignment instrument identifying this receivable?
+- [ ] **Link 5 (Trust/Transferor → Current Plaintiff):** If the plaintiff is not the entity that received the reassigned receivable, what document conveys it to the plaintiff?
+
+**On chain deficiencies:**
+
+- [ ] Is there any link in the chain supported only by program-level (structural) evidence, without account-specific documentation?
+- [ ] Is there a link supported only by an affidavit assertion of ownership rather than underlying transfer documents?
+- [ ] Is there a gap between an intermediate entity and the current plaintiff?
+
+**The bottom-line question:**
+
+- [ ] Tracing from the originating bank to the current plaintiff: is every link documented by an authenticated, account-specific instrument that identifies this receivable?
+- [ ] If not: identify which link is missing and state the evidentiary consequence under the plaintiff's burden.
+
+**What RSAF does not do:**
+
+- [ ] Fill gaps with inference. A missing link means the chain is incomplete on the current record.
+- [ ] Conclude the transfer did not occur. RSAF identifies the gap; the court determines the legal consequence.

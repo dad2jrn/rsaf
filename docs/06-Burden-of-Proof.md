@@ -181,3 +181,35 @@ The burden of proof does not change as a case progresses. What changes is the pr
 **Trial or arbitration.** The plaintiff must prove each element by the applicable standard — ordinarily a preponderance of the evidence in a civil collection action. At trial, the evidentiary rules apply in full.
 
 RSAF must calibrate its analysis to the procedural stage. An analysis of whether a complaint states a claim is materially different from an analysis of whether the evidentiary record supports summary judgment, which is again different from evaluating the sufficiency of proof at trial. Each stage requires its own assessment.
+
+---
+
+## Judge's Checklist
+
+**On the burden of proof:**
+
+- [ ] Has the plaintiff identified every element it must prove?
+- [ ] Has the plaintiff identified which theory of recovery it is asserting (breach of contract, account stated, unjust enrichment, open account)?
+- [ ] Has the plaintiff addressed the standing element separately from the balance element?
+
+**On standing:**
+
+- [ ] Has the plaintiff produced account-specific evidence — not program-level documents — establishing its present legal right to enforce this receivable?
+- [ ] Is the plaintiff asserting retention (never transferred) or reacquisition (transferred and returned)?
+- [ ] If retention: what evidence shows this receivable was excluded from or retained out of the securitization program?
+- [ ] If reacquisition: what account-specific evidence documents removal from the trust and reassignment to the plaintiff?
+
+**On the standing/merits distinction:**
+
+- [ ] Is the challenge framed as standing (right to be in court) or failure of proof (burden not met at trial)?
+- [ ] Has the defendant preserved both framings?
+
+**On the burden rule:**
+
+- [ ] Does the analysis ever require the defendant to prove a negative?
+- [ ] If yes: correct the formulation. The plaintiff bears the burden on every element.
+
+**On the procedural stage:**
+
+- [ ] Is the analysis calibrated to the current stage (pleading, summary judgment, or trial)?
+- [ ] If at summary judgment: has the plaintiff offered admissible evidence — not mere allegations — on the standing element?

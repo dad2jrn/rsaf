@@ -170,3 +170,36 @@ The bank typically continues to manage the accounts as servicer, sending stateme
 When a bank or related entity later sues to collect a defaulted credit-card balance, the question arises: does the plaintiff still own the right to receive payment, or was that right transferred to a trust? If transferred, was it returned before the lawsuit was filed?
 
 Monthly statements show that an account existed. They do not necessarily show who currently owns the right to collect the balance. That ownership question is answered by the documents that record the transfer path — and the absence of such documents is an evidentiary gap on the standing element.
+
+---
+
+## Judge's Checklist
+
+**On the basic structure:**
+
+- [ ] Is the plaintiff the originating bank, the securitization transferor, the issuing trust, or a third-party purchaser?
+- [ ] Does the plaintiff's role in the securitization structure align with its claim of current ownership?
+- [ ] Is the plaintiff the servicer of this account, the owner, or both?
+
+**On the transfer path:**
+
+- [ ] What is the structural transfer path for this plaintiff's securitization program?
+- [ ] At what point in the path does the plaintiff claim ownership?
+- [ ] What account-specific evidence supports that position?
+
+**On the servicer/owner distinction:**
+
+- [ ] Has the plaintiff produced account records generated in the name of the originating bank or servicer?
+- [ ] If so: those records establish servicing activity. They do not establish that the servicer currently owns the receivable.
+- [ ] Has the plaintiff addressed whether it is the servicer, the owner, or both?
+
+**On the ownership theory:**
+
+- [ ] Is the plaintiff asserting retention (receivable was never transferred into the securitization program)?
+- [ ] Or reacquisition (receivable was transferred and later removed and reassigned)?
+- [ ] What account-specific evidence supports the asserted theory?
+
+**For judges unfamiliar with securitization:**
+
+- [ ] The bank's name on the statements does not mean the bank owns the receivable. Banks commonly service accounts they no longer own.
+- [ ] The relevant question is not who sent the statements but who currently holds the right to receive payment — and whether they have proven that right with competent evidence.

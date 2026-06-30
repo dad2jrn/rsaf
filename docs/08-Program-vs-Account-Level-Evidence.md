@@ -165,3 +165,34 @@ For each piece of account-level evidence, RSAF identifies:
 - whether it is linked to an executed transfer instrument.
 
 The comparison between the required account-level evidence (identified using the program documents) and the produced account-level evidence (the evidentiary record) defines the evidentiary gap or, if the record is complete, the basis for the conclusion that the plaintiff has met its burden.
+
+---
+
+## Judge's Checklist
+
+**On program-level evidence:**
+
+- [ ] What program-level documents has the plaintiff produced (prospectus, TSA, PSA, RPA)?
+- [ ] Do those documents identify what account-specific proof should exist at each transfer step?
+- [ ] Has the plaintiff produced that account-specific proof?
+
+**On account-level evidence:**
+
+- [ ] Does any produced document specifically identify the defendant's account or receivable?
+- [ ] Is it tied to an executed transfer instrument?
+- [ ] Has it been authenticated?
+
+**The critical question:**
+
+- [ ] Is the plaintiff relying on program-level evidence alone to establish that this specific receivable was transferred or retained?
+- [ ] If yes: program-level evidence defines the plaintiff's own transfer framework. It does not prove that the defendant's specific receivable was handled in accordance with that framework.
+
+**On the "plaintiff's own framework" principle:**
+
+- [ ] The plaintiff's own governing agreements specify what documentation a transfer requires. Has the plaintiff produced that documentation?
+- [ ] If the plaintiff's governing documents require an executed account schedule for each transfer and the plaintiff has not produced one: the plaintiff has not met its own stated standard.
+
+**On the routine practice open question:**
+
+- [ ] Is the plaintiff arguing that its documented routine practice of transferring eligible receivables creates an inference of transfer for this receivable?
+- [ ] That question is currently unresolved under Virginia and Fourth Circuit law. See Chapter 22 and OPEN-LEGAL-QUESTIONS.md (OLQ-001) before treating this as settled.

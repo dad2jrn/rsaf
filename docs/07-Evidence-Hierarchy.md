@@ -219,6 +219,38 @@ These questions apply to every document, including those produced mid-litigation
 
 ---
 
+## Judge's Checklist
+
+**For each document in the evidentiary record:**
+
+- [ ] What type of evidence is this: ownership, servicing, balance, or structural?
+- [ ] Has it been properly authenticated? By whom? By what method?
+- [ ] Is it account-specific, or does it describe only the plaintiff's program generally?
+- [ ] If it is structural (program-level): what account-specific documentation should accompany it?
+
+**On ownership:**
+
+- [ ] Has the plaintiff produced account-specific evidence of its present legal right to enforce — executed transfer instruments identifying this receivable?
+- [ ] Or is the plaintiff relying on servicing records and program documents alone?
+
+**On servicing records:**
+
+- [ ] Monthly statements, payment histories, and affidavits establish account activity. Do they establish who currently owns the receivable?
+- [ ] The entity that generates statements may be the servicer, not the owner. Has that distinction been addressed?
+
+**On the Required Proof Matrix:**
+
+- [ ] Has the Required Proof Matrix been populated for each element of each claim?
+- [ ] Where the matrix shows a gap, what is the specific missing document?
+- [ ] Is the gap on a required element, or on a collateral issue?
+
+**On authentication:**
+
+- [ ] Can each document be authenticated under the applicable evidence rule?
+- [ ] For acquired records: does the custodian have knowledge of the originating entity's recordkeeping practices, or only the receiving entity's?
+
+---
+
 ## 7.12 The Required Proof Matrix
 
 The Required Proof Matrix is the framework tool that connects the required proof — what must be proven under the governing law — to the produced proof — what the plaintiff has actually provided.
