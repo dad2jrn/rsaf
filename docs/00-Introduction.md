@@ -1,7 +1,7 @@
 # 00 — Introduction
 
 **Status:** Current  
-**Version:** 0.4.0
+**Version:** 0.6.0
 
 ---
 
@@ -27,9 +27,9 @@ Everything else in RSAF exists to answer that question.
 
 ## 0.3 Scope
 
-Version 0.2 focuses on consumer credit-card collection litigation involving Virginia procedure, Delaware law where selected by the cardmember agreement, and applicable federal law. Bank-specific playbooks cover Bank of America, Capital One, Chase, Citi, Discover, Synchrony, Wells Fargo, and American Express.
+RSAF covers consumer credit-card collection litigation involving Virginia procedure, Delaware law where selected by the cardmember agreement, and applicable federal law. Bank-specific playbooks for Bank of America and Capital One are at substantive draft level; playbooks for Chase, Citi, Discover, Synchrony, Wells Fargo, and American Express are research stubs requiring EDGAR research before use.
 
-RSAF is designed for matters involving original creditors, debt buyers, banks acting as servicers, and entities that claim the right to enforce unpaid credit-card balances.
+RSAF is designed to work regardless of which bank originated the account, whether a securitization program is involved, or whether the plaintiff is an original creditor, a servicer, an assignee, a debt buyer, or another entity claiming the right to enforce. The core methodology does not assume any particular transfer path or enforcement theory.
 
 ---
 
@@ -147,16 +147,17 @@ RSAF includes bank-specific playbooks in the `banks/` directory. Each playbook i
 
 ## 0.10 How to Use RSAF on a New Matter
 
-1. **Read Chapter 05 (Legal Methodology).** The complete analytical pipeline. Identify the claim, the forum, and the governing law.
-2. **Identify the plaintiff's enforcement theory (Chapter 20).** Before evaluating evidence, determine what legal right the plaintiff is asserting and how it claims to hold it.
-3. **Identify the originating bank.** Pull the applicable bank playbook from `banks/`.
-4. **Apply the securitization primer (Chapter 09)** and the receivable life cycle (Chapter 10) to understand what documents should exist at each stage.
-5. **Catalog the evidence produced.** Apply Chapter 07 (Evidence Hierarchy) and Chapter 08 (Program vs. Account-Level Evidence) to classify each document.
-6. **Classify each inference (Chapter 21).** For every conclusion drawn from the evidence, identify whether it is a proven fact, supported inference, legal inference, competing explanation, open question, or speculation.
-7. **Evaluate the chain of title (Chapter 16).** Identify which links are supported by account-specific evidence and which are gaps.
-8. **Apply the burden (Chapter 06).** State what is unproven, why it is required, and what follows under the plaintiff's burden.
-9. **Apply the applicable law.** Use Chapter 13 (Virginia), Chapter 14 (Delaware), or Chapter 15 (Federal) as the forum requires.
-10. **Check citation integrity (Chapter 12)** before relying on any case, statute, or filing.
-11. **Draft only if requested (Chapter 11).** Court-facing documents are produced only when explicitly requested.
+1. **Identify the procedural posture and requested outcome.** What has been filed, where is the case, and what does the user need?
+2. **Identify governing law and choice-of-law provisions (Chapter 05, §5.5).** Procedural law, substantive law, commercial law, and arbitration law may each point to a different jurisdiction.
+3. **Identify the plaintiff and each relevant entity.** Originator, depositor, trust, servicer, trustee, purchaser, current plaintiff — identify all of them before evaluating any theory.
+4. **Identify the plaintiff's asserted present legal right to enforce (Chapter 20).** Determine what legal basis the plaintiff is claiming before evaluating the evidence. Do not assume ownership is the only possible theory.
+5. **Identify the possible enforcement theories supported by the record.** More than one theory may be available or may have been implicitly asserted. Evaluate what the record can and cannot support under each.
+6. **Inventory all evidence and classify it (Chapter 07, Chapter 08).** Separate account-level evidence from program-level evidence. Apply Chapter 21 to classify each conclusion as proven fact, reasonable inference, legal inference, alternative explanation, open legal question, or speculation.
+7. **Determine what documents are required to prove the asserted theory.** Use the plaintiff's own governing agreements and the applicable law to identify what proof should exist at each step. Apply Chapter 16 for chain-of-title analysis.
+8. **Identify proof gaps, inconsistencies, and missing links.** Compare what is required to what has been produced. State each gap precisely.
+9. **Apply the burden of proof (Chapter 06).** State what is unproven, why it is required, and what follows under the plaintiff's burden.
+10. **Research controlling authority before reaching legal conclusions (Chapter 19, Chapter 12).** Check citations against primary sources. Do not extend holdings beyond what the case supports.
+11. **Apply the applicable law.** Use Chapter 13 (Virginia), Chapter 14 (Delaware), or Chapter 15 (Federal) as the forum requires.
+12. **Draft only if requested (Chapter 11).** Court-facing documents are produced only when explicitly requested. Verify all checklist items in MASTER-INSTRUCTIONS.md before finalizing any analysis.
 
 **Unfamiliar terms:** See Glossary.md for plain-language definitions. See .project/TERMINOLOGY.md for the complete canonical term list.

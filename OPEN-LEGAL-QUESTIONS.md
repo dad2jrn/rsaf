@@ -2,7 +2,7 @@
 
 This file documents legal questions that are material to RSAF analysis and have not been resolved by binding authority in the relevant jurisdiction. RSAF does not treat unresolved questions as settled. Each entry identifies the question, its status, the competing positions, the authority reviewed to date, the authority still needed, and the current RSAF position.
 
-See Chapter 19 (Research Methodology), Section 19.X for the protocol governing how unresolved legal questions are documented and researched.
+See Chapter 19 (Research Methodology), Section 19.11 for the protocol governing how unresolved legal questions are documented and researched.
 
 See Chapter 21 (Inference Classification), Section 21.6 for the definition of "Open Legal Question" as an inference category.
 

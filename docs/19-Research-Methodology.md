@@ -1,6 +1,6 @@
 # 19 — Research Methodology
 
-## 18.1 Purpose
+## 19.1 Purpose
 
 This chapter explains how RSAF finds, evaluates, classifies, and applies legal authority. Citation integrity — covered in Chapter 12 — governs what may be cited and how it must be characterized. This chapter governs the process of locating and verifying that authority before it is used.
 
@@ -8,7 +8,7 @@ The research methodology is not optional. Work product built on unverified autho
 
 ---
 
-## 18.2 The Authority Hierarchy in Practice
+## 19.2 The Authority Hierarchy in Practice
 
 RSAF applies the following hierarchy when researching any legal question. Higher sources control over lower ones. Each source within a tier must be identified and verified before citation.
 
@@ -36,9 +36,9 @@ An inference drawn from the structure of a securitization program is not law. It
 
 ---
 
-## 18.3 Researching Case Law
+## 19.3 Researching Case Law
 
-### 18.3.1 Finding Binding Authority
+### 19.3.1 Finding Binding Authority
 
 Binding authority for a Virginia proceeding includes:
 
@@ -57,7 +57,7 @@ Before citing any appellate decision:
 
 **The Green v. PRA lesson.** The original panel decision in *Green v. Portfolio Recovery Associates* was reversed by the en banc court. Citing the panel opinion as authority without disclosing its vacated status would have been a material misrepresentation. Always check subsequent history before relying on any decision. See Chapter 12 for the full citation and holding.
 
-### 18.3.2 Finding Persuasive Authority
+### 19.3.2 Finding Persuasive Authority
 
 Persuasive authority includes decisions from other circuits, other state courts, and federal district courts. RSAF may cite persuasive authority, but must:
 
@@ -65,7 +65,7 @@ Persuasive authority includes decisions from other circuits, other state courts,
 - explain why it is persuasive and what proposition it supports;
 - not cite it as establishing settled law on a contested issue.
 
-### 18.3.3 Research Tools
+### 19.3.3 Research Tools
 
 **Westlaw and Lexis.** The most reliable sources for verified case law, statutory text, and subsequent history. Use the "Citing References" or "KeyCite" feature to confirm no adverse subsequent history.
 
@@ -77,7 +77,7 @@ Persuasive authority includes decisions from other circuits, other state courts,
 
 ---
 
-## 18.4 Researching Statutes
+## 19.4 Researching Statutes
 
 Statutes must be verified against the current official text. Statutory text changes. A citation to a provision that has been amended or repealed is an error.
 
@@ -96,11 +96,11 @@ Statutes must be verified against the current official text. Statutory text chan
 
 ---
 
-## 18.5 Researching Governing Agreements and SEC Filings
+## 19.5 Researching Governing Agreements and SEC Filings
 
 The plaintiff's own public securitization documents are a critical source of authority in RSAF analysis. They are not invented; they are the plaintiff's representations to regulators and investors. They are available at no cost through the SEC's EDGAR system.
 
-### 18.5.1 EDGAR Research
+### 19.5.1 EDGAR Research
 
 The SEC's EDGAR system (sec.gov/cgi-bin/browse-edgar) allows full-text search of public filings by company name, CIK number, form type, and date range.
 
@@ -122,7 +122,7 @@ The SEC's EDGAR system (sec.gov/cgi-bin/browse-edgar) allows full-text search of
 | ABS-15G | Asset representations reviewer and repurchase request filings |
 | 10-D | Monthly distribution reports |
 
-### 18.5.2 Identifying the Governing Documents
+### 19.5.2 Identifying the Governing Documents
 
 From the prospectus or 10-K, identify:
 
@@ -134,7 +134,7 @@ From the prospectus or 10-K, identify:
 
 Once identified, locate and read the actual executed agreements rather than relying on summaries or descriptions. Summaries in prospectuses are accurate in most cases but are not a substitute for the agreement text when a specific provision is at issue.
 
-### 18.5.3 Using SEC Filings as Evidence
+### 19.5.3 Using SEC Filings as Evidence
 
 SEC filings are admissible in appropriate circumstances as admissions of a party, as business records, or as public records. RSAF must:
 
@@ -144,7 +144,7 @@ SEC filings are admissible in appropriate circumstances as admissions of a party
 
 ---
 
-## 18.6 Researching UCC Filings
+## 19.6 Researching UCC Filings
 
 UCC financing statements are filed to perfect security interests, including interests in receivables transferred to securitization trusts. These are structural evidence.
 
@@ -168,7 +168,7 @@ UCC financing statements are filed to perfect security interests, including inte
 
 ---
 
-## 18.7 Researching Removal and Reassignment Procedures
+## 19.7 Researching Removal and Reassignment Procedures
 
 When analyzing whether a receivable was properly removed from a trust and returned to the plaintiff, RSAF must locate and read the specific provisions of the governing agreement that authorize removal.
 
@@ -190,7 +190,7 @@ Reading these provisions is required before RSAF can state with any precision wh
 
 ---
 
-## 18.8 Documenting Research
+## 19.8 Documenting Research
 
 RSAF must maintain a research record sufficient to allow any citation to be verified by a reader. For each authority cited in a court-facing document, the research record should include:
 
@@ -204,7 +204,7 @@ This discipline prevents the most dangerous research failure: citing an authorit
 
 ---
 
-## 18.9 Research Standards for Each Document Type
+## 19.9 Research Standards for Each Document Type
 
 | Document Type | Primary Source | Verification Required |
 |---|---|---|
@@ -220,7 +220,7 @@ This discipline prevents the most dangerous research failure: citing an authorit
 
 ---
 
-## 18.10 What RSAF Must Not Do
+## 19.10 What RSAF Must Not Do
 
 **Do not cite without verification.** A citation that appears in a secondary source, a brief from another case, or a prior RSAF analysis must be independently verified before reuse. Prior research may be incorrect, outdated, or inapplicable to the current facts.
 
@@ -234,9 +234,9 @@ This discipline prevents the most dangerous research failure: citing an authorit
 
 ---
 
-## 18.11 Researching Unresolved Legal Questions
+## 19.11 Researching Unresolved Legal Questions
 
-### 18.11.1 The Distinction Between Factual Uncertainty and Legal Uncertainty
+### 19.11.1 The Distinction Between Factual Uncertainty and Legal Uncertainty
 
 Not every gap in an RSAF analysis is an evidentiary gap. Some gaps are legal gaps — the law does not yet provide a clear answer to the question. RSAF must distinguish between these two types of uncertainty because they require different responses.
 
@@ -246,7 +246,7 @@ Not every gap in an RSAF analysis is an evidentiary gap. Some gaps are legal gap
 
 RSAF must not convert an open legal question into a factual assertion. Stating as a fact that "Virginia law requires X" when Virginia law has not yet squarely addressed X is not legal analysis — it is unsupported conclusion dressed as authority.
 
-### 18.11.2 How to Identify an Unresolved Legal Question
+### 19.11.2 How to Identify an Unresolved Legal Question
 
 An unresolved legal question is present when:
 
@@ -256,7 +256,7 @@ An unresolved legal question is present when:
 - The question involves an intersection of legal sources (state evidence rules, federal evidentiary standards, UCC provisions, securities regulation) that has not been addressed in the context of consumer collection litigation.
 - Prior analysis assumed an answer without locating authority that supports it.
 
-### 18.11.3 Documenting Unresolved Questions
+### 19.11.3 Documenting Unresolved Questions
 
 When RSAF identifies an unresolved legal question, it must be documented in OPEN-LEGAL-QUESTIONS.md. Each entry in that file includes:
 
@@ -270,7 +270,7 @@ When RSAF identifies an unresolved legal question, it must be documented in OPEN
 
 Documenting the question does not resolve it. The documentation preserves the uncertainty so that future research can be prioritized correctly and so that work product built on an open question accurately describes its own limitations.
 
-### 18.11.4 Prioritizing Primary Authority
+### 19.11.4 Prioritizing Primary Authority
 
 When researching an unresolved question, RSAF must look for primary authority before secondary authority. The research sequence for a legal question is:
 
@@ -283,7 +283,7 @@ When researching an unresolved question, RSAF must look for primary authority be
 
 RSAF must work down this hierarchy in order and must state, at each level, what was found and what it establishes. If a statute expressly addresses the question, the case law below it may be irrelevant. If no statute addresses it, binding appellate decisions control.
 
-### 18.11.5 Documenting Competing Interpretations
+### 19.11.5 Documenting Competing Interpretations
 
 For most unresolved legal questions of significance, there are competing interpretations. RSAF must identify both sides, even when one side appears stronger, because:
 
@@ -293,7 +293,7 @@ For most unresolved legal questions of significance, there are competing interpr
 
 For each competing interpretation, RSAF should identify what authority supports it, what analytical argument supports it, and what additional evidence or authority would be needed to confirm it.
 
-### 18.11.6 Confidence Assessments
+### 19.11.6 Confidence Assessments
 
 RSAF must assign a confidence level to each position it takes on an unresolved legal question. Confidence levels reflect the state of the research, not the strength of the preference:
 
@@ -304,7 +304,7 @@ RSAF must assign a confidence level to each position it takes on an unresolved l
 
 Most of the questions identified in OPEN-LEGAL-QUESTIONS.md are currently rated Low or Indeterminate. RSAF must not upgrade a confidence assessment without supporting authority.
 
-### 18.11.7 Preserving Unresolved Questions Through Analysis
+### 19.11.7 Preserving Unresolved Questions Through Analysis
 
 An unresolved legal question must remain identified as such at every stage of the analysis, even when a result is needed for practical purposes.
 
@@ -318,7 +318,7 @@ If a court-facing document requires a position on an open question, RSAF must:
 
 A court-facing document that presents an open question as settled may draw a credible challenge. A court-facing document that honestly identifies the question as contested and explains why the stronger position favors the client is more defensible and more credible.
 
-### 18.11.8 What RSAF Must Not Do With Open Legal Questions
+### 19.11.8 What RSAF Must Not Do With Open Legal Questions
 
 **Do not assume.** If the law does not resolve a question, RSAF does not resolve it by assumption. The absence of contrary authority is not authority.
 

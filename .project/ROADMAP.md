@@ -1,7 +1,37 @@
 # RSAF Roadmap
 
-**Current version:** 0.2.0  
+**Current version:** 0.7.0  
 **Last updated:** 2026-06-30
+
+---
+
+## Version 0.7.0 — Repository Integrity and Methodology Update
+
+Version normalization (all documents now reflect v0.6.0 as prior baseline). Chapter 19 section numbering corrected (18.X → 19.X). OPEN-LEGAL-QUESTIONS.md placeholder fixed. MASTER-INSTRUCTIONS.md rewritten with 12-step pipeline. AGENTS.md expanded with bank-neutral language rules, enforcement theory definition, and full evidence classification. docs/00-Introduction.md updated to v0.6.0 with 12-step usage guide. Bank-neutral language improvements throughout.
+
+---
+
+## Version 0.6.0 — OLQ-001 Research Pass
+
+Va. Code § 8.01-397.1, *Kimberlin*, FDIC Safe Harbor, ASC 860, Regulation AB, *Green v. PRA* reviewed. Chapter 22 substantially updated. OLQ-001 remains open.
+
+---
+
+## Version 0.5.0 — Usability Pass 1
+
+Judge's Checklists added to all chapters. Glossary.md created. Burden flow diagram added. Chapter 22 inference table added.
+
+---
+
+## Version 0.4.0 — Theory Identification and Open Questions
+
+Chapters 20, 21, 22 created. OPEN-LEGAL-QUESTIONS.md created. Chapter 05 updated with theory identification step.
+
+---
+
+## Version 0.3.0 — Active Case Preparation
+
+Templates rewritten. Bank of America and Capital One playbooks substantiated. Citation integrity updated for *Green v. PRA* en banc.
 
 ---
 

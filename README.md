@@ -2,7 +2,7 @@
 
 > **An evidence-first methodology for evaluating whether a plaintiff has established its present legal right to enforce a consumer credit-card receivable.**
 
-**Current Version:** 0.1.0 (Draft)
+**Current Version:** 0.6.0
 
 ---
 
@@ -36,14 +36,16 @@ RSAF never fills evidentiary gaps through speculation.
 
 # Scope
 
-Version 0.1 focuses on:
+RSAF currently covers:
 
 - Consumer credit-card collection litigation
 - Virginia procedural law
 - Delaware substantive law where selected by the governing Cardmember Agreement
-- Applicable federal law
-- National bank credit-card securitization programs
+- Applicable federal law (FDCPA, FAA, National Bank Act, Regulation AB, FDIC Safe Harbor)
+- Credit-card securitization programs, where applicable
 - Arbitration and judicial proceedings
+
+RSAF is designed to work regardless of which bank originated the account, which trust structure applies, or which transfer path is relevant. Bank-specific playbooks supplement the framework when verified EDGAR research is available; the core methodology operates without them.
 
 Future versions may expand into additional jurisdictions and other classes of consumer receivables.
 
@@ -83,7 +85,9 @@ Every RSAF analysis ultimately seeks to answer one question:
 
 > **Has the plaintiff produced competent, admissible, account-specific evidence sufficient to establish its present legal right to enforce the receivable it seeks to collect?**
 
-Every chapter within RSAF exists to assist in answering that question.
+"Present legal right to enforce" is not synonymous with ownership. A plaintiff may establish that right through ownership, assignment, reassignment, servicing authority, agency authority, or other legally recognized bases, depending on the governing agreements, applicable statutes, and the evidentiary record. RSAF identifies which basis the plaintiff asserts and evaluates the evidence required to establish it.
+
+Every chapter within RSAF exists to assist in answering the central question.
 
 ---
 

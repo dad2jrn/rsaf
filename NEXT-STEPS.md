@@ -5,27 +5,46 @@
 
 ---
 
-## Usability Pass 1 — Completed
+## Repository Integrity and Methodology Update — Completed (v0.7.0)
 
-The following work was completed in the most recent development cycle. The framework is now at v0.4.0.
+The following work was completed in the current development cycle. The framework is now at v0.7.0.
+
+**Version normalization:**
+All documents updated to reflect v0.6.0 as the prior release baseline. README.md, PROJECT.md, docs/00-Introduction.md, NEXT-STEPS.md, and .project/ROADMAP.md updated. Bank stub READMEs updated.
+
+**Chapter 19 section-numbering fix:**
+All sections in docs/19-Research-Methodology.md were incorrectly labeled 18.X. Corrected to 19.X throughout (19.1 through 19.11.8). Cross-reference in OPEN-LEGAL-QUESTIONS.md updated from "Section 19.X" to "Section 19.11."
+
+**MASTER-INSTRUCTIONS.md revised:**
+New 12-step analysis pipeline replacing the prior 11-step version. Added: enforcement theory identification (steps 4–5); expanded evidence classification (steps 6–7); inference classification (step 8); proof-gap identification (step 10); bank-neutral operating rules; complete quality-control checklist.
+
+**AGENTS.md revised:**
+Added: present legal right to enforce definition with all possible bases; bank-neutral language requirements with required conditional forms; inference classification framework; expanded evidence classification with all categories; updated drafting rule to include theory identification; bank-neutral quality gate.
+
+**Bank-neutral language improvements:**
+PROJECT.md Golden Rule updated to remove ownership-only framing. README.md central question updated to clarify enforcement bases beyond ownership. Scope sections updated. Conditional language requirements added to AGENTS.md.
+
+**OLQ-001 placeholder fixed:**
+OPEN-LEGAL-QUESTIONS.md updated to replace "Section 19.X" placeholder with "Section 19.11."
+
+**docs/00-Introduction.md updated:**
+Version updated to v0.6.0. Scope updated for bank-neutral language. Usage guide expanded to 12 steps reflecting the revised analysis pipeline.
+
+---
+
+## OLQ-001 Research Pass — Completed (v0.6.0)
 
 **Judge's Checklists added to all applicable chapters:**
 Chapters 02, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22.
 
 **Glossary.md created:**
-Plain-language definitions for judges and attorneys. Distinguishes terms commonly confused in litigation (servicer vs. owner, standing vs. ownership, legal title vs. beneficial ownership, assignee vs. holder, present legal right to enforce vs. historical ownership).
+Plain-language definitions for judges and attorneys.
 
-**Introduction updated to v0.4.0:**
-Chapter map now includes Chapters 20–22. Usage guide now includes theory identification (Chapter 20) and inference classification (Chapter 21) as required steps. Glossary.md and OPEN-LEGAL-QUESTIONS.md added to the resource table.
+**Introduction updated (v0.4.0):**
+Chapter map includes Chapters 20–22. Usage guide includes theory identification and inference classification.
 
-**Visual improvements:**
-- Chapter 06: Added burden flow diagram showing standing/merits framing split.
-- Chapter 22: Converted the four possible inferences from prose to a structured table, including cumulative-inference note.
-- Chapter 07: Cross-reference added to Chapter 08 as definitive treatment of structural/transaction evidence.
-- Chapter 09: Cross-reference added to Chapters 08, 10, and 16.
-
-**Open Legal Questions register:**
-Each OLQ entry (OLQ-001, OLQ-002, OLQ-003) now includes a "Next Research Step" field so research can be resumed without re-reading the full entry.
+**OLQ-001 research:**
+Va. Code § 8.01-397.1, *Kimberlin*, FDIC Safe Harbor (12 C.F.R. § 360.6), ASC 860, Regulation AB, *Green v. PRA* reviewed. OLQ-001 remains unresolved.
 
 ---
 
@@ -86,6 +105,7 @@ After Chase, the priority order is: Citi, Synchrony, Discover, Wells Fargo, Amer
 
 | Metric | Status |
 |---|---|
+| Current version | 0.7.0 |
 | Complete chapters | 22 (00–22) |
 | Judge's Checklists | Added to all analytical chapters |
 | Glossary | Created |

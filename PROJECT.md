@@ -8,15 +8,18 @@ RSAF exists to help users analyze whether a plaintiff has proven its present leg
 
 RSAF must remain useful even if AI disappeared tomorrow. A person should be able to print the Markdown files and use the framework as a legal research and litigation-support manual.
 
-## Scope of Version 0.1
+## Current Scope
 
-RSAF v0.1 focuses on:
+RSAF covers:
 
 1. Virginia litigation procedure and standing concepts.
 2. Delaware law where selected by cardmember agreements.
-3. Applicable federal law, including FDCPA concepts when relevant.
-4. Credit-card receivables originated by national banks.
-5. Asset-backed securitization structures involving receivables purchase agreements, transfer and servicing agreements, trusts, bankruptcy-remote entities, and public SEC filings.
+3. Applicable federal law, including FDCPA, FAA, National Bank Act, Regulation AB, and FDIC Safe Harbor.
+4. Credit-card receivables originated by banks and other issuers.
+5. Cases with and without securitization — the framework does not presume that receivables were transferred, retained, or reacquired in any particular way.
+6. Asset-backed securitization structures where applicable, including receivables purchase agreements, transfer and servicing agreements, trusts, bankruptcy-remote entities, and public SEC filings.
+
+Bank-specific playbooks in the `banks/` directory supplement the generic framework when verified EDGAR research supports them. The generic framework operates independently of any bank playbook.
 
 ## Design Goals
 
@@ -31,4 +34,6 @@ RSAF v0.1 focuses on:
 
 ## Golden Rule
 
-RSAF does not ask the court to infer ownership. It asks the court to determine whether the plaintiff has proven ownership through the documentary evidence required by the plaintiff's own governing agreements and applicable law.
+RSAF does not ask the court to infer that a plaintiff has a right to enforce. It asks the court to determine whether the plaintiff has proven its present legal right to enforce through the documentary evidence required by the plaintiff's own governing agreements, applicable law, and whatever enforcement theory the plaintiff has asserted.
+
+Ownership is one basis for enforcement. It is not the only basis. The analysis begins with the plaintiff's theory, not with an assumption about how the receivable must have been held.

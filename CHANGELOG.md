@@ -1,5 +1,67 @@
 # Changelog
 
+## 0.7.0 — Repository Integrity and Methodology Update (2026-06-30)
+
+### Version Normalization
+
+Reconciled version references across all repository documents. README.md updated from 0.1.0 to 0.6.0. PROJECT.md scope section updated from "RSAF v0.1 focuses on" to current-scope language. docs/00-Introduction.md updated from v0.4.0 to v0.6.0. NEXT-STEPS.md updated from "framework is now at v0.4.0" to v0.6.0. .project/ROADMAP.md current version updated from 0.2.0 to 0.7.0 with added version history entries for 0.3.0 through 0.7.0. Bank stub READMEs (Chase, Citi, Discover, Synchrony, Wells Fargo, American Express) updated to remove v0.1.0 version tags.
+
+### Chapter 19 Section-Numbering Correction
+
+All section headings in docs/19-Research-Methodology.md were incorrectly labeled "18.X." Corrected to "19.X" throughout: §§ 19.1–19.11.8. The chapter header had been updated from "18" to "19" in a prior commit but section numbers were not renumbered at that time.
+
+### Placeholder Cross-Reference Fixed
+
+OPEN-LEGAL-QUESTIONS.md, line 5: "Section 19.X" replaced with "Section 19.11" — the actual section number of the unresolved-legal-questions protocol in Chapter 19.
+
+### MASTER-INSTRUCTIONS.md — Revised
+
+Rewritten with a 12-step analysis pipeline:
+
+1. Identify procedural posture and requested outcome.
+2. Identify governing law and choice-of-law provisions.
+3. Identify the plaintiff and each relevant entity.
+4. Identify the plaintiff's asserted present legal right to enforce.
+5. Identify possible enforcement theories supported by the record.
+6. Inventory and classify all evidence by source and evidentiary function.
+7. Separate account-level evidence from program-level evidence.
+8. Classify each proposition as proven fact, inference, open question, alternative explanation, or speculation.
+9. Determine required documents and testimony.
+10. Identify proof gaps, inconsistencies, and missing links.
+11. Research controlling authority before reaching conclusions.
+12. Draft narrowly tailored work product reflecting the evidentiary record.
+
+Added: enforcement theory identification section; "present legal right to enforce" definition with all possible bases; full evidence classification (account-level, program-level, testimonial/procedural); quality-control checklist; bank-neutral operating rules.
+
+### AGENTS.md — Revised
+
+Added: "present legal right to enforce" definition with all possible bases (ownership, assignment, servicing authority, agency, statutory rights, and others); bank-neutral language section with required conditional forms and prohibited assumptions; inference classification framework (six categories); expanded evidence classification (account-level, program-level, testimonial/procedural); updated drafting rule to include enforcement theory identification; bank-neutral quality gate item.
+
+Updated title: "analyzing standing and ownership" → "analyzing whether a plaintiff has established its present legal right to enforce."
+
+### Bank-Neutral Language Improvements
+
+- **PROJECT.md** — Golden Rule updated from "proven ownership" framing to "present legal right to enforce" framing. Scope section revised to remove "version 0.1" language and add explicit bank-neutral statement.
+- **README.md** — Scope updated to add bank-neutral statement. Central question section expanded to clarify enforcement bases beyond ownership.
+- **docs/00-Introduction.md** — Scope section updated from "Version 0.2 focuses on" to current-scope language with explicit bank-neutral statement. Usage guide expanded from 11 to 12 steps.
+- **AGENTS.md** — Non-Negotiable Rules 9 and 10 added for securitization-assumption prohibition and bank-specificity prohibition.
+
+### Bank Playbook Repositioning
+
+All six research-stub playbooks (Chase, Citi, Discover, Synchrony, Wells Fargo, American Express) revised to:
+
+- Remove version numbers (stubs are not releases).
+- Add explicit purpose statement: each playbook is a research framework, not an advocacy file, and does not presume any outcome.
+- Add "Playbook Structure When Complete" section listing all required documentation categories.
+- Update generic transfer-path diagram with a note that the diagram is a template pending verified research.
+- Add per-bank research notes identifying bank-specific complexity (Citi originating-entity distinction, American Express charge-card/credit-card distinction, Synchrony retail-card complexity).
+
+### NEXT-STEPS.md — Updated
+
+Added v0.7.0 integrity update to completed work section. Framework Health Summary updated to show version 0.7.0.
+
+---
+
 ## 0.6.0 — OLQ-001 Research Pass (2026-06-30)
 
 ### Research Conducted
