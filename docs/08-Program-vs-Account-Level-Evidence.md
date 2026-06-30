@@ -108,6 +108,8 @@ then RSAF can identify what account-specific evidence should exist at each step.
 
 This is the proper use of program documents: not as proof that a transfer occurred, but as identification of what proof the plaintiff's own framework requires. The plaintiff then must produce that proof.
 
+The plaintiff's own framework extends beyond contract. For banks that securitized receivables, the FDIC's Securitization Safe Harbor Rule (12 C.F.R. § 360.6) required the sponsoring bank to separately identify in its financial asset databases the financial assets transferred and to maintain closing documents for each securitization. A bank that operated a compliant securitization program therefore should have account-level records identifying what was transferred. The regulatory framework, like the contractual framework, required the creation of the very records now absent in litigation.
+
 **The formulation RSAF uses:**
 
 > Plaintiff's own public documents establish a securitization program under which eligible receivables are transferred through a defined chain, with each transfer evidenced by specific documentation. If the defendant's receivable was part of that program, the plaintiff should be able to produce account-specific evidence showing what happened to that receivable at each stage. Plaintiff has [produced / not produced] such evidence.

@@ -28,32 +28,33 @@ The answer affects the evidentiary weight of program-level evidence (prospectuse
 
 **Authorities Reviewed.**
 
-- Federal Rule of Evidence 406 (routine practice of an organization).
-- Virginia Rules of Evidence 2:406 (routine practice) — existence confirmed; scope of application to commercial entities in consumer litigation requires further review.
-- 12 C.F.R. § 360.6 — FDIC Safe Harbor Rule (effective May 2020), establishing conditions for true-sale treatment of securitization transfers, including documentation standards.
-- 6 Del. C. Ch. 27A, §§ 2701A et seq. — Delaware Asset-Backed Securities Facilitation Act, addressing true-sale treatment under Delaware law.
-- Green v. Portfolio Recovery Associates, LLC, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) — addressed ownership as merits element, not standing gate; did not resolve the routine practice inference question.
+- *Va. Code § 8.01-397.1 / Va. Rule of Evidence 2:406* (routine practice) — Confirmed. Enacted 2000. Applies to organizations in civil proceedings only. Defines "routine practice" as "a regular course of conduct of a group of persons or an organization in response to repeated specific situations." Corroboration not required. The Virginia Supreme Court applied the doctrine in *Kimberlin v. PM Transport, Inc.*, 264 Va. 261, 269 (2002), cautioning that examples of the conduct must be "sufficiently numerous and regular" and that the doctrine is "never to be lightly established." *Kimberlin* is a personal injury case. No Virginia appellate decision applying the doctrine to a financial institution's commercial conduct has been identified.
+- *Federal Rule of Evidence 406* (routine practice of an organization) — Reviewed. Corroboration not required. No federal court opinion has been identified applying FRE 406 to create an inference that a specific consumer receivable was transferred as part of a bank's routine securitization program.
+- *12 C.F.R. § 360.6* — FDIC Safe Harbor Rule (effective in current form 2020). The regulation requires securitization sponsors to "separately identify in its financial asset data bases the financial assets transferred" and to maintain "an electronic or paper copy of the closing documents for each securitization." This requirement cuts against the routine practice inference: if the bank's own regulatory framework required account-level tracking of transferred assets, those records should exist, and their absence in litigation is not bridged by a routine practice argument. See Chapter 22, §22.4.4.
+- *ASC 860* (FASB Accounting Standards Codification, Transfers and Servicing) — Reviewed. A control-based derecognition standard for accounting purposes. A bank's accounting recognition of a securitization transfer as a "sale" represents to investors and regulators that it surrendered control of the transferred assets. This is an accounting standard, not an evidentiary rule, and does not independently establish the legal chain of title for a specific receivable in litigation.
+- *17 C.F.R. Part 229 (Regulation AB)* — Reviewed. Governs disclosure requirements for registered ABS offerings. Requires pool-level description of transferred assets in public filings. Does not require per-account identification. Does not create a litigation presumption that any specific receivable was included in a disclosed pool.
+- *6 Del. C. Ch. 27A, §§ 2701A et seq.* — Delaware Asset-Backed Securities Facilitation Act, addressing true-sale treatment under Delaware law — existence confirmed; application in Virginia litigation not yet resolved.
+- *Green v. Portfolio Recovery Associates, LLC*, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) — Addressed ownership as merits element, not standing threshold. PRA relied on generic bills of sale for multiple accounts without specific account identification. The court did not address whether routine securitization practice could substitute for or supplement account-specific documentation. The routine practice inference was not presented.
 
 **Authorities Still Needed.**
 
-- Virginia case law applying Rule 2:406 to commercial routine practice, particularly in a financial or transactional context.
-- Fourth Circuit opinions addressing sufficiency of securitization transfer documentation in collection litigation.
-- Bankruptcy court opinions (particularly within the Fourth Circuit and nationally) addressing the sufficiency of transfer documentation in consumer receivables portfolios — bankruptcy trustees frequently litigate transfer completeness and may have developed relevant precedent.
-- Case law from Virginia general district courts or circuit courts addressing the program-level vs. account-specific documentation distinction.
-- ASC 860 (Financial Accounting Standards Board) treatment of securitization transfers, including the "derecognition" standard — to understand what accounting recognition of a transfer implies about the completeness and documentation of the underlying transaction.
-- OCC guidance on national bank asset transfers and securitization, including any documentary standards for enforceable transfers.
-- SEC Regulation AB (17 C.F.R. Part 229) and SEC no-action letters or guidance addressing the scope of required disclosure about receivable transfers.
-- Any published opinion from an AAA consumer arbitration panel addressing transfer documentation sufficiency (these are generally not publicly available, but may be referenced in court opinions reviewing arbitration awards).
+- Virginia appellate decisions applying Va. Code § 8.01-397.1 (Rule 2:406) to the conduct of a financial institution or commercial organization — none identified to date.
+- Fourth Circuit opinions addressing whether program-level securitization documentation, combined with proof of eligibility, satisfies the plaintiff's burden on the ownership element in consumer collection litigation — none identified to date.
+- Bankruptcy court opinions (within the Fourth Circuit or nationally) addressing the sufficiency of securitization transfer documentation in consumer receivables proof-of-claim disputes — none identified to date.
+- Delaware case law on the routine practice doctrine as applied in commercial or consumer collection contexts.
+- OCC guidance on documentary standards for national bank asset transfers and securitization.
 
 **Current RSAF Position.**
 
-RSAF currently treats public securitization documents as structural evidence defining the plaintiff's own transfer framework. RSAF does not presently treat those documents alone as proof that a specific receivable was transferred. Whether governing law permits a broader evidentiary inference remains an open legal question requiring additional research.
+RSAF currently treats public securitization documents as structural evidence defining the plaintiff's own transfer framework. RSAF does not presently treat those documents alone as proof that a specific receivable was transferred. Whether governing law permits a broader evidentiary inference remains an open legal question.
 
-**Confidence.** Low. The question is analytically significant, the competing positions are both plausible, and binding authority directly on point has not been identified. RSAF's current position is a conservative default, not a conclusion.
+The FDIC safe harbor research strengthens the conservative default: if the bank operated a compliant securitization program, its own regulatory framework required it to separately identify transferred assets in its databases and maintain closing documents for each securitization. The absence of those records in litigation is inconsistent with the bank's own compliance obligations — not merely a gap in the defendant's counter-evidence.
 
-**Research Priority.** High. This question affects the outcome of any case in which the plaintiff relies on program-level evidence without producing account-specific transfer documentation. It is the most frequently encountered evidentiary gap in active RSAF analysis.
+**Confidence.** Low. The routine practice doctrine exists under both Virginia and federal evidence law, and its text would support the inference argument in the abstract. No binding authority applying the doctrine to securitization transfers in consumer collection litigation has been identified — for or against. RSAF's conservative default is not a conclusion that the inference is legally unavailable; it is a default pending authority.
 
-**Next Research Step.** Locate and read Virginia Rule of Evidence 2:406 (or the equivalent). Determine whether Virginia has adopted FRE 406's routine practice doctrine and whether any Virginia case applies it in a commercial context. Search the Fourth Circuit for securitization-specific opinions. Search bankruptcy courts for opinions addressing transfer documentation sufficiency in consumer receivables portfolios.
+**Research Priority.** High. This question affects the outcome of any case in which the plaintiff relies on program-level evidence without producing account-specific transfer documentation.
+
+**Next Research Step.** Search Virginia appellate and circuit court decisions for any application of Va. Code § 8.01-397.1 to commercial or financial organizations. Search bankruptcy court opinions within the Fourth Circuit on proof-of-claim standards for securitized consumer debt. Search Fourth Circuit civil opinions for any discussion of whether pool-level assignment documentation satisfies the burden of proving ownership of a specific account.
 
 **Cross-References.** Chapter 21 (Inference Classification), Section 21.6 and Section 21.10. Chapter 22 (Routine Securitization Practice), in full.
 
