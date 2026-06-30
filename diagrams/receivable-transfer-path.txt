@@ -1,0 +1,31 @@
+Cardholder Account
+      │
+      ▼
+Receivable Created
+      │
+      ▼
+Originating Bank
+      │
+      ▼
+Receivables Purchase Agreement
+      │
+      ▼
+Bankruptcy-Remote Transferor LLC
+      │
+      ▼
+Transfer / Pooling / Servicing Agreement
+      │
+      ▼
+Issuing Trust
+      │
+      ▼
+Default / Removal / Reassignment Event
+      │
+      ▼
+Transferor LLC
+      │
+      ▼
+Executed Reassignment + Account Schedule
+      │
+      ▼
+Plaintiff, if reacquired
