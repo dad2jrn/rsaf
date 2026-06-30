@@ -31,9 +31,9 @@ Assess evidence weight
             ↓
 Consider alternate explanations
             ↓
-Map the receivable transfer path
-            ↓
 Identify Plaintiff's Enforcement Theory
+            ↓
+Map the receivable transfer path
             ↓
 Identify required account-level proof
             ↓
@@ -291,7 +291,7 @@ A plaintiff in consumer credit-card receivable litigation may assert one of seve
 
 RSAF must not assume the plaintiff's theory. A plaintiff who produces a bill of sale without an account schedule may be asserting a direct-purchase theory; a plaintiff who produces program documents and account statements may be asserting a retention theory. The theory is identified from the evidence the plaintiff produces, not assumed from the nature of the lawsuit.
 
-Theory identification must occur before account-level evidentiary analysis. Once the theory is identified, the Required Proof Matrix can be populated correctly. The section that follows describes the required account-level proof under the theories RSAF most commonly encounters.
+Theory identification must occur before account-level evidentiary analysis. The § 5.2 pipeline diagram reflects this sequence. Once the theory is identified, the Required Proof Matrix can be populated correctly. The section that follows describes the required account-level proof under the theories RSAF most commonly encounters.
 
 ---
 
