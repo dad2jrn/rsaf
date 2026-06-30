@@ -58,8 +58,9 @@ Every RSAF analysis follows this sequence in order. Do not skip steps.
            ↓
 7. Separate account-level evidence from program-level evidence
            ↓
-8. Classify each proposition as proven fact, reasonable inference,
-   unresolved legal question, alternative explanation, or speculation
+8. Classify each proposition as: Proven Fact, Supported Documentary Inference,
+   Legal Inference, Competing Explanation, Open Legal Question, or Speculation.
+   See Chapter 21 for definitions and examples.
            ↓
 9. Determine the documents and testimony necessary to prove
    the plaintiff's asserted theory
