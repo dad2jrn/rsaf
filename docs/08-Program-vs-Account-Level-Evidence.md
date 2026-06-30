@@ -38,14 +38,19 @@ Common examples include:
 
 **What program-level evidence may establish.**
 
-Program-level evidence may show:
+Program-level evidence establishes the plaintiff's own transfer framework — the structure the plaintiff itself created, publicly disclosed, and represented to regulators, investors, and counterparties. It is the plaintiff's own description of how its receivables move and how they are documented.
+
+Specifically, program-level evidence may show:
 
 - that the bank established a program under which eligible receivables are sold to a transferor entity;
 - that the transferor entity transfers those receivables to an issuing trust;
 - the identities of the parties: originator, transferor, trust, servicer, trustee;
 - the contractual requirements for transfer — what documents must be executed, what schedules must be prepared, what procedures must be followed;
 - the contractual procedures for removing receivables from the trust upon default, charge-off, or other specified events;
-- the contractual procedures for reassigning removed receivables back to the transferor or the originating bank.
+- the contractual procedures for reassigning removed receivables back to the transferor or the originating bank;
+- what documentation the plaintiff's own framework requires at each step — so that the absence of such documentation is measured against the plaintiff's own stated requirements, not against an external standard imposed by the defense.
+
+This last point is analytically important. When the plaintiff's own governing agreements require an executed account schedule to document a transfer, and the plaintiff has not produced one, the plaintiff has not met the standard it established for itself. RSAF uses program-level evidence to hold the plaintiff to its own documented framework.
 
 **What program-level evidence cannot establish.**
 
@@ -86,9 +91,11 @@ Neither category can substitute for the other.
 
 ---
 
-## 8.6 Using Program Documents as the Evidentiary Framework
+## 8.6 Using Program Documents as the Plaintiff's Own Transfer Framework
 
-RSAF uses program-level evidence as a framework tool.
+RSAF uses program-level evidence as a framework tool — and specifically, as the plaintiff's own transfer framework.
+
+The plaintiff's public documents are not invented by the defense. They are the plaintiff's own representations: to the SEC, to investors, to rating agencies, and to regulators. When the plaintiff argues that it owns a specific receivable, those public documents describe the path by which that ownership must have been established (or not disturbed). If the documents describe a transfer path, the plaintiff must show that this receivable followed that path. If they describe removal and reassignment procedures, the plaintiff must show that those procedures produced the documents they require.
 
 When a bank's public documents establish that:
 
@@ -97,13 +104,15 @@ When a bank's public documents establish that:
 3. transfers are evidenced by executed assignments and account schedules;
 4. removed receivables are returned through a specific reassignment procedure and must be identified on a schedule;
 
-then RSAF can identify what account-specific evidence should exist at each step. If the plaintiff claims it owns a receivable that passed through that structure, the required account-level evidence includes documentation corresponding to each step.
+then RSAF can identify what account-specific evidence should exist at each step. If the plaintiff asserts a present legal right to enforce a receivable that passed through that structure, the required account-level evidence includes documentation corresponding to each step in the plaintiff's own framework.
 
-This is the proper use of program documents: not as proof that a transfer occurred, but as identification of what proof a transfer would require. The plaintiff then must produce that proof.
+This is the proper use of program documents: not as proof that a transfer occurred, but as identification of what proof the plaintiff's own framework requires. The plaintiff then must produce that proof.
 
 **The formulation RSAF uses:**
 
 > Plaintiff's own public documents establish a securitization program under which eligible receivables are transferred through a defined chain, with each transfer evidenced by specific documentation. If the defendant's receivable was part of that program, the plaintiff should be able to produce account-specific evidence showing what happened to that receivable at each stage. Plaintiff has [produced / not produced] such evidence.
+
+Program-level evidence does not establish the historical treatment of the defendant's specific receivable. A plaintiff who produces program documents but no account-specific transfer documentation has established the framework through which the defendant's receivable may have passed — not that it did pass through it, and not that the plaintiff has any present legal right to enforce it.
 
 ---
 
@@ -122,6 +131,8 @@ The correct formulation:
 Not:
 
 > Because the program exists and the account was eligible, the receivable was transferred.
+
+Whether governing law recognizes a broader evidentiary inference from a bank's documented routine securitization practice — for example, a rebuttable presumption that eligible receivables were transferred — is an unresolved legal question that RSAF does not presently treat as settled. For the analysis of that question, see Chapter 22 (Routine Securitization Practice) and OPEN-LEGAL-QUESTIONS.md (OLQ-001). Until that question is resolved by binding authority, RSAF requires account-specific documentation rather than a routine-practice inference.
 
 ---
 
