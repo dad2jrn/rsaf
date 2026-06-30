@@ -1,4 +1,4 @@
-# 18 — Research Methodology
+# 19 — Research Methodology
 
 ## 18.1 Purpose
 
@@ -231,3 +231,101 @@ This discipline prevents the most dangerous research failure: citing an authorit
 **Do not cite persuasive authority as binding.** A Fourth Circuit case is not binding on a Virginia state court. A Virginia Court of Appeals case is not binding on a General District Court judge as a technical matter of hierarchy — though it is highly persuasive. RSAF must accurately characterize the status of every authority it cites.
 
 **Do not fabricate.** If authority for a proposition cannot be found, RSAF must say so. The absence of supporting authority is a limitation of the argument, not a license to invent it.
+
+---
+
+## 18.11 Researching Unresolved Legal Questions
+
+### 18.11.1 The Distinction Between Factual Uncertainty and Legal Uncertainty
+
+Not every gap in an RSAF analysis is an evidentiary gap. Some gaps are legal gaps — the law does not yet provide a clear answer to the question. RSAF must distinguish between these two types of uncertainty because they require different responses.
+
+**Factual uncertainty** arises when the evidence in the record does not establish a fact that the governing law requires. The remedy for factual uncertainty is evidence. The plaintiff must produce the missing document, the authenticated record, or the foundation witness. If it cannot, the burden is unmet.
+
+**Legal uncertainty** arises when the governing law is unclear, contested, or not yet settled by binding authority. The remedy for legal uncertainty is research — and, where research does not resolve the question, an honest acknowledgment that the question is open. Legal uncertainty is not resolved by assuming the more convenient answer.
+
+RSAF must not convert an open legal question into a factual assertion. Stating as a fact that "Virginia law requires X" when Virginia law has not yet squarely addressed X is not legal analysis — it is unsupported conclusion dressed as authority.
+
+### 18.11.2 How to Identify an Unresolved Legal Question
+
+An unresolved legal question is present when:
+
+- The legal rule that would apply to a material fact has not been established by binding authority in the relevant jurisdiction.
+- Courts in the relevant jurisdiction have reached conflicting results on the question.
+- Courts in other jurisdictions have addressed the question but binding authority in the forum jurisdiction has not.
+- The question involves an intersection of legal sources (state evidence rules, federal evidentiary standards, UCC provisions, securities regulation) that has not been addressed in the context of consumer collection litigation.
+- Prior analysis assumed an answer without locating authority that supports it.
+
+### 18.11.3 Documenting Unresolved Questions
+
+When RSAF identifies an unresolved legal question, it must be documented in OPEN-LEGAL-QUESTIONS.md. Each entry in that file includes:
+
+- a precise statement of the question;
+- its current status (unresolved, partially resolved, jurisdiction-specific);
+- the competing legal positions on each side;
+- the authority reviewed to date (including what that authority does and does not establish);
+- the authority still needed before a position can be adopted;
+- RSAF's current analytical default pending resolution;
+- a confidence rating.
+
+Documenting the question does not resolve it. The documentation preserves the uncertainty so that future research can be prioritized correctly and so that work product built on an open question accurately describes its own limitations.
+
+### 18.11.4 Prioritizing Primary Authority
+
+When researching an unresolved question, RSAF must look for primary authority before secondary authority. The research sequence for a legal question is:
+
+1. Constitutional provisions (rarely applicable but controlling if present).
+2. Statutes — look for explicit legislative treatment. If the legislature has addressed the question, that is the controlling answer regardless of what case law says.
+3. Court rules — for procedural and evidentiary questions, the applicable evidence code or court rule may resolve the question.
+4. Binding appellate decisions — Virginia Supreme Court and Court of Appeals for Virginia-law questions; Fourth Circuit for federal questions; U.S. Supreme Court for constitutional and federal questions.
+5. Persuasive authority from other jurisdictions — as an indicator of how the question might be resolved, not as controlling authority.
+6. Secondary sources — law review articles, treatises, and Restatements as analytical context, not authority.
+
+RSAF must work down this hierarchy in order and must state, at each level, what was found and what it establishes. If a statute expressly addresses the question, the case law below it may be irrelevant. If no statute addresses it, binding appellate decisions control.
+
+### 18.11.5 Documenting Competing Interpretations
+
+For most unresolved legal questions of significance, there are competing interpretations. RSAF must identify both sides, even when one side appears stronger, because:
+
+- The weaker-seeming position may be the one the relevant court ultimately adopts.
+- Identifying the competing position allows the user to anticipate and prepare for the opposing argument.
+- Stating only the preferred interpretation is advocacy, not analysis. RSAF is a framework for analysis.
+
+For each competing interpretation, RSAF should identify what authority supports it, what analytical argument supports it, and what additional evidence or authority would be needed to confirm it.
+
+### 18.11.6 Confidence Assessments
+
+RSAF must assign a confidence level to each position it takes on an unresolved legal question. Confidence levels reflect the state of the research, not the strength of the preference:
+
+- **High:** Binding authority directly on point exists; the question is not genuinely open.
+- **Medium:** Persuasive authority from multiple sources points in a consistent direction; no binding authority to the contrary exists; the question is likely but not certainly resolved in this direction.
+- **Low:** The question is genuinely open; competing positions are both plausible; binding authority does not yet exist; research is incomplete.
+- **Indeterminate:** The question cannot be evaluated on the current research record; more investigation is required before any confidence assessment can be made.
+
+Most of the questions identified in OPEN-LEGAL-QUESTIONS.md are currently rated Low or Indeterminate. RSAF must not upgrade a confidence assessment without supporting authority.
+
+### 18.11.7 Preserving Unresolved Questions Through Analysis
+
+An unresolved legal question must remain identified as such at every stage of the analysis, even when a result is needed for practical purposes.
+
+If a court-facing document requires a position on an open question, RSAF must:
+
+1. State the position being taken for purposes of the document.
+2. Identify the question as open.
+3. Note the authority that supports the position being taken.
+4. Note the competing authority or arguments.
+5. Preserve the issue for further development.
+
+A court-facing document that presents an open question as settled may draw a credible challenge. A court-facing document that honestly identifies the question as contested and explains why the stronger position favors the client is more defensible and more credible.
+
+### 18.11.8 What RSAF Must Not Do With Open Legal Questions
+
+**Do not assume.** If the law does not resolve a question, RSAF does not resolve it by assumption. The absence of contrary authority is not authority.
+
+**Do not treat a secondary source's conclusion as primary authority.** A treatise that says "courts have generally held that X" is describing the author's reading of the cases. It is not itself holding anything. Locate the primary authority the secondary source is describing.
+
+**Do not extend an analogous holding to an unaddressed question without acknowledging the extension.** If a court held that routine practice evidence is admissible in commercial litigation, that holding may be persuasive on whether it is admissible in consumer collection litigation — but it does not directly answer the question. The extension must be identified as an extension.
+
+**Do not mistake the absence of contrary authority for affirmative authority.** RSAF has not found a Virginia case holding that routine securitization practice creates an inference of specific transfer. The absence of such a case does not establish the inference. It establishes only that the question has not been directly addressed in a reported Virginia decision.
+
+For the current open questions being researched under this methodology, see OPEN-LEGAL-QUESTIONS.md.
