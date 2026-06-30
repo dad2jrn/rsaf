@@ -44,3 +44,18 @@ RSAF preserves both. It does not force the analysis into a single frame.
 ## 2.9 The Servicer Is Not the Owner
 
 Where a bank continues to service an account after securitization, the bank's records are servicer records. They document what the servicer did — billing, collecting, accounting — not who owns the right to payment. Proof of servicing is not proof of ownership.
+
+---
+
+## Judge's Checklist
+
+**Against the nine principles:**
+
+- [ ] § 2.1: Has the plaintiff proven standing, or is standing assumed from the filing of the complaint?
+- [ ] § 2.2 / § 2.9: Is the plaintiff serving the account or owning the receivable — or both? Has the distinction been addressed?
+- [ ] § 2.3: Has the analysis distinguished the account (the credit relationship) from the receivable (the right to payment)?
+- [ ] § 2.4: Have the plaintiff's public securitization documents been used correctly — as the evidentiary framework, not as proof of account-specific events?
+- [ ] § 2.5: Has the plaintiff identified and committed to a specific theory (retention or reacquisition)? Has it produced evidence for that theory?
+- [ ] § 2.6: Is every conclusion in the analysis supported by record evidence — not industry custom, probability, or assumption?
+- [ ] § 2.7: Is the transfer path explained in plain language before the legal argument begins?
+- [ ] § 2.8: Are both the standing framing and the failure-of-proof framing preserved?

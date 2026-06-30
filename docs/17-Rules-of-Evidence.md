@@ -142,3 +142,30 @@ For each document in the evidentiary record, RSAF must determine:
 | Does the document prove what the plaintiff claims it proves, or does it prove something else? | |
 
 This checklist is applied sequentially. A document that fails the authentication test does not reach the hearsay analysis. A document that clears authentication and hearsay but is account-level irrelevant — because it proves program structure but not account-specific events — contributes nothing to the standing element.
+
+---
+
+## Judge's Checklist
+
+**Before admitting any document offered by plaintiff:**
+
+- [ ] Has the document been authenticated? By live testimony or permissible certification?
+- [ ] If authentication is by affidavit: does the affidavit address each foundational element, or is it conclusory ("I am a custodian and I have reviewed these records")?
+- [ ] Is the document hearsay? If so, what exception applies?
+- [ ] If business records exception: is the foundation complete (time of creation, knowledge of creator, regular course, regular practice, no untrustworthiness indicator)?
+
+**On acquired records:**
+
+- [ ] Were these records created by a different entity than the plaintiff?
+- [ ] Does the custodian's foundation address the originating entity's recordkeeping — not just how the plaintiff stores the records today?
+
+**The key distinction:**
+
+- [ ] Does the document prove what the plaintiff says it proves, or something different?
+- [ ] Account statements prove account activity — balance, charges, payments. They do not prove who currently holds the legal right to collect.
+- [ ] An affidavit that asserts the plaintiff "owns" the account does not substitute for transfer documents that prove it.
+
+**In arbitration:**
+
+- [ ] Arbitrators have broader evidentiary discretion. Foundational deficiencies may go to weight rather than admissibility.
+- [ ] RSAF should still identify the deficiency and argue that it reduces the document's probative value.

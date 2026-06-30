@@ -125,3 +125,35 @@ The following statutes, rules, and authorities should be researched and verified
 | Green v. Portfolio Recovery Associates, LLC, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) | Chain-of-title scrutiny in debt collection; en banc affirmed PRA's judgment | Read en banc opinion directly before citing; vacated panel opinion not binding |
 
 RSAF must not cite any of these authorities in a court-facing document without verifying the current text and confirming the proposition stated. This chapter is a research checklist, not a substitute for primary research.
+
+---
+
+## Judge's Checklist
+
+**On standing and merits:**
+
+- [ ] Has the defendant raised a standing challenge, a failure-of-proof challenge, or both?
+- [ ] A pure standing challenge may not succeed at summary judgment if the plaintiff can show a factual dispute on ownership. Has the merits framing — failure to prove ownership as an element — been preserved?
+
+**On evidence admissibility in Virginia:**
+
+- [ ] Are the plaintiff's records offered as business records under Rule 2:803(6)?
+- [ ] Does the custodian have knowledge of the recordkeeping system in which the records were created — not just the system in which the plaintiff currently stores them?
+- [ ] For acquired records: has the foundation addressed the originating entity's recordkeeping practices?
+
+**On the governing UCC:**
+
+- [ ] Has the plaintiff identified the governing UCC filing (perfection of the receivable transfer)?
+- [ ] A UCC filing covering a pool of receivables is structural evidence. It does not establish that this specific receivable was included.
+- [ ] Has the defendant been notified of the assignment under § 8.9A-406, if applicable?
+
+**On limitations:**
+
+- [ ] What is the applicable limitations period for this claim in Virginia (five years for signed written contract; three years for other contracts)?
+- [ ] When did the cause of action accrue?
+- [ ] Has the limitations defense been raised and preserved?
+
+**On Green v. PRA:**
+
+- [ ] Before citing *Green*: are you citing the en banc majority opinion (Dec. 2024), not the vacated panel?
+- [ ] *Green* held ownership is a merits element subject to trial proof — not that PRA's specific evidence is categorically sufficient.
