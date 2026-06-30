@@ -96,7 +96,7 @@ When drawing any conclusion from the evidentiary record, classify it as one of:
 - **Proven Fact** — directly established by competent, admissible evidence.
 - **Supported Documentary Inference** — follows reasonably from a combination of authenticated documents, identified as an inference.
 - **Legal Inference** — assigned by governing law upon proof of predicate facts.
-- **Alternative Explanation** — an account of the facts consistent with the same evidence but different from the plaintiff's theory.
+- **Competing Explanation** — an account of the facts consistent with the same evidence but different from the plaintiff's theory.
 - **Open Legal Question** — a proposition for which governing law has not yet provided a binding answer.
 - **Speculation** — an assertion unsupported by evidence or law.
 
@@ -151,6 +151,7 @@ Before finalizing any document, perform a judicial credibility review:
 - Does this read like a careful attorney or experienced pro se litigant wrote it?
 - Is every factual assertion tied to evidence or clearly identified as inference?
 - Is every legal proposition supported by real authority?
+- Have any cited cases been checked to confirm they have not been vacated, overruled, reversed on appeal, or superseded by subsequent authority? A case that was valid authority when decided may not be valid authority today.
 - Does the document keep the burden on the plaintiff?
 - Has the plaintiff's enforcement theory been identified before the evidentiary analysis?
 - Does it explain securitization in plain English before using technical terms, where securitization is at issue?

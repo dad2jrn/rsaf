@@ -48,7 +48,7 @@ Defendant hereby asserts the following affirmative defenses. Defendant does not 
 
 Plaintiff bears the burden of proving its present legal right to enforce the receivable it seeks to collect. Filing a lawsuit does not establish that right.
 
-To enforce a debt through legal process, Plaintiff must prove that it presently holds the legal right to collect this specific receivable from this specific Defendant. Where the receivable has been originated by a national bank, securitized through a trust structure, and subsequently charged off, removed, and reassigned, proof of that right requires: (a) an unbroken chain of documented transfers from the originating bank to the Plaintiff, (b) with account-specific documentation at each step that identifies Defendant's account or receivable, (c) authenticated by a witness competent to lay the business records foundation for each entity in the chain.
+To enforce a debt through legal process, Plaintiff must prove that it presently holds the legal right to collect this specific receivable from this specific Defendant. If Plaintiff acquired the receivable through any transfer — including but not limited to assignment, sale, securitization, removal and reassignment from a trust, or other conveyance — Plaintiff must produce account-specific documentation identifying Defendant's account or receivable at each step in that chain, authenticated by a witness competent to establish the business records foundation for each entity in the chain. If Plaintiff asserts that the receivable was never transferred and that Plaintiff is the original creditor, Plaintiff must produce documentation establishing continuous ownership from origination to the date of suit.
 
 Plaintiff has [not produced / produced insufficient] evidence establishing its present right to enforce. Accordingly, Plaintiff has not satisfied this element of its claim.
 
@@ -58,7 +58,7 @@ Plaintiff has [not produced / produced insufficient] evidence establishing its p
 
 Plaintiff has not produced competent, admissible, account-specific evidence establishing that it presently owns the right to enforce the receivable. This is a required element of each claim asserted.
 
-Program-level documents — such as pooling and servicing agreements, prospectuses, trust agreements, and similar instruments — may establish how a securitization program is structured. They do not prove what happened to Defendant's specific receivable. Plaintiff must produce account-level documentation specifically identifying Defendant's account at each stage of any claimed transfer.
+Program-level documents — such as pooling and servicing agreements, prospectuses, trust agreements, and similar instruments — may establish how a securitization program is structured. They do not prove what happened to Defendant's specific receivable. Plaintiff must produce account-level documentation specifically identifying Defendant's account at each stage of any claimed transfer. This same distinction applies regardless of the transfer mechanism: a bulk portfolio sale agreement, assignment contract, or other program-level instrument establishes the terms of the transfer; it does not prove that this Defendant's specific receivable was included.
 
 To the extent Plaintiff has not produced such documentation, it has not carried its burden on the ownership element, and Plaintiff cannot prevail regardless of what Plaintiff's servicing records show about account balances, payment history, or charge-off status.
 

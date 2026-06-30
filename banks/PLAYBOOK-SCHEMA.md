@@ -13,7 +13,7 @@ A playbook is a research framework, not an advocacy file. It documents what is k
 ```
 # [Bank Name] Playbook
 
-**Status:** [Research stub | Substantive draft | Verified]
+**Status:** [Research stub | Structural draft | Substantive draft | Verified]
 **Originating entity:** [Full legal name of the issuing bank, with note if research is needed to confirm]
 **Last EDGAR review:** [Date of most recent EDGAR search used in this playbook]
 ```
@@ -166,8 +166,10 @@ Minimum categories (adjust based on governing agreements):
 
 A **research stub** contains the header, the purpose statement, a list of required public documents to locate, and a generic transfer-path template. It does not contain verified program-specific content. The stub makes clear that EDGAR research is required before it can be used.
 
+A **structural draft** identifies the expected program structure — participants, agreement names, trust hierarchy, and transfer path — based on general knowledge of publicly available programs and prior research, but has not confirmed those details against the primary governing documents obtained from EDGAR. A structural draft is more detailed than a research stub but does not carry the evidentiary weight of a substantive draft. It is useful as a research starting point but must not be used as authority for factual propositions about a specific program's structure.
+
 A **substantive draft** has completed sections 1 through 11, with each material statement supported by a citation to a verified public source. It may still have open items in section 10, but those items are identified and bounded.
 
 A **verified playbook** has no material unresolved items in section 10, and every statement in sections 3 through 8 has been confirmed against the primary governing document.
 
-Only substantive drafts and verified playbooks should be used to supplement a case analysis. Research stubs identify what research is needed; they do not supply the research.
+Only **substantive drafts** and **verified playbooks** should be used to supplement a case analysis. A structural draft identifies the expected structure but requires EDGAR research before any factual proposition can be relied upon. Research stubs identify what research is needed; they do not supply the research.
