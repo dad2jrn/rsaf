@@ -1,60 +1,55 @@
-# 08. Program-Level vs. Account-Level Evidence
+# 08 — Program-Level vs Account-Level Evidence
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
-
-## 08.1 Purpose
+## 8.1 Purpose
 
 This chapter defines one of RSAF's most important distinctions.
 
-## 08.2 Program-Level Evidence
+## 8.2 Program-Level Evidence
 
-Program-level evidence describes how a bank's receivable-transfer system operates. It may show that the bank routinely transfers eligible receivables through a defined structure.
+Program-level evidence describes how a bank's securitization program operates. It may show that eligible credit-card receivables are routinely transferred through a defined chain.
 
-Examples:
+Examples include:
 
-- SEC prospectus;
-- prospectus supplement;
-- corporate 10-K;
-- trust 10-K;
-- trust 10-D;
-- receivables purchase agreement;
-- transfer and servicing agreement;
-- pooling and servicing agreement;
-- trust agreement;
+- SEC prospectuses.
+- Prospectus supplements.
+- Receivables Purchase Agreements.
+- Transfer and Servicing Agreements.
+- Pooling and Servicing Agreements.
+- Trust agreements.
+- Indentures.
+- Trust 10-K filings.
+- Corporate 10-K filings.
 - UCC filings.
 
-## 08.3 Account-Level Evidence
+## 8.3 Account-Level Evidence
 
-Account-level evidence connects the specific defendant's receivable to the plaintiff.
+Account-level evidence connects the specific defendant's receivable to a transfer, removal, reassignment, or retention theory.
 
-Examples:
+Examples include:
 
-- account-specific assignment;
-- account-specific reassignment;
-- schedule identifying the account;
-- removal notice identifying the account;
-- bill of sale with linked account schedule;
-- authenticated transfer record identifying the account.
+- Executed assignment naming or identifying the account.
+- Executed reassignment naming or identifying the account.
+- Schedule 1 or equivalent account schedule.
+- Collateral certificate tied to the account.
+- Removal notice identifying the account.
+- Authenticated records linking the specific receivable to the plaintiff.
 
-## 08.4 The RSAF Rule
+## 8.4 The RSAF Rule
 
-Program-level evidence defines the evidentiary framework. Account-level evidence proves the specific claim.
+Program-level documents define the evidentiary framework. Account-level documents prove the specific claim.
 
-A plaintiff's public documents may show that eligible receivables are routinely sold through a bankruptcy-remote transferor to a trust. If the plaintiff later sues on a specific receivable, those public documents help identify what proof the plaintiff should have if it claims:
+## 8.5 Securitization Inference Framework
 
-1. the receivable was never sold; or
-2. the receivable was sold and later reacquired.
+If a bank's public documents show a recurring program in which eligible credit-card receivables are sold into a securitization structure, RSAF may use those documents to identify the transfer path and the records that would ordinarily evidence retention, transfer, removal, or reacquisition.
 
-## 08.5 Proper Argument Form
+If the plaintiff claims the receivable was never transferred, the plaintiff should produce competent evidence supporting that position.
 
-Avoid overstating the inference.
+If the plaintiff claims the receivable was transferred and later reacquired, the plaintiff should produce the complete account-specific chain required by the governing agreements.
 
-Do not write:
+## 8.6 Limiting Principle
 
-> The prospectus proves this receivable was sold.
+RSAF should not state that the public documents alone prove that a specific receivable was transferred unless the documents actually identify the specific receivable.
 
-Prefer:
+The stronger formulation is:
 
-> The prospectus and governing agreements establish the plaintiff's receivable-transfer structure and identify the types of documents that would ordinarily evidence whether a specific receivable was sold, removed, or reassigned. Plaintiff has not produced those account-specific documents.
+> Plaintiff's own public documents establish the program and the documents that would ordinarily evidence transfer or reacquisition. Plaintiff has not produced account-specific evidence showing that this receivable was retained or reacquired.

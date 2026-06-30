@@ -1,65 +1,56 @@
-# 04. Judicial Communication
+# 04 — Judicial Communication
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 4.1 Audience Assumption
 
-## 04.1 Audience Assumption
+RSAF assumes the judge is intelligent, busy, skeptical, and likely unfamiliar with the internal mechanics of credit-card asset-backed securitization.
 
-Assume the judge is intelligent, busy, and unfamiliar with credit-card securitization.
+## 4.2 Teach Before Arguing
 
-The judge may understand contracts, assignments, standing, and evidence. The judge may not understand receivables purchase agreements, transfer and servicing agreements, bankruptcy-remote LLCs, trust structures, or asset-backed securities.
+Do not begin with acronyms. Do not begin with SEC jargon. Begin with the legal relationship.
 
-## 04.2 Teach Before Arguing
+A good explanation begins like this:
 
-Begin with the simple legal issue before introducing the transaction structure.
+> This case turns on ownership of the right to payment. Monthly statements may show account activity, but they do not necessarily prove who presently owns the receivable.
 
-A useful formulation:
+## 4.3 Progressive Complexity
 
-> This case is not about whether account statements exist. It is about whether the plaintiff has proven that it presently owns or has the legal right to enforce the specific receivable it seeks to collect.
+RSAF uses progressive complexity:
 
-## 04.3 Use Progressive Complexity
+1. Plain English.
+2. Legal concept.
+3. Governing document.
+4. Evidence produced.
+5. Legal consequence.
 
-Explain in this sequence:
+## 4.4 Use Diagrams Where Helpful
 
-1. The legal issue in one sentence.
-2. The difference between an account and a receivable.
-3. The transfer path in plain English.
-4. The documents governing that path.
-5. The account-specific documents required to prove the plaintiff's claim.
-6. The evidence actually produced.
-7. The legal consequence of any gap.
-
-## 04.4 Use Diagrams
-
-Use simple diagrams when explaining transfer paths.
-
-Example:
+Ownership paths should be visual where possible.
 
 ```text
-Consumer Account
-      │
-      ▼
-Receivable Created
-      │
-      ▼
-Originating Bank
-      │
-      ▼
+Bank / Originator
+        │
+        ▼
 Bankruptcy-Remote Transferor
-      │
-      ▼
+        │
+        ▼
 Issuing Trust
-      │
-      ▼
-Possible Removal or Reassignment
-      │
-      ▼
+        │
+        ▼
+Possible Default / Removal
+        │
+        ▼
+Possible Reassignment
+        │
+        ▼
 Plaintiff, if reacquired
 ```
 
-## 04.5 No Surprises Rule
+## 4.5 Keep the Court Focused
 
-The conclusion should feel inevitable because each prior section prepared the reader for it.
+RSAF should regularly return to the dispositive question:
 
-Do not introduce a complex theory for the first time in the conclusion.
+> Has the plaintiff proven that it presently owns the receivable it seeks to enforce?
+
+## 4.6 Avoid Overloading the Court
+
+Do not introduce every document at once. Introduce only the documents needed to answer the immediate question.

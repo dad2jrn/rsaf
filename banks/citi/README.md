@@ -1,26 +1,51 @@
-# citi Playbook
+# Citi Playbook
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Placeholder
+**Status:** Research stub  
+**Version:** 0.1.0
 
 ## Purpose
 
-This bank playbook will identify the issuer's credit-card receivable securitization structure, public filings, governing agreements, transfer path, reacquisition mechanics, and account-level proof requirements.
+This playbook applies RSAF to Citi's credit-card receivable structure. It must be completed using verified public filings, governing agreements, and account-level evidence.
 
-## Required Research
+## Required Public Documents
 
-- Cardmember agreement forms and choice-of-law provisions.
-- SEC prospectuses and prospectus supplements.
-- Receivables Purchase Agreement or equivalent.
-- Transfer and Servicing Agreement or Pooling and Servicing Agreement.
-- Trust agreement and indenture.
-- Corporate 10-K and relevant securitization footnotes.
-- Trust 10-K and 10-D filings.
+- Cardmember agreement.
+- Arbitration agreement.
+- Corporate 10-K.
+- Trust 10-K.
+- Prospectus.
+- Prospectus supplements.
+- Receivables Purchase Agreement.
+- Transfer and Servicing Agreement.
+- Pooling and Servicing Agreement, if applicable.
+- Trust agreement.
+- Indenture.
 - UCC filings.
-- Reassignment, removal, or repurchase mechanics.
-- Required schedules or account-level exhibits.
+- Servicing reports or distribution reports.
 
-## Status
+## Transfer Path
 
-Not yet researched.
+```text
+Originating Bank
+        ↓
+Transferor / Depositor / Bankruptcy-Remote Entity
+        ↓
+Issuing Trust
+        ↓
+Default / Removal / Reassignment mechanism
+        ↓
+Plaintiff, if reacquired
+```
+
+## Account-Level Proof to Request
+
+- Executed assignment.
+- Executed reassignment.
+- Schedule identifying the account.
+- Removal notice.
+- Collateral certificate.
+- Documents proving retention if plaintiff claims the receivable was never transferred.
+
+## Research Notes
+
+Do not add legal conclusions until the public documents have been verified.

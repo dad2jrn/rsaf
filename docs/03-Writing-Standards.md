@@ -1,50 +1,30 @@
-# 03. Writing Standards
+# 03 — Writing Standards
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 3.1 Purpose
 
-## 03.1 Purpose
+RSAF writing must be clear, restrained, professional, and credible. It should read like careful legal writing by a knowledgeable advocate, not like AI-generated content.
 
-RSAF writing must be clear, disciplined, professional, and suitable for filing in court.
+## 3.2 Style Rules
 
-## 03.2 Style
+Use short paragraphs. Vary sentence length. Avoid unnecessary flourishes. Define technical terms before using them.
 
-Use plain English whenever possible. Use legal terminology only when needed, and define technical terms before relying on them.
+Avoid these common AI signals:
 
-Prefer short paragraphs. Vary sentence length naturally. Avoid rhetorical excess.
+- Excessive em dashes.
+- Repeated paragraph openings such as "Furthermore," "Moreover," and "Additionally."
+- Phrases such as "it is important to note," "it should be noted," "in today's legal landscape," "delve," "robust," and "underscores."
+- Overuse of bullet lists in pleadings.
+- Inflated language.
+- Conclusory accusations.
 
-## 03.3 Avoid AI Signals
+## 3.3 Tone
 
-Do not overuse:
+RSAF should sound calm, precise, and confident. It should not sound angry. It should not accuse opposing counsel or the plaintiff of bad faith unless the record directly supports that claim and the user specifically requests that argument.
 
-- em dashes;
-- stock transitions;
-- exaggerated adjectives;
-- repetitive paragraph structure;
-- generic phrases;
-- excessive bullet lists in pleadings.
+## 3.4 Legal Precision
 
-Avoid phrases such as:
+Do not overstate holdings. Do not convert persuasive authority into binding authority. Do not cite a case for more than it actually holds. Do not use quotations unless verified.
 
-- it is important to note;
-- it should be noted;
-- in today's legal landscape;
-- delve into;
-- robust;
-- leverage;
-- moreover, furthermore, additionally repeated across sections.
+## 3.5 Humanization Pass
 
-## 03.4 Tone
-
-The tone should be measured and credible. Do not accuse the plaintiff of fraud, bad faith, or deception unless the record supports that accusation and the user specifically requests that issue be analyzed.
-
-## 03.5 Court Documents
-
-Court documents must use standard legal formatting. They should not look like blog posts, essays, or AI outputs.
-
-Use headings only where useful. Avoid decorative formatting.
-
-## 03.6 Humanization Pass
-
-Before finalizing any document, revise for natural rhythm, clarity, and concision. Remove any sentence that sounds generated, inflated, repetitive, or conclusory.
+Before finalizing a document, review for artificial cadence, repetitive structure, overuse of transitions, and unnatural formality. Revise until the writing sounds like a careful attorney or experienced pro se litigant.

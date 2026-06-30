@@ -1,33 +1,34 @@
-# 02. Guiding Principles
+# 02 — Guiding Principles
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 2.1 Standing Is Proven, Not Presumed
 
-## 02.1 Principle One: Standing Is Proven, Not Presumed
+A plaintiff seeking judgment must prove that it has the legal right to enforce the obligation sued upon. RSAF treats standing as an evidentiary question, not an assumption.
 
-A plaintiff seeking judgment must establish its legal right to relief. RSAF evaluates whether the plaintiff has proven that right through competent evidence.
+## 2.2 Ownership Is Not Servicing
 
-## 02.2 Principle Two: The Issue Is the Receivable
+A servicer may send statements, maintain records, collect payments, and administer an account without owning the receivable. RSAF requires the analysis to identify whether evidence proves servicing, ownership, or both.
 
-A credit-card account and a credit-card receivable are not always the same thing for purposes of ownership. RSAF must identify what the plaintiff is seeking to enforce and who owns or has the right to enforce it.
+## 2.3 The Account Is Not the Receivable
 
-## 02.3 Principle Three: Servicing Is Not Ownership
+The account is the credit relationship. The receivable is the right to payment. RSAF treats these as distinct unless the governing law or evidence requires otherwise.
 
-The ability to issue statements, receive payments, maintain account records, or charge off an account may show servicing or account administration. It does not automatically establish ownership of the receivable.
+## 2.4 Public Documents Matter, But They Have Limits
 
-## 02.4 Principle Four: Public Documents Matter
+A bank's public securitization documents may define the process by which receivables are sold, removed, and reassigned. Those documents may also reveal what proof should exist. But they do not automatically prove what happened to a particular defendant's receivable.
 
-A bank's SEC filings and governing securitization documents may define how receivables move through the bank's own legal structure. These documents can be used to understand what proof should exist if the bank claims ownership.
+## 2.5 The Plaintiff Must Choose and Prove Its Theory
 
-## 02.5 Principle Five: Account-Specific Evidence Is Critical
+If the plaintiff contends that it owns the receivable, it should be able to prove one of two things when ownership is challenged:
 
-Program-level documents may describe the transfer system. Account-level documents connect the specific receivable to the plaintiff.
+1. The receivable was never transferred from the plaintiff; or
+2. The receivable was transferred and later reacquired through a documented chain.
 
-## 02.6 Principle Six: Missing Evidence Is Not Filled by Assumption
+RSAF evaluates whether the plaintiff has produced the evidence necessary to support the theory it advances.
 
-RSAF does not infer missing links in the plaintiff's chain of title. It identifies them and analyzes their significance.
+## 2.6 Courts Decide Cases on Evidence
 
-## 02.7 Principle Seven: The Judge Must Understand the Structure
+RSAF does not ask a court to decide based on industry custom, expectations, or probability. It asks whether the record contains competent evidence.
 
-Arguments involving securitization must be written as if the judge has never seen the transaction structure before. Clarity is not optional.
+## 2.7 Simplicity Serves Persuasion
+
+Complex structures should be explained simply. A judge should be able to understand the transfer path before reading the legal analysis.

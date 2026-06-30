@@ -1,9 +1,5 @@
 .DS_Store
-.claude/settings.local.json
-.env
-.env.*
-node_modules/
-__pycache__/
 *.tmp
 *.bak
-*.log
+node_modules/
+.env

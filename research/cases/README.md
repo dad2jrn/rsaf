@@ -1,24 +1,20 @@
-# Case Research
+# Case Law Research
 
-All case law must be verified before use.
+This folder tracks verified case law. Do not add a case until the citation, court, year, holding, and proposition have been verified.
 
-Each case entry should include:
+## Required Metadata
 
-- case name;
-- citation;
-- court;
-- year;
-- procedural posture;
-- holding;
-- proposition supported;
-- binding or persuasive status;
-- verification source;
-- quotation, only if exact and verified.
+- Case name.
+- Citation.
+- Court.
+- Year.
+- Jurisdiction.
+- Binding or persuasive.
+- Holding.
+- Proposition supported.
+- Limitations.
+- Quote verification status.
 
-## Priority Research Topics
+## Priority Cases
 
-- Virginia standing and credit-card collection cases.
-- Virginia account statement / ownership evidence cases.
-- Delaware UCC assignment and proof-of-assignment cases.
-- FDCPA current creditor identification cases.
-- Chain-of-title cases involving debt buyers.
+- Green v. Portfolio Recovery Associates — Virginia Court of Appeals. Verify exact citation and holding before use.

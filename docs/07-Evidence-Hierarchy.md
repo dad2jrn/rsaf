@@ -1,68 +1,64 @@
-# 07. Evidence Hierarchy
+# 07 — Evidence Hierarchy
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 7.1 Purpose
 
-## 07.1 Purpose
+Not all documents prove the same thing. RSAF classifies evidence according to what it can and cannot establish.
 
-Not all documents prove the same thing. RSAF classifies evidence by purpose and probative value.
+## 7.2 Ownership Evidence
 
-## 07.2 Ownership Evidence
+High-value ownership evidence may include:
 
-Ownership evidence may include:
+- Executed assignments.
+- Executed reassignments.
+- Bills of sale.
+- Account schedules identifying the defendant's account.
+- Collateral certificates.
+- Removal notices.
+- Authenticated transfer records.
 
-- executed assignments;
-- executed reassignments;
-- bills of sale;
-- schedules identifying the account;
-- collateral certificates;
-- removal or addition notices;
-- authenticated account-specific transfer records.
-
-These documents may prove ownership if they are admissible and complete.
-
-## 07.3 Servicing Evidence
+## 7.3 Servicing Evidence
 
 Servicing evidence may include:
 
-- monthly statements;
-- payment history;
-- charge-off records;
-- account notes;
-- customer service records;
-- custodian affidavits;
-- balance records.
+- Monthly statements.
+- Payment histories.
+- Charge-off records.
+- Internal account notes.
+- Collection records.
+- Custodian affidavits authenticating records.
 
-These documents may prove account administration, balance history, or account activity. They do not automatically prove present ownership of the receivable.
+Servicing evidence may show account activity or balance history. It does not necessarily prove ownership.
 
-## 07.4 Structural Evidence
+## 7.4 Structural Evidence
 
 Structural evidence may include:
 
-- prospectuses;
-- prospectus supplements;
-- transfer and servicing agreements;
-- receivables purchase agreements;
-- pooling and servicing agreements;
-- trust agreements;
-- indentures;
-- 10-K filings;
-- 10-D filings;
-- UCC filings;
-- investor disclosures.
+- Prospectuses.
+- Prospectus supplements.
+- Corporate 10-Ks.
+- Trust 10-Ks.
+- RPAs.
+- TSAs.
+- PSAs.
+- Indentures.
+- Trust agreements.
+- UCC financing statements.
 
-These documents explain the program and define what account-level evidence should exist.
+Structural evidence explains the program. It may identify the documentary path by which receivables are transferred and reacquired.
 
-## 07.5 Evidence Dependency Matrix
+## 7.5 Evidence Weight Table
 
-| Document | Primary Purpose | Proves Ownership by Itself? | Notes |
-|---|---|---:|---|
-| Cardmember agreement | Contract relationship | No | May establish terms and choice of law. |
-| Monthly statement | Account activity and balance | No | May not prove ownership. |
-| Prospectus | Program structure | No | Useful to explain securitization structure. |
-| TSA / PSA | Transfer mechanics | No | Defines how receivables move. |
-| RPA | Sale mechanics | No | Defines sale from bank to transferor. |
-| Executed assignment | Transfer of receivable | Potentially | Must connect to account. |
-| Executed reassignment | Return of receivable | Potentially | Must connect to account. |
-| Schedule identifying account | Account linkage | With executed transfer document | Critical account-level proof. |
+| Evidence Type | Typical Ownership Value | Typical Limitation |
+|---|---:|---|
+| Executed account-specific reassignment | High | Must be authenticated and linked to account |
+| Executed account-specific assignment | High | Must identify the receivable or account |
+| Bill of sale with schedule | High | Schedule must connect to defendant's account |
+| Generic bill of sale | Moderate to low | May not prove specific account transfer |
+| Monthly statements | Low for ownership | Shows account activity, not title |
+| Custodian affidavit | Variable | Often authenticates records, but may not prove ownership |
+| Prospectus | Structural | Program-level only |
+| TSA/RPA | Structural | Describes mechanics, not specific transfer unless executed schedule attached |
+
+## 7.6 Key Analytical Question
+
+What does this document prove, and what does it not prove?

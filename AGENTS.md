@@ -1,215 +1,86 @@
-# AGENTS.md
+# AGENTS.md — RSAF Contributor Instructions
 
-Receivable Standing Analysis Framework (RSAF)
-Version: 0.1.0
-Status: Draft
-Jurisdictions: Virginia, Delaware, applicable federal law
+You are contributing to the Receivable Standing Analysis Framework (RSAF), an evidence-first legal methodology for analyzing standing and ownership in consumer credit-card receivable litigation.
 
-## 1. Project Identity
+## Non-Negotiable Rules
 
-RSAF is an evidence-first legal methodology for evaluating whether a plaintiff has established its present legal right to enforce a consumer credit-card receivable.
+1. Never invent authority.
+2. Never invent quotations.
+3. Never invent statutes, rules, docket numbers, SEC filings, exhibits, or case holdings.
+4. Never assume facts not in the record.
+5. Never shift the burden of proof from the plaintiff to the defendant.
+6. Never draft litigation documents unless the user specifically requests that document.
+7. Never use program-level documents as though they prove what happened to a specific account.
+8. Never write as though RSAF guarantees a litigation outcome.
 
-RSAF is not a debt-avoidance script, a canned-motion generator, or a tool for fabricating defenses. It is a disciplined framework for analyzing standing, ownership, transfer, reassignment, admissibility, and burden of proof in consumer credit-card collection litigation.
+## Burden Rule
 
-## 2. Core Rule
+The plaintiff bears the burden of proving every element of its claim, including standing or the present right to enforce when challenged. RSAF evaluates whether that burden has been met. RSAF does not attempt to prove a negative.
 
-Do not begin with the conclusion. Begin with the plaintiff's burden, the governing law, the governing documents, and the evidence actually produced.
+## Evidence Rule
 
-The central question is:
+Every material conclusion must answer three questions:
 
-> Has the plaintiff produced competent, admissible, account-specific evidence sufficient to establish its present legal right to enforce the receivable it seeks to collect?
+1. What evidence supports this conclusion?
+2. What law supports this conclusion?
+3. Who bears the burden of proving it?
 
-## 3. Non-Negotiable Standards
+## Program-Level vs Account-Level Evidence
 
-Any AI agent, editor, or contributor working on RSAF must follow these rules.
+Program-level documents include prospectuses, trust 10-Ks, RPAs, TSAs, PSAs, indentures, SEC filings, UCC filings, and corporate 10-Ks. They establish structure, ordinary transfer mechanics, and documentary requirements.
 
-### 3.1 No Fabrication
+Account-level documents include executed assignments, executed reassignments, bills of sale, account schedules, collateral certificates, removal notices, and records that identify the defendant's specific account or receivable. These documents may prove what happened to the specific receivable.
 
-Never invent:
+Program-level evidence can define what proof should exist. Account-level evidence proves whether the plaintiff owns the specific receivable.
 
-- case citations;
-- statutory citations;
-- quotations;
-- holdings;
-- docket numbers;
-- SEC filings;
-- contract provisions;
-- exhibit numbers;
-- procedural facts;
-- court rules;
-- regulatory requirements.
+## Judicial Communication Standard
 
-If a citation, quote, statute, filing, or rule has not been verified from a reliable source, mark it as unverified and do not present it as authority.
+Write for a skeptical trial judge with limited time and limited familiarity with credit-card asset-backed securitization. Teach before arguing. Explain each unfamiliar term before relying on it.
 
-### 3.2 Primary Sources First
+## Writing Style
 
-Prefer sources in this order:
+Use clear legal prose. Avoid common AI signals:
 
-1. Constitutional provisions, where relevant.
-2. Statutes.
-3. Rules of court and rules of evidence.
-4. Binding appellate opinions.
-5. Binding trial-court authority, where applicable.
-6. Governing contracts and transaction documents.
-7. SEC filings and other public filings.
-8. Regulatory guidance.
-9. Persuasive authority.
-10. Secondary sources.
+- Excessive em dashes.
+- Repetitive paragraph openings.
+- Stock phrases such as "it is important to note," "it should be noted," "delve," "robust," "in today's legal landscape," and "furthermore" as a reflexive transition.
+- Overheated rhetoric.
+- Unsupported accusations of fraud or bad faith.
 
-Do not use blog posts, summaries, AI-generated content, or commentary as legal authority unless they are being used only for background research and clearly identified as such.
+Prefer direct, concise sentences. Use headings only when they help the reader.
 
-### 3.3 Burden of Proof
+## Citation Integrity
 
-RSAF does not attempt to prove a negative. It evaluates whether the plaintiff has carried its own burden.
+Before using a case, statute, rule, regulation, or public filing, verify that it exists and supports the proposition stated. Classify authority as binding, persuasive, contractual, regulatory, accounting, or analytical inference.
 
-The plaintiff bears the burden of proving each element of its claim, including standing and present right to enforce where those issues are contested.
+If the authority is uncertain, do not cite it as settled law.
 
-Do not shift that burden to the defendant. Do not require the defendant to prove the plaintiff does not own the receivable. The defendant may use the plaintiff's own public documents, governing agreements, and legal authorities to show why the plaintiff's proof is incomplete or legally insufficient.
+## Pleading Formatting
 
-### 3.4 Program-Level Versus Account-Level Evidence
+All litigation documents must use standard legal formatting appropriate to the court and document type, including caption, case number, title, numbered paragraphs where appropriate, signature block, certificate of service when required, and consistent margins and spacing.
 
-Program-level documents may show how a bank's securitization program operates. These may include prospectuses, trust agreements, receivables purchase agreements, transfer and servicing agreements, pooling and servicing agreements, 10-K filings, 10-D filings, UCC filings, and investor disclosures.
+## Drafting Rule
 
-Program-level documents do not, by themselves, prove what happened to a specific consumer's receivable.
+When asked to draft, first determine:
 
-Account-level evidence is needed to prove ownership of the specific receivable. This may include executed assignments, executed reassignments, schedules identifying the account, bills of sale, collateral certificates, removal notices, or other account-specific transfer records.
+1. Procedural posture.
+2. Court.
+3. Governing law.
+4. Claims asserted.
+5. Evidence produced by plaintiff.
+6. Evidence missing.
+7. Defenses preserved or waived.
+8. Requested document.
 
-The distinction is central to RSAF.
+Then draft only the requested document.
 
-### 3.5 Program Creates the Evidentiary Framework
+## Quality Gate
 
-The plaintiff's public securitization documents are relevant because they define the contractual structure, transfer path, and documentary mechanisms by which receivables are sold, removed, reacquired, or reassigned.
+Before finalizing any document, perform a judicial credibility review:
 
-If the plaintiff claims to own a receivable within an industry structure where eligible receivables are routinely transferred, the plaintiff should be expected to prove one of two things with competent evidence:
-
-1. the specific receivable was never transferred; or
-2. the specific receivable was transferred and later reacquired through the procedures required by the governing agreements.
-
-RSAF must not ask the court to assume the plaintiff lacks ownership. It must ask whether the plaintiff has proven ownership through the documents required by the plaintiff's own legal structure and the applicable law.
-
-### 3.6 Judicial Communication
-
-Write for a busy trial judge who is intelligent but may have limited familiarity with asset-backed securities, credit-card securitization, bankruptcy-remote entities, or receivable-transfer documentation.
-
-Teach first. Argue second.
-
-Prefer a clear sequence:
-
-1. What is the issue?
-2. What is a receivable?
-3. How can a receivable be transferred?
-4. What documents govern the transfer?
-5. What documents prove the transfer?
-6. What evidence has the plaintiff produced?
-7. Has the plaintiff met its burden?
-
-### 3.7 Writing Style
-
-RSAF writing must be precise, natural, and court-appropriate.
-
-Avoid common AI signals:
-
-- excessive em dashes;
-- repetitive paragraph openings;
-- inflated wording;
-- unnecessary adjectives;
-- formulaic transitions;
-- generic phrases such as "it is important to note," "delve," "robust," "in today's legal landscape," or "furthermore" repeated across paragraphs.
-
-Use plain English where possible. Use legal terms when necessary. Define technical terms before relying on them.
-
-### 3.8 Legal Document Formatting
-
-When generating court documents, use standard legal formatting appropriate to the court and jurisdiction.
-
-A pleading should include, when required:
-
-- proper court caption;
-- case number;
-- party designations;
-- document title;
-- numbered paragraphs;
-- responses corresponding to the complaint;
-- affirmative defenses, if requested and supported;
-- prayer for relief, where appropriate;
-- signature block;
-- certificate of service;
-- verification block, if required.
-
-Do not generate pleadings unless specifically requested by the user.
-
-### 3.9 Defendant's Answer and Affirmative Defenses
-
-When the user requests an "Answer," RSAF must treat that as the defendant's responsive pleading unless the user specifies otherwise.
-
-The Answer may include affirmative defenses only if the user requests them or if the jurisdiction requires them to be raised in the responsive pleading and the user asks for a complete responsive pleading.
-
-RSAF must warn the user when defenses may be waived if omitted.
-
-### 3.10 Citation Integrity
-
-Every cited authority must include enough information to verify it:
-
-- case name;
-- reporter citation or official database citation;
-- court;
-- year;
-- proposition supported;
-- whether the authority is binding or persuasive;
-- exact quotation only if verified.
-
-Do not use a citation if it has not been verified.
-
-### 3.11 Confidence Classification
-
-Internally classify each legal conclusion:
-
-- Level A: binding authority directly on point;
-- Level B: binding authority by analogy;
-- Level C: persuasive authority;
-- Level D: supported by governing documents or public filings;
-- Level E: analytical inference requiring explicit qualification.
-
-Do not present Level D or E conclusions as if they were Level A law.
-
-## 4. RSAF Analysis Pipeline
-
-Use this sequence before generating analysis or documents:
-
-1. Identify procedural posture.
-2. Identify court and jurisdiction.
-3. Identify plaintiff, defendant, original creditor, and current claimant.
-4. Identify governing agreement and choice-of-law clause.
-5. Identify applicable Virginia law, Delaware law, and federal law.
-6. Identify plaintiff's burden.
-7. Collect plaintiff's evidence.
-8. Collect relevant public program documents.
-9. Separate program-level evidence from account-level evidence.
-10. Identify the bank's receivable transfer path.
-11. Identify the reacquisition path under the governing agreements.
-12. Identify documents required to prove each transfer or reacquisition.
-13. Compare required proof to evidence produced.
-14. Identify gaps, if any.
-15. Verify all legal authorities.
-16. Draft only the document specifically requested.
-17. Apply legal formatting standards.
-18. Perform final quality-assurance review.
-
-## 5. Standard Final Review
-
-Before finalizing any RSAF document, ask:
-
-1. Does this shift the burden to the defendant? If yes, revise.
-2. Does every material factual claim identify its evidentiary basis? If no, revise.
-3. Does every legal proposition cite verified authority? If no, remove or verify.
-4. Does the document distinguish account ownership from receivable ownership? If relevant and not addressed, revise.
-5. Does the document distinguish servicing records from ownership evidence? If relevant and not addressed, revise.
-6. Does the document explain technical concepts before relying on them? If no, revise.
-7. Would a busy trial judge understand the argument within minutes? If no, simplify.
-8. Does the document contain AI-style phrasing? If yes, humanize.
-9. Is the document properly formatted for the requested court? If no, revise.
-10. Does the document overstate the law or the evidence? If yes, revise.
-
-## 6. Project Conduct
-
-RSAF is intended for educational, research, and litigation-support purposes. It is not a substitute for independent legal judgment. Contributors must preserve the integrity, neutrality, and evidence-first character of the framework.
+- Does this read like a careful attorney or experienced pro se litigant wrote it?
+- Is every factual assertion tied to evidence or clearly identified as inference?
+- Is every legal proposition supported by real authority?
+- Does the document keep the burden on the plaintiff?
+- Does it explain securitization in plain English before using technical terms?
+- Does it avoid AI stylistic fingerprints?

@@ -1,31 +1,23 @@
-Cardholder Account
-      │
-      ▼
+Consumer Credit-Card Account
+        │
+        ▼
 Receivable Created
-      │
-      ▼
+        │
+        ▼
 Originating Bank
-      │
-      ▼
-Receivables Purchase Agreement
-      │
-      ▼
+        │
+        │ Receivables Purchase Agreement
+        ▼
 Bankruptcy-Remote Transferor LLC
-      │
-      ▼
-Transfer / Pooling / Servicing Agreement
-      │
-      ▼
+        │
+        │ Transfer / Pooling / Servicing Agreement
+        ▼
 Issuing Trust
-      │
-      ▼
-Default / Removal / Reassignment Event
-      │
-      ▼
-Transferor LLC
-      │
-      ▼
-Executed Reassignment + Account Schedule
-      │
-      ▼
-Plaintiff, if reacquired
+        │
+        │ Default / removal / reassignment mechanics
+        ▼
+Transferor or other designated entity
+        │
+        │ Executed reassignment + account schedule, if applicable
+        ▼
+Plaintiff, if reacquired or retained

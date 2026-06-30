@@ -1,44 +1,17 @@
 # Contributing to RSAF
 
-RSAF is currently a private draft framework. Contributions should preserve the project's evidence-first methodology, citation integrity, and neutral analytical posture.
+All contributions must follow `AGENTS.md`.
 
-## Contribution Standards
+## Contribution Requirements
 
-All contributions must comply with `AGENTS.md`.
+- No fabricated authority.
+- No unverified quotations.
+- No unsupported legal conclusions.
+- No burden shifting.
+- No AI-style filler.
+- Every legal proposition must be traceable to authority.
+- Every factual claim must be traceable to evidence or clearly identified as inference.
 
-## Citation Rules
+## Review Standard
 
-Do not add case law, statutory authority, regulatory guidance, or quotations unless they are verified from a reliable source.
-
-Every legal citation should include:
-
-- full case or authority name;
-- citation;
-- court or issuing authority;
-- year or date;
-- proposition supported;
-- binding or persuasive status;
-- verification source.
-
-## Writing Style
-
-Write for a busy trial judge. Use clear, disciplined prose. Avoid AI-style phrasing, excessive em dashes, inflated language, and unsupported conclusions.
-
-## Commit Discipline
-
-Use focused commits. Each commit should address one chapter, one authority update, one template, or one structural change.
-
-Suggested commit format:
-
-```text
-scope: concise description
-```
-
-Examples:
-
-```text
-docs: add RSAF constitution
-research: add Virginia standing authorities
-templates: add defendant answer skeleton
-banks/chase: add transfer path overview
-```
+A chapter is not complete until it is accurate, readable, internally consistent, and useful to a skeptical trial judge.

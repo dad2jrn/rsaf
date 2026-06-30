@@ -1,44 +1,55 @@
-# 05. Legal Methodology
+# 05 — Legal Methodology
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 5.1 Purpose
 
-## 05.1 Purpose
+This chapter defines RSAF's reasoning sequence.
 
-This chapter defines the standard RSAF analysis pipeline.
+## 5.2 Analysis Pipeline
 
-RSAF does not draft first. It analyzes first.
+```text
+Identify procedural posture
+        ↓
+Identify claims and requested relief
+        ↓
+Identify governing law
+        ↓
+Identify plaintiff's burden
+        ↓
+Inventory plaintiff's evidence
+        ↓
+Classify evidence by type
+        ↓
+Identify public program documents
+        ↓
+Map the receivable transfer path
+        ↓
+Identify required account-level proof
+        ↓
+Compare required proof to produced proof
+        ↓
+Research controlling authority
+        ↓
+Assess whether plaintiff met its burden
+        ↓
+Draft requested document, if any
+```
 
-## 05.2 Required Sequence
+## 5.3 Procedural Posture First
 
-Every RSAF analysis should proceed in this order:
+RSAF must know where the case stands before drafting. An Answer, motion to dismiss, opposition to summary judgment, arbitration demand, and trial brief require different assumptions, standards, and formatting.
 
-1. Identify the procedural posture.
-2. Identify the court.
-3. Identify the plaintiff.
-4. Identify the defendant.
-5. Identify the original creditor.
-6. Identify whether the plaintiff claims to be the original creditor, assignee, servicer, debt buyer, or another entity.
-7. Identify the governing cardmember agreement.
-8. Identify the choice-of-law clause.
-9. Identify arbitration provisions, if relevant.
-10. Identify the plaintiff's burden.
-11. Identify the evidence produced by the plaintiff.
-12. Identify public program documents relevant to the plaintiff's receivable-transfer structure.
-13. Separate program-level evidence from account-level evidence.
-14. Determine the documents required to prove sale, transfer, removal, reacquisition, or reassignment.
-15. Compare those required documents to the evidence produced.
-16. Identify missing links.
-17. Research and verify controlling law.
-18. Draft only the requested document.
+## 5.4 Law Before Argument
 
-## 05.3 Procedural Posture Controls
+Determine whether Virginia law, Delaware law, federal law, or another body of law governs each issue. Choice of law may differ for contract, procedure, evidence, arbitration, and federal statutory claims.
 
-An Answer is different from a motion to dismiss. A motion for summary judgment is different from trial. An arbitration demand is different from a court pleading.
+## 5.5 Evidence Inventory
 
-RSAF must tailor analysis and document generation to the procedural posture.
+RSAF should list every document the plaintiff has produced and classify it before analyzing sufficiency.
 
-## 05.4 No Canned Arguments
+## 5.6 Required Proof
 
-RSAF should not insert every possible defense into every document. Each defense must be supported by the facts, the governing law, and the procedural posture.
+RSAF must identify what proof would be required under the plaintiff's theory. If the plaintiff claims it never transferred the receivable, the proof differs from a claim that the receivable was transferred and later reacquired.
+
+## 5.7 Account-Specific Link
+
+A chain of title is not complete unless the evidence connects the claimed receivable to the defendant's account.

@@ -1,44 +1,39 @@
-# 06. Burden of Proof
+# 06 — Burden of Proof
 
-Receivable Standing Analysis Framework (RSAF)  
-Version: 0.1.0  
-Status: Draft
+## 6.1 Core Rule
 
-## 06.1 Core Rule
+The plaintiff bears the burden of proving every element of its claim. RSAF must not shift that burden to the defendant.
 
-The plaintiff bears the burden of proving its claim.
+## 6.2 Defendant's Role
 
-RSAF does not require the defendant to prove the plaintiff lacks standing. RSAF evaluates whether the plaintiff has proven standing and present right to enforce where those issues are contested.
+The defendant may challenge the sufficiency of the plaintiff's proof. The defendant may also use the plaintiff's public documents to explain the plaintiff's own transfer structure and identify the documents that would ordinarily evidence ownership.
 
-## 06.2 Plaintiff's Burden Matrix
+The defendant does not bear the burden of proving that the plaintiff does not own the receivable.
 
-Before drafting a litigation document, RSAF should prepare a burden matrix.
+## 6.3 Burden Matrix
 
-| Required Element | Plaintiff's Burden | Evidence Produced | Evidence Missing | Sufficient? |
-|---|---|---|---|---|
-| Jurisdiction | Plaintiff |  |  |  |
-| Contract formation | Plaintiff |  |  |  |
-| Account use | Plaintiff |  |  |  |
-| Default | Plaintiff |  |  |  |
-| Amount claimed | Plaintiff |  |  |  |
-| Standing / right to enforce | Plaintiff, when contested |  |  |  |
-| Ownership of receivable | Plaintiff, when material |  |  |  |
-| Chain of title | Plaintiff, when material |  |  |  |
+| Required Element | Burden Holder | Evidence Produced | Sufficiency Question |
+|---|---|---|---|
+| Jurisdiction | Plaintiff |  | Has the plaintiff established the court's authority? |
+| Contract formation | Plaintiff |  | Is there admissible evidence of the agreement? |
+| Default | Plaintiff |  | Is default shown by competent evidence? |
+| Amount owed | Plaintiff |  | Is the amount proven, not merely asserted? |
+| Standing / right to enforce | Plaintiff |  | Has the plaintiff shown present right to enforce? |
+| Ownership of receivable | Plaintiff, when necessary |  | Is ownership established by account-specific evidence? |
+| Chain of title | Plaintiff, when applicable |  | Is every link documented? |
 
-## 06.3 Defendant's Role
+## 6.4 No Negative-Proof Requirement
 
-The defendant may use the plaintiff's own public documents, transaction documents, and legal authorities to show that the plaintiff's evidence is incomplete or inconsistent with the plaintiff's own receivable-transfer structure.
+RSAF should not ask the defendant to prove the plaintiff lacks standing. It asks whether the plaintiff's evidence proves standing.
 
-The defendant does not have to prove the receivable was sold unless asserting an independent claim that requires that proof. In ordinary defensive use, the point is that the plaintiff has not produced sufficient evidence to prove its own claim.
+## 6.5 Missing Evidence
 
-## 06.4 Avoid Burden Shifting
+When evidence is missing, RSAF should state the gap precisely:
 
-Do not write:
+> Plaintiff has not produced an executed reassignment identifying the defendant's account.
 
-> Defendant has proven Plaintiff does not own the receivable.
+Not:
 
-Unless the evidence actually establishes that proposition.
+> Plaintiff never reacquired the debt.
 
-Prefer:
-
-> Plaintiff has not produced account-specific evidence establishing that it presently owns or has the legal right to enforce the receivable.
+The first statement describes the record. The second may overstate the evidence unless independently proven.

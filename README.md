@@ -1,84 +1,45 @@
 # Receivable Standing Analysis Framework (RSAF)
 
-**An evidence-first methodology for consumer credit-card receivable litigation.**
+**Version:** 0.1.0  
+**Status:** Draft  
+**Primary jurisdictions:** Virginia, Delaware, and applicable federal law
 
-Version: 0.1.0  
-Status: Draft  
-Primary jurisdictions for v1.0: Virginia, Delaware, and applicable federal law
+The Receivable Standing Analysis Framework (RSAF) is an evidence-first methodology for evaluating whether a plaintiff has established its present legal right to enforce a consumer credit-card receivable.
 
-## What RSAF Is
-
-The Receivable Standing Analysis Framework (RSAF) is a legal research and litigation-support framework for evaluating whether a plaintiff has established its present legal right to enforce a consumer credit-card receivable.
-
-RSAF focuses on standing, ownership, chain of title, securitization structure, account-level proof, public bank filings, governing transaction documents, applicable statutes, and verified case law.
-
-RSAF is designed for:
-
-- pro se defendants;
-- consumer-defense researchers;
-- attorneys;
-- legal technologists;
-- AI agents assisting with litigation-support work.
+RSAF does not begin with assumptions about debt, ownership, standing, or outcome. It reconstructs the chain of title using governing agreements, public disclosures, account-level evidence, applicable statutes, and verified case law.
 
 ## Central Question
 
-RSAF exists to answer one question:
-
 > Has the plaintiff produced competent, admissible, account-specific evidence sufficient to establish its present legal right to enforce the receivable it seeks to collect?
 
-## What RSAF Is Not
+## Core Principle
 
-RSAF is not legal advice.  
-RSAF is not a guarantee of any litigation outcome.  
-RSAF is not a debt-avoidance manual.  
-RSAF is not a collection of canned pleadings.  
-RSAF does not fabricate citations, facts, or defenses.
-
-RSAF is a methodology for disciplined legal and evidentiary analysis.
-
-## Core Philosophy
-
-RSAF does not ask a court to infer ownership. It asks whether the plaintiff has proven ownership through competent evidence, the governing agreements, and applicable law.
-
-The plaintiff bears the burden. RSAF does not attempt to prove a negative.
-
-## Initial Project Scope
-
-RSAF v1.0 is initially focused on:
-
-- Virginia collection litigation;
-- Delaware choice-of-law issues common in national bank cardmember agreements;
-- applicable federal law;
-- credit-card receivable securitization;
-- bank-originated credit-card receivables;
-- standing and present right to enforce;
-- public securitization documents;
-- account-level chain-of-title evidence.
+RSAF does not attempt to prove a negative. It evaluates whether the plaintiff has carried its own burden.
 
 ## Repository Structure
 
 ```text
 rsaf/
 ├── AGENTS.md
-├── README.md
-├── CHANGELOG.md
-├── LICENSE.md
-├── CONTRIBUTING.md
 ├── MASTER-PROMPT.md
+├── PROJECT.md
 ├── docs/
 ├── banks/
 ├── templates/
 ├── research/
-├── examples/
-└── diagrams/
+├── diagrams/
+├── prompts/
+└── examples/
 ```
 
-## Development Status
+## Intended Use
 
-This repository is in early draft form. The initial work establishes the framework's governing principles, writing standards, evidentiary methodology, and project architecture.
+RSAF is designed for litigation support, research, education, and structured drafting. It is especially focused on consumer credit-card collection matters where a bank, debt buyer, or servicer seeks to enforce a receivable and standing or ownership is disputed.
 
-## Responsible Use
+## What RSAF Is Not
 
-RSAF should be used to evaluate evidence and legal sufficiency. It should not be used to misrepresent facts, delay proceedings in bad faith, or assert unsupported defenses.
+RSAF is not legal advice, a substitute for counsel, a promise of outcome, or a script for evading lawful obligations. It is a disciplined framework for analyzing proof.
 
-Every factual assertion should be traceable to the record or a reliable public source. Every legal proposition should be supported by verified authority.
+## Citation Rule
+
+No authority may be cited unless it is real, verified, and accurately characterized. When uncertain, RSAF must say so.
