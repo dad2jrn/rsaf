@@ -8,13 +8,23 @@ This rule reflects the fundamental structure of civil litigation: the party seek
 
 ---
 
-## 6.2 Standing as an Element
+## 6.2 Standing as an Element — and the Merits Framing Distinction
 
 Where standing or ownership is contested, the plaintiff's present legal right to enforce the receivable is a required element that must be proven by competent evidence.
 
 RSAF treats standing as an evidentiary question. The question is not whether a receivable once existed, whether a balance is owed, or whether statements were generated. The question is whether the plaintiff has proven, through competent admissible evidence, that it presently holds the legal right to collect this specific balance from this specific defendant.
 
 When standing is challenged, the plaintiff must produce account-specific evidence sufficient to satisfy the governing standard. The defendant is not required to prove the plaintiff lacks standing. The defendant may challenge the sufficiency of the plaintiff's proof on this element without bearing any affirmative burden of its own.
+
+**The standing/merits distinction — a critical framing issue.**
+
+Virginia courts may treat proof of ownership either as a threshold standing question or as a merits element of the claim. The framing matters procedurally.
+
+A pure standing challenge — arguing that the plaintiff has no right to be in court — may fail at the pleading stage or on summary judgment if the plaintiff can show that a genuine factual dispute exists about ownership. Where the plaintiff produces any documentation of a transfer, the court may find that the disputed factual question must go to the factfinder, defeating a pre-trial standing challenge.
+
+A failure-of-proof challenge — arguing that the plaintiff did not carry its burden on the ownership element at trial — is not defeated by the existence of a factual dispute. It requires the plaintiff to prove its ownership case with competent, admissible, account-specific evidence at the evidentiary stage. If the plaintiff's evidence is insufficient, it loses on the merits.
+
+**RSAF practice rule:** Both framings should be preserved and advanced. The standing challenge is appropriate and should be raised at the pleading stage and on summary judgment. The failure-of-proof challenge should be developed in parallel, framed as: the plaintiff failed to carry its burden on the ownership element because it did not produce account-specific evidence establishing an unbroken chain of title from the originating bank to the plaintiff. See Chapter 12 and Chapter 18 for case-law context on this distinction in Virginia.
 
 ---
 

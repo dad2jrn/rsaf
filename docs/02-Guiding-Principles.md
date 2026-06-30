@@ -32,3 +32,15 @@ RSAF does not ask a court to decide based on industry custom, expectations, or p
 ## 2.7 Simplicity Serves Persuasion
 
 Complex structures should be explained simply. A judge should be able to understand the transfer path before reading the legal analysis.
+
+## 2.8 Preserve the Standing Argument and the Merits Argument
+
+A challenge to the plaintiff's ownership may be framed as a standing challenge (plaintiff lacks the right to sue) or as a failure-of-proof challenge (plaintiff has not carried its burden on the ownership element). These are distinct procedural arguments.
+
+A pure standing challenge may be defeated at summary judgment if a factual dispute exists about ownership. A failure-of-proof argument requires the plaintiff to prove ownership with competent evidence at trial.
+
+RSAF preserves both. It does not force the analysis into a single frame.
+
+## 2.9 The Servicer Is Not the Owner
+
+Where a bank continues to service an account after securitization, the bank's records are servicer records. They document what the servicer did — billing, collecting, accounting — not who owns the right to payment. Proof of servicing is not proof of ownership.
