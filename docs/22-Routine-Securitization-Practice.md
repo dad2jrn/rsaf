@@ -102,6 +102,8 @@ Several considerations complicate the routine practice argument.
 
 The FDIC's Securitization Safe Harbor Rule, codified at 12 C.F.R. § 360.6, establishes conditions under which the FDIC will honor a securitization transfer in the event of the sponsoring bank's receivership. One condition for safe harbor treatment is that the securitization sponsor must "separately identify in its financial asset data bases the financial assets transferred" and maintain "an electronic or paper copy of the closing documents for each securitization."
 
+*Version note: The FDIC Safe Harbor Rule (12 C.F.R. § 360.6) was substantially revised effective May 4, 2020. For any securitization that occurred before that date, verify that the version of the rule in effect at the time of the securitization imposed the same conditions relied on here. See Chapter 15.6 for version-identification procedure.*
+
 This regulatory requirement has a direct implication for the routine practice inference argument. If the bank operated its securitization program in compliance with the FDIC safe harbor — which would be necessary for investors and trust counterparties to receive FDIC protection — then the bank's own databases should contain a separate identification of each financial asset transferred. For a receivable that was in fact transferred, that identification should appear in the bank's records.
 
 This undercuts the routine practice inference in the following way: if the bank's own regulatory framework required account-level tracking of transferred assets, the absence of that account-specific identification in the bank's records is not a gap to be bridged by routine practice evidence. It is evidence that the bank's own required records do not confirm the transfer of this specific receivable.
@@ -168,6 +170,10 @@ The scope and applicability of the party-admission doctrine to SEC filings in su
 Under this position, if the bank's own program documents require removal documentation when a receivable leaves the trust, and the bank cannot produce that documentation, the bank has failed its own procedural requirements. This does not prove the receivable was never transferred; it may instead prove the bank failed to document the removal properly.
 
 This framing is notable because it is not necessarily favorable to the defendant: if the bank's failure to document removal reflects a failure in its own internal process, the receivable may remain in the trust — making the bank, rather than the plaintiff, the potential wrong party to the lawsuit.
+
+The wrong-party consequence deserves emphasis. If Position 4 is the defendant's strongest available argument — that the receivable was transferred into the trust and the removal was never documented — then the defect is not merely evidentiary. A receivable that remains in the trust cannot be enforced by the bank in its own name; the bank would be suing on property it does not hold. This is a wrong-party defect under Virginia's real-party-in-interest rule, not merely a gap in the plaintiff's ownership proof. A wrong-party defect is a stronger and more durable defense position than an evidentiary gap: it is structural, it cannot be cured by additional documentation after the fact absent reassignment, and it implicates the court's authority to enter a valid judgment. Practitioners should distinguish between (a) an evidentiary gap — the plaintiff cannot prove the transfer — and (b) a wrong-party defect — the receivable is owned by a legal entity that is not before the court.
+
+*Cross-reference: If the receivable remains in the trust because removal was never documented, the bank suing in its own name may be the wrong party in interest. Whether a servicer-plaintiff lacking ownership can maintain the action in its own name is an open legal question. See OPEN-LEGAL-QUESTIONS.md (OLQ-002) and Chapter 20 § 20.4 Theory 4 (Plaintiff Sues as Servicer).*
 
 ---
 
