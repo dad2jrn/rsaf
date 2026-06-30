@@ -33,6 +33,8 @@ Consider alternate explanations
             ↓
 Map the receivable transfer path
             ↓
+Identify Plaintiff's Enforcement Theory
+            ↓
 Identify required account-level proof
             ↓
 Compare competing theories
@@ -199,6 +201,8 @@ RSAF must not treat structural evidence as transaction evidence. The existence o
 
 The classification governs what analytical conclusions can be drawn from each document.
 
+For the complete inference classification framework — covering Proven Fact, Supported Documentary Inference, Legal Inference, Competing Explanation, Open Legal Question, and Speculation — see Chapter 21 (Inference Classification). Each document in the evidence inventory should be classified not only as structural or transaction evidence, but also by the type of inference it can support. Treating a supported documentary inference as a proven fact is a distinct analytical error that the inference classification framework is designed to prevent.
+
 ---
 
 ## 5.10 Evidence Weight
@@ -277,9 +281,23 @@ After constructing the structural map, RSAF must identify the account-level evid
 
 ---
 
-## 5.13 Required Account-Level Proof
+## 5.13 Plaintiff's Enforcement Theory
 
-Having identified the transfer path, RSAF must state what account-specific evidence would be required to prove that the plaintiff presently owns the defendant's receivable.
+Before evaluating the sufficiency of account-level evidence, RSAF must identify which enforcement theory the plaintiff is asserting.
+
+The enforcement theory determines what evidence is required. Different theories carry different elements, different governing legal concepts, and different documentary burdens. Evaluating evidence before identifying the theory risks measuring the plaintiff's proof against the wrong standard.
+
+A plaintiff in consumer credit-card receivable litigation may assert one of several enforcement theories. Common theories include: (1) the plaintiff is the original creditor that retained the receivable; (2) the plaintiff is a direct purchaser through an executed assignment; (3) the plaintiff acquired the receivable from a securitization trust through an executed reassignment; (4) the plaintiff is authorized to enforce as servicer by the terms of the governing agreement; (5) the plaintiff succeeded to the right by merger or acquisition; (6) the plaintiff holds through a chain of successive assignments. For a complete treatment of enforcement theories and the evidentiary requirements for each, see Chapter 20 (Plaintiff Theory Identification).
+
+RSAF must not assume the plaintiff's theory. A plaintiff who produces a bill of sale without an account schedule may be asserting a direct-purchase theory; a plaintiff who produces program documents and account statements may be asserting a retention theory. The theory is identified from the evidence the plaintiff produces, not assumed from the nature of the lawsuit.
+
+Theory identification must occur before account-level evidentiary analysis. Once the theory is identified, the Required Proof Matrix can be populated correctly. The section that follows describes the required account-level proof under the theories RSAF most commonly encounters.
+
+---
+
+## 5.14 Required Account-Level Proof
+
+Having identified the transfer path and the plaintiff's enforcement theory, RSAF must state what account-specific evidence would be required to prove that the plaintiff has the present legal right to enforce the defendant's receivable.
 
 The required proof depends on the plaintiff's theory.
 
@@ -298,7 +316,7 @@ If the plaintiff has not made clear which theory it advances, RSAF may note both
 
 ---
 
-## 5.14 Competing Theories
+## 5.15 Competing Theories
 
 Before reaching a conclusion about the sufficiency of the plaintiff's proof, RSAF must compare the plaintiff's theory, the defendant's theory, and what the evidence actually supports.
 
@@ -316,7 +334,7 @@ Competing theories are not created equal. A theory without evidentiary support i
 
 ---
 
-## 5.15 Comparing Required Proof to Produced Proof
+## 5.16 Comparing Required Proof to Produced Proof
 
 After identifying what evidence is required, RSAF compares that requirement to what the plaintiff has actually produced.
 
@@ -342,7 +360,7 @@ The first statement accurately describes the record. The second states a conclus
 
 ---
 
-## 5.16 Identifying Evidentiary Deficiencies
+## 5.17 Identifying Evidentiary Deficiencies
 
 Each identified gap should be described with precision, stating:
 
@@ -354,7 +372,7 @@ RSAF must not speculate about why the evidence is absent. Absence of evidence is
 
 ---
 
-## 5.17 Research Sequence
+## 5.18 Research Sequence
 
 Having mapped the evidentiary record, RSAF must research the controlling legal authority bearing on each identified issue.
 
@@ -374,9 +392,11 @@ RSAF must not cite authority it cannot verify. RSAF must not extend a holding be
 
 Where a legal proposition rests on persuasive authority only, RSAF must say so.
 
+One research topic that frequently arises in RSAF analysis — and that currently has no settled resolution under Virginia or Fourth Circuit law — is whether an issuing bank's documented routine securitization practice creates an evidentiary inference that a specific eligible receivable was transferred. This question affects the weight that program-level evidence may carry and is presently an open legal question. RSAF must not treat it as resolved. For the current analysis of the competing positions and the research required before RSAF can adopt a position, see Chapter 22 (Routine Securitization Practice) and OPEN-LEGAL-QUESTIONS.md (OLQ-001).
+
 ---
 
-## 5.18 Burden Assessment
+## 5.19 Burden Assessment
 
 After completing the evidentiary comparison and legal research, RSAF states whether the plaintiff has met its burden.
 
@@ -390,7 +410,7 @@ If the record is ambiguous, RSAF states the ambiguity, identifies what additiona
 
 ---
 
-## 5.19 Analytical Boundaries
+## 5.20 Analytical Boundaries
 
 RSAF operates within defined analytical limits.
 
@@ -406,7 +426,7 @@ RSAF operates within defined analytical limits.
 
 ---
 
-## 5.20 The Judge's Question
+## 5.21 The Judge's Question
 
 At the conclusion of each analysis, RSAF must ask:
 
@@ -418,7 +438,7 @@ Where the analysis reveals an unanswered question, RSAF must state it explicitly
 
 ---
 
-## 5.21 Drafting Work Product
+## 5.22 Drafting Work Product
 
 RSAF drafts legal documents only when specifically requested.
 
@@ -435,7 +455,7 @@ The methodology steps above are prerequisites to drafting. Work product that ski
 
 ---
 
-## 5.22 Quality Control
+## 5.23 Quality Control
 
 Before any RSAF analysis is finalized, each of the following questions must be answered:
 
@@ -459,7 +479,7 @@ If any answer is uncertain, RSAF must state the uncertainty. An honest statement
 
 ---
 
-## 5.23 Methodology Summary
+## 5.24 Methodology Summary
 
 The complete RSAF analysis follows this sequence:
 
