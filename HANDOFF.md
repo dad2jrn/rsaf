@@ -2,9 +2,7 @@
 
 **Project:** Receivable Standing Analysis Framework (RSAF)
 
-**Prepared By:** ChatGPT 5.5
-
-**Status:** Architecture Complete. Implementation Beginning.
+**Status:** v0.7.0 — Substantive chapters complete. Active research and refinement.
 
 ---
 
@@ -36,19 +34,19 @@ That question governs every chapter.
 
 # Current State
 
-Repository structure exists.
+RSAF is at v0.7.0.
 
-README has been written.
+All 22 substantive chapters are complete.
 
-Constitution has been written.
+The framework is bank-neutral: the core methodology operates without reference to any particular originator, trust structure, or transfer path. Bank-specific playbooks supplement the framework when verified EDGAR research is available.
 
-Architecture is largely complete.
+MASTER-INSTRUCTIONS.md and AGENTS.md govern AI analysis. Read both before beginning any analysis.
 
-The project now moves into implementation.
+Three open legal questions are tracked in OPEN-LEGAL-QUESTIONS.md. The highest-priority unresolved question is OLQ-001: whether Virginia, Delaware, or federal evidence law recognizes a rebuttable inference that a specific receivable was transferred because the issuing bank routinely transferred eligible receivables pursuant to a disclosed securitization program.
 
-Do not continue redesigning the architecture.
+Do not redesign the architecture.
 
-Write.
+Research, apply, and refine.
 
 ---
 
@@ -239,91 +237,99 @@ Do not rely upon conversation history.
 
 # The Chapters
 
-Continue writing in roughly this order.
+RSAF contains 22 substantive chapters, organized by function.
 
-1. Legal Methodology
-2. Evidence Hierarchy
-3. Burden of Proof
-4. Structural vs. Transaction Evidence
-5. Securitization Primer
-6. Receivable Life Cycle
-7. Documentary Chain of Title
-8. Virginia Law
-9. Delaware Law
-10. Federal Law
-11. Rules of Evidence
-12. Bank Playbooks
+**Framework Foundation**
 
-Do not begin the Master Prompt until the framework exists.
+0. Introduction
+1. Constitution
+2. Guiding Principles
+3. Writing Standards
+4. Judicial Communication
 
-The prompt orchestrates the framework.
+**Core Analytical Methodology**
 
-It does not replace it.
+5. Legal Methodology
+6. Burden of Proof
+7. Evidence Hierarchy
+8. Program-Level vs. Account-Level Evidence
+
+**Securitization and Receivable Structure**
+
+9. Securitization Primer
+10. Receivable Life Cycle
+11. Document Standards
+12. Citation Integrity
+
+**Governing Law**
+
+13. Virginia Law
+14. Delaware Law
+15. Federal Law
+
+**Chain of Title and Evidence**
+
+16. Documentary Chain of Title
+17. Rules of Evidence
+18. Authorities
+19. Research Methodology
+
+**Advanced Analysis**
+
+20. Plaintiff Theory Identification
+21. Inference Classification
+22. Routine Securitization Practice
 
 ---
 
-# The Most Important Chapter
+# Supplementary Resources
 
-The Legal Methodology chapter is the heart of RSAF.
+**Glossary.md** — Plain-language definitions of key terms. Distinguishes commonly confused concepts: servicer vs. owner, standing vs. ownership, legal title vs. beneficial ownership, assignee vs. holder, present legal right to enforce vs. historical ownership.
 
-It should teach every AI how to reason.
+**OPEN-LEGAL-QUESTIONS.md** — Register of legal questions material to RSAF analysis that have not been resolved by binding authority. Three current entries:
 
-Every analysis should follow this sequence.
+- OLQ-001: Routine Securitization Inference (high priority — unresolved)
+- OLQ-002: Servicer Standing to Sue in Own Name (medium priority)
+- OLQ-003: Delaware ABSFA Effect on Virginia Analysis (low priority)
+
+**Bank Playbooks** — Eight bank-specific research frameworks in the `banks/` directory. Current playbooks: American Express, Bank of America, Capital One, Chase, Citi, Discover, Synchrony, Wells Fargo. Each playbook is a research framework, not an advocacy file, and does not presume any particular outcome. `banks/PLAYBOOK-SCHEMA.md` defines the required structure.
+
+**Templates** — Four litigation document templates in the `templates/` directory: answer and affirmative defenses, debt verification letter, discovery requests, motion to compel arbitration.
+
+---
+
+# The Analysis Pipeline
+
+Every RSAF analysis follows this twelve-step sequence. The sequence is not optional; skipping a step risks reaching a legal conclusion before the evidentiary foundation exists.
 
 ```
-Receive Question
-
-↓
-
-Determine Procedural Posture
-
-↓
-
-Determine Governing Law
-
-↓
-
-Determine Plaintiff's Burden
-
-↓
-
-Identify Required Legal Elements
-
-↓
-
-Identify Structural Evidence
-
-↓
-
-Identify Transaction Evidence
-
-↓
-
-Determine Required Documentary Proof
-
-↓
-
-Compare Required Proof
-
-vs.
-
-Evidence Produced
-
-↓
-
-Research Controlling Authority
-
-↓
-
-Evaluate Competing Positions
-
-↓
-
-Reach Conclusion
-
-↓
-
-Draft Requested Work Product
+1. Identify procedural posture and requested outcome
+           ↓
+2. Identify governing law and choice-of-law provisions
+           ↓
+3. Identify the plaintiff and each relevant entity
+           ↓
+4. Identify the plaintiff's asserted present legal right to enforce
+           ↓
+5. Identify the possible enforcement theories supported by the record
+           ↓
+6. Inventory all evidence and classify it by source and evidentiary function
+           ↓
+7. Separate account-level evidence from program-level evidence
+           ↓
+8. Classify each proposition as proven fact, reasonable inference,
+   unresolved legal question, alternative explanation, or speculation
+           ↓
+9. Determine the documents and testimony necessary to prove
+   the plaintiff's asserted theory
+           ↓
+10. Identify proof gaps, inconsistencies, missing links,
+    and unresolved factual predicates
+           ↓
+11. Research controlling authority before reaching legal conclusions
+           ↓
+12. Draft a narrowly tailored analysis or work product
+    that accurately reflects the evidentiary record
 ```
 
 Never reverse this order.
@@ -359,9 +365,7 @@ Never extend holdings beyond what they support.
 
 # Important Legal Principle
 
-One recurring theory will appear throughout RSAF.
-
-It should be presented carefully.
+One recurring principle runs throughout RSAF.
 
 The plaintiff's publicly filed securitization documents may establish the contractual framework governing receivable transfers.
 
@@ -380,7 +384,7 @@ RSAF evaluates whether the plaintiff's evidence satisfies that burden.
 
 Avoid categorical statements that every receivable was transferred unless supported by evidence and governing law.
 
-The framework should identify evidentiary gaps—not fill them.
+The framework identifies evidentiary gaps — it does not fill them.
 
 ---
 
