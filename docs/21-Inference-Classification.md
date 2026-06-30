@@ -218,3 +218,30 @@ Where the evidence is consistent with more than one explanation, the ambiguity m
 **Error 5: Treating an unresolved legal question as a settled legal inference.**
 
 An open legal question about whether governing law recognizes a particular inference is not itself that inference. Until the question is resolved by binding authority, RSAF must treat it as open and must not apply it as if it were settled.
+
+---
+
+## Judge's Checklist
+
+**For each conclusion in the analysis:**
+
+- [ ] Is this conclusion a proven fact, a supported inference, a legal inference, a competing explanation, an open legal question, or speculation?
+- [ ] If it is a supported documentary inference: is it identified as an inference, not stated as a proven fact?
+- [ ] If it is an open legal question: is it identified as open, with the competing positions acknowledged?
+- [ ] Is there any conclusion in the analysis that rests only on speculation?
+
+**On structural evidence:**
+
+- [ ] Does any conclusion about the defendant's specific receivable rest solely on structural (program-level) evidence?
+- [ ] If so: structural evidence supports the inference that the program exists and operates as described. It does not prove this receivable was transferred, removed, or reassigned.
+
+**On the servicer/owner inference:**
+
+- [ ] Is any party asserting ownership based on the fact that it generated the account records?
+- [ ] Generating records is evidence of servicing. It is not, without more, evidence of ownership.
+
+**The hierarchy:**
+
+Proven Fact > Legal Inference > Supported Documentary Inference > Competing Explanation > Open Legal Question > Speculation
+
+No conclusion should be stated at a higher level of certainty than its evidence supports.

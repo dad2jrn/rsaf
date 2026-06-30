@@ -506,3 +506,31 @@ Draft, if requested
 ```
 
 Each step depends on the one before it. No step may be bypassed. No conclusion may precede the evidentiary foundation on which it rests.
+
+---
+
+## Judge's Checklist
+
+**On process integrity:**
+
+- [ ] Has the analysis followed the pipeline in order, without skipping steps?
+- [ ] Was the plaintiff's enforcement theory identified before the evidentiary sufficiency evaluation?
+- [ ] Was evidence classified as structural or transaction before conclusions were drawn from it?
+- [ ] Were inferences identified as inferences (not presented as proven facts)?
+
+**On the burden:**
+
+- [ ] What must the plaintiff prove on each element of each claim?
+- [ ] Has the analysis stated the burden in writing before evaluating the evidence?
+
+**On the evidentiary comparison:**
+
+- [ ] Has the Required Proof Matrix been populated?
+- [ ] Has each element been compared to the produced evidence?
+- [ ] Are evidentiary gaps described precisely (what is missing, why it is required, what follows from its absence)?
+
+**The judge's question:**
+
+- [ ] After reading this analysis: what question remains unanswered?
+- [ ] Is any conclusion reached before the evidentiary foundation for it is established?
+- [ ] Would a trial judge, reading for ten minutes before a hearing, understand the dispositive issue?

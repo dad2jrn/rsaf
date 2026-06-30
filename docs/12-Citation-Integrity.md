@@ -61,3 +61,26 @@ The vacated panel opinion is not binding authority and should not be cited witho
 | F | Analytical inference requiring express qualification |
 
 RSAF should not present Class F reasoning as though it were Class A authority.
+
+---
+
+## Judge's Checklist
+
+**Before citing any authority:**
+
+- [ ] Is the citation real? Verified against the primary source?
+- [ ] Has subsequent history been checked (reversal, vacatur, overruling)?
+- [ ] Is the court clearly identified (binding vs. persuasive)?
+- [ ] Is the cited proposition accurately drawn from the *holding* — not a headnote, summary, or dissent?
+- [ ] Is the authority being used for a proposition it actually supports?
+
+**On Green v. Portfolio Recovery Associates:**
+
+- [ ] If citing *Green*: are you citing the en banc majority — not the vacated panel or the dissent?
+- [ ] Are you using *Green* for the correct proposition (standing is a merits element; ownership is not a pure threshold question; both framings must be preserved)?
+- [ ] For chain-of-title requirements: *Green* provides context but the binding authority is the older Virginia Supreme Court cases. See § 12.4.
+
+**On authority classification:**
+
+- [ ] Is any inference or analytical conclusion presented as settled legal authority?
+- [ ] If it is Class F (analytical inference): is it clearly identified as such?

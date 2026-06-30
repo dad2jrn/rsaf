@@ -351,3 +351,30 @@ RSAF does not assume that the most favorable theory for the plaintiff is the one
 RSAF does not assume that a theory is credible merely because it is possible.
 
 RSAF evaluates the theory the plaintiff has advanced, measures the evidence against the requirements of that theory, and identifies the evidentiary record that results. The legal conclusion — whether the plaintiff has met its burden — follows from that evaluation.
+
+---
+
+## Judge's Checklist
+
+**Before evaluating any evidence:**
+
+- [ ] Which of the seven enforcement theories is the plaintiff asserting?
+- [ ] Has the theory been identified from the complaint, affidavits, and produced documents — not assumed?
+- [ ] Is the theory consistent throughout the pleadings, discovery, and evidence?
+
+**Theory-specific questions:**
+
+| Theory | Key Question |
+|---|---|
+| Original creditor — retained | What evidence shows this receivable was never transferred into the securitization program? |
+| Direct purchase | Does the assignment identify this specific receivable (account number or schedule)? |
+| Securitization reacquisition | Is each link in the chain — into trust, removal, reassignment — documented with account-specific evidence? |
+| Servicer — authorized | What provision of the governing agreement authorizes this servicer to sue in its own name? |
+| Successor by merger | What acquisition or merger documents convey enforcement rights to the plaintiff? |
+| Assignee of a series of assignments | Is every assignment in the chain authenticated and does each one identify this receivable? |
+| Theory unclear | Can the court or RSAF identify the basis of the plaintiff's claimed right? If not, the burden is not met at the threshold level. |
+
+**On theory shifting:**
+
+- [ ] Has the plaintiff's theory changed between the complaint, discovery, and trial?
+- [ ] If so: does the changed theory have evidentiary support? What does the shift imply about the theory that was abandoned?

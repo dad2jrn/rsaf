@@ -212,3 +212,29 @@ This chapter does not conclude that the plaintiff has standing because of the ro
 This chapter identifies a legal question that is material to the evidentiary analysis and explains why additional research is required before RSAF can take a definitive position on it.
 
 That is the purpose of this chapter.
+
+---
+
+## Judge's Checklist
+
+**When a plaintiff invokes routine securitization practice:**
+
+- [ ] Is the plaintiff arguing that its documented routine practice of transferring eligible receivables creates an inference that this specific receivable was transferred?
+- [ ] Whether that inference is legally recognized under Virginia, Delaware, or federal evidence law is currently an open question. See OPEN-LEGAL-QUESTIONS.md (OLQ-001).
+
+**Questions to ask the plaintiff:**
+
+- [ ] What evidence establishes that this specific receivable met the eligibility criteria for transfer under the program?
+- [ ] What account-specific documentation shows this receivable was actually included in a transfer — not merely that the program transfers eligible receivables?
+- [ ] If the program transferred the receivable into the trust, what account-specific documentation shows it was later removed and reassigned to the plaintiff?
+- [ ] Is the plaintiff arguing that routine practice eliminates the need for account-specific proof, or that routine practice supplements such proof?
+
+**Current RSAF default:**
+
+Program-level evidence establishes the plaintiff's own transfer framework. RSAF does not currently treat that evidence alone as proof that the defendant's specific receivable was transferred. This default applies unless and until binding authority recognizes a broader inference.
+
+**If the court is inclined to accept a routine practice inference:**
+
+- [ ] What predicate must the plaintiff establish to invoke the inference (comprehensiveness of the program, consistent application to all eligible receivables, etc.)?
+- [ ] Is the inference rebuttable? What evidence would rebut it?
+- [ ] Does the inference, if accepted, resolve the full chain of title — or only one step of it?

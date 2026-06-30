@@ -222,3 +222,33 @@ After mapping the receivable's theoretical life cycle, RSAF must:
 5. Assess whether the evidentiary gaps defeat the plaintiff's standing on the current record.
 
 The life cycle map does not create evidence. It tells RSAF where to look and what to look for. The evidentiary record tells RSAF whether the required documents are there.
+
+---
+
+## Judge's Checklist
+
+**Before analysis begins:**
+
+- [ ] What theory is the plaintiff asserting — retention (never transferred) or reacquisition (transferred and returned)?
+- [ ] At what stage of the life cycle does the plaintiff's claimed ownership arise?
+
+**For retention theory:**
+
+- [ ] What account-specific evidence shows this receivable was excluded from the securitization program?
+- [ ] Absence of transfer documentation is not proof of retention. Does the plaintiff have affirmative evidence the receivable stayed with the bank?
+
+**For reacquisition theory:**
+
+- [ ] Stage 4 (Bank → Transferor): account-specific documentation?
+- [ ] Stage 5 (Transferor → Trust): account-specific documentation?
+- [ ] Stage 9 (Removal from Trust): account-specific removal documentation for this receivable?
+- [ ] Stage 10 (Reassignment): account-specific reassignment documentation to the plaintiff?
+
+**On servicing records:**
+
+- [ ] Stage 6 records (statements, payment history, account notes) show who administered the account, not who owns the receivable.
+- [ ] Has the plaintiff explained whether Stage 6 records reflect servicing, ownership, or both?
+
+**On the key question at Stage 11:**
+
+- [ ] Has the plaintiff produced account-specific, authenticated evidence establishing its present legal right to enforce at the time of suit?
