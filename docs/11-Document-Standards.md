@@ -148,3 +148,31 @@ Verify local court rules before filing. Formatting requirements vary by court an
 Some Virginia filings require verification — a sworn statement by the filing party that the contents are true. General District Court warrant-in-debt proceedings and some affirmative defenses may require verification. Verify applicable requirements before finalizing any document.
 
 A verification is not a substitute for admissible evidence. A defendant's verification that the plaintiff has not produced documentation is not the same as admissible evidence establishing the absence of documentation. Develop the evidentiary record separately from the verification.
+
+---
+
+## Judge's Checklist
+
+**On any court-facing document produced under RSAF:**
+
+- [ ] Does the document include a proper caption, numbered paragraphs, and signature block?
+- [ ] Are all defined terms introduced on first use and used consistently?
+- [ ] Is every citation in the document real and verified?
+- [ ] Does the document allege or assert any fact not established by the record?
+
+**On the answer and affirmative defenses:**
+
+- [ ] Has every paragraph of the complaint been responded to?
+- [ ] Are affirmative defenses separately numbered with a stated legal basis?
+- [ ] Has the statute of limitations been raised if applicable?
+- [ ] Has arbitration been raised if there is a cardmember agreement with an arbitration clause?
+
+**On discovery:**
+
+- [ ] Does the discovery seek documents at each link of the transfer chain?
+- [ ] Do requests for admission target the specific absence of documentation on the standing element?
+
+**On arbitration submissions:**
+
+- [ ] Does the submission explain the securitization structure before making the legal argument?
+- [ ] Are chain-of-title and burden arguments stated in plain terms accessible to an arbitrator who may not know securitization?

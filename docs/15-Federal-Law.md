@@ -123,3 +123,28 @@ CFPB rules and guidance are relevant where the plaintiff is a debt collector sub
 | 12 C.F.R. Part 1006 (Regulation F) | CFPB FDCPA implementation rules | Current text; applicability to plaintiff |
 
 RSAF must not cite any federal statute, regulation, or case in a court-facing document without verifying the current text, the specific proposition it supports, and its binding or persuasive status in the forum court.
+
+---
+
+## Judge's Checklist
+
+**On the FDCPA:**
+
+- [ ] Is the plaintiff a "debt collector" as the FDCPA defines that term?
+- [ ] Original creditors collecting their own continuously held debts are generally not "debt collectors." Has the plaintiff's classification been established?
+- [ ] If the plaintiff is a debt buyer or third-party collector: has it complied with debt validation requirements?
+
+**On the FAA and arbitration:**
+
+- [ ] Does the cardmember agreement contain a binding arbitration clause?
+- [ ] Has the defendant moved to compel arbitration?
+- [ ] If arbitration is appropriate: has the defense been raised before significant litigation conduct that might constitute waiver?
+
+**On preemption:**
+
+- [ ] Is the plaintiff a national bank or operating subsidiary?
+- [ ] If so: certain state law claims regarding interest rates and credit terms may be preempted by the National Bank Act. Identify which claims, if any, are subject to preemption before raising them.
+
+**On regulatory guidance:**
+
+- [ ] FDIC Safe Harbor Rule and CFPB guidance are not binding on courts in civil collection litigation. Has any regulatory guidance been cited at the correct level of authority (persuasive, not controlling)?

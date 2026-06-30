@@ -87,3 +87,24 @@ RSAF must not assume that Delaware law governs every issue simply because the ca
 | Delaware contract interpretation case law | Applicable standards for cardmember agreements | Verify leading Delaware Supreme Court cases |
 
 RSAF must not cite any Delaware authority in a court-facing document without verifying the current text and the exact proposition supported.
+
+---
+
+## Judge's Checklist
+
+**On Delaware law in a Virginia proceeding:**
+
+- [ ] Does the cardmember agreement contain a choice-of-law provision designating Delaware law?
+- [ ] What specific issues does Delaware law govern — contract interpretation only, or also the transfer mechanics?
+- [ ] Procedural law, evidence rules, and burden of proof are governed by Virginia as the forum state — even when Delaware law governs the contract.
+
+**On the ABSFA:**
+
+- [ ] Is the plaintiff invoking Delaware's ABSFA to characterize a transfer as a true sale?
+- [ ] Delaware's ABSFA provides statutory true-sale treatment for qualifying transfers. It does not eliminate account-specific documentation requirements.
+- [ ] Whether Delaware's ABSFA true-sale classification governs the chain-of-title analysis in Virginia litigation is an open legal question. See OPEN-LEGAL-QUESTIONS.md (OLQ-003).
+
+**On assignment rights:**
+
+- [ ] Has the account debtor been notified of the assignment under § 9-406?
+- [ ] The plaintiff's Article 9 UCC filing covers the pool. It does not prove this specific receivable was included.
