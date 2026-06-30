@@ -2,7 +2,7 @@
 
 > **An evidence-first methodology for evaluating whether a plaintiff has established its present legal right to enforce a consumer credit-card receivable.**
 
-**Current Version:** 0.6.0
+**Current Version:** 0.7.0
 
 ---
 
@@ -47,7 +47,7 @@ RSAF currently covers:
 
 RSAF is designed to work regardless of which bank originated the account, which trust structure applies, or which transfer path is relevant. Bank-specific playbooks supplement the framework when verified EDGAR research is available; the core methodology operates without them.
 
-Future versions may expand into additional jurisdictions and other classes of consumer receivables.
+The framework is bank-neutral — it does not assume any particular originator, trust structure, or transfer path — but it is currently jurisdiction-scoped to Virginia procedure and Delaware or federal substantive law. Future versions may expand into additional jurisdictions and other classes of consumer receivables.
 
 ---
 
@@ -112,9 +112,11 @@ RSAF is built upon the following foundational principles:
 
 ```text
 docs/
-    Foundational chapters
+    Foundational chapters (00–22)
 banks/
-    Institution-specific securitization playbooks
+    PLAYBOOK-SCHEMA.md — required structure for all bank playbooks
+    [bank]/README.md  — substantive draft or research stub
+    [bank]/transfer-path.md — transfer-path diagram and evidence checklist
 research/
     Primary legal authorities
 templates/
@@ -127,91 +129,39 @@ diagrams/
 
 # Methodology Overview
 
-Every RSAF analysis follows the same methodology.
+Every RSAF analysis follows the same twelve-step sequence. The sequence is not optional; skipping a step risks reaching a legal conclusion before the evidentiary foundation exists.
 
 ```text
-Determine procedural posture
-
-↓
-
-Determine governing law
-
-↓
-
-Identify plaintiff's burden
-
-↓
-
-Identify governing contractual documents
-
-↓
-
-Collect structural evidence
-
-↓
-
-Collect transaction evidence
-
-↓
-
-Determine required proof
-
-↓
-
-Compare required proof with evidence produced
-
-↓
-
-Identify evidentiary deficiencies
-
-↓
-
-Research controlling legal authority
-
-↓
-
-Explain legal significance
-
-↓
-
-Draft requested work product
+1.  Identify procedural posture and requested outcome
+            ↓
+2.  Identify governing law and choice-of-law provisions
+            ↓
+3.  Identify the plaintiff and each relevant entity
+            ↓
+4.  Identify the plaintiff's asserted present legal right to enforce
+            ↓
+5.  Identify the possible enforcement theories supported by the record
+            ↓
+6.  Inventory all evidence and classify it by source and evidentiary function
+            ↓
+7.  Separate account-level evidence from program-level evidence
+            ↓
+8.  Classify each proposition as proven fact, reasonable inference,
+    unresolved legal question, alternative explanation, or speculation
+            ↓
+9.  Determine the documents and testimony necessary to prove
+    the plaintiff's asserted theory
+            ↓
+10. Identify proof gaps, inconsistencies, missing links,
+    and unresolved factual predicates
+            ↓
+11. Research controlling authority before reaching legal conclusions
+            ↓
+12. Draft a narrowly tailored litigation analysis or work product
+    that accurately reflects the evidentiary record
 ```
 
----
-
-# Structural Evidence
-
-Structural evidence explains how the plaintiff's securitization program operates.
-
-Examples include:
-
-- Prospectuses
-- Prospectus Supplements
-- Transfer and Servicing Agreements
-- Receivables Purchase Agreements
-- Trust Agreements
-- Annual Reports
-- SEC filings
-- Regulatory disclosures
-
-Structural evidence establishes the contractual and legal framework governing transfers of receivables.
-
----
-
-# Transaction Evidence
-
-Transaction evidence concerns the defendant's specific receivable.
-
-Examples include:
-
-- Executed assignments
-- Executed reassignments
-- Bills of sale
-- Schedules identifying the account
-- Collateral certificates
-- Other account-specific transfer documents
-
-Transaction evidence establishes whether and how ownership of a particular receivable changed.
+Step 7 applies the central evidentiary distinction: **program-level evidence** (prospectuses, PSAs, TSAs, SEC filings) establishes the plaintiff's own transfer framework and defines what account-level proof should exist. **Account-level evidence** (executed assignments, bills of sale with account schedules, removal notices, reassignment instruments) proves what actually occurred with the specific receivable at issue. Neither category substitutes for the other. See Chapter 08 for the complete treatment.
 
 ---
 

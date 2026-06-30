@@ -39,11 +39,11 @@ Before this playbook can be used, conduct EDGAR research to identify and verify:
 
 ## Playbook Structure When Complete
 
-A complete playbook will document all elements listed in the Chase playbook: entities, program structure, transfer mechanics, servicing and collection authority, default and removal mechanics, governing-law provisions, public source documents, unresolved factual questions, and case-specific evidence required.
+A complete playbook will document all elements specified in banks/PLAYBOOK-SCHEMA.md: entities, program structure, transfer mechanics, servicing and collection authority, default and removal mechanics, governing-law provisions, public source documents, unresolved factual questions, and case-specific evidence required.
 
 ## Account-Level Proof (Generalized — Pending Program Research)
 
-See the Chase playbook for the generalized list of account-level evidence categories. Specific requirements will depend on the governing agreements once researched.
+See banks/PLAYBOOK-SCHEMA.md §11 for the standard account-level evidence categories. Specific requirements will depend on the governing agreements once researched.
 
 ## Research Notes
 

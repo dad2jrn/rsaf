@@ -68,56 +68,55 @@ All core framework chapters are in substantive draft. Bank playbooks for Bank of
 
 ---
 
-## Version 0.3.0 — Templates and Case Tools
+## Version 0.8.0 — Case Tools and Cross-Reference Audit (Planned)
 
-Priority work for active cases. These items are needed when litigation begins.
+Priority work for active-case usability. None of these require legal research.
 
 ### High Priority
 
-- [ ] Strengthen answer template with substantive affirmative defense language
-- [ ] Strengthen discovery template with bank-specific and securitization-specific requests
 - [ ] Case intake worksheet (structured questionnaire for new matters)
+- [ ] Evidence classification worksheet (apply Chapters 07–08 to an actual exhibit list)
 - [ ] Summary judgment opposition framework (for when plaintiff moves)
-- [ ] Evidence classification worksheet (apply Chapters 07-08 to a real exhibit list)
 
 ### Medium Priority
 
+- [ ] Cross-reference audit — verify all inter-chapter references for accuracy and completeness; confirm Chapters 20–22 are cross-referenced from Chapters 05, 07, and 08
 - [ ] Capital One arbitration-specific guidance (AAA Consumer rules; COBUSA vs. CONA)
 - [ ] Bank of America arbitration-specific guidance (AAA Consumer rules; FIA/BANA history)
-- [ ] Cross-reference audit (ensure all chapter cross-references are accurate and complete)
-- [ ] Virginia authorities expansion (add cases from Chapter 18 to relevant substantive chapters)
+- [ ] Virginia authorities expansion (add verified cases from Chapter 18 to relevant substantive chapters)
 
 ---
 
-## Version 0.4.0 — Bank Playbook Expansion
+## Version 0.9.0 — Bank Playbook Expansion (Planned)
 
-Expand remaining bank playbooks from stubs to substantive research frameworks.
+Elevate research stubs to substantive, EDGAR-verified playbooks. Each playbook must conform to banks/PLAYBOOK-SCHEMA.md before it is considered complete. Do not elevate a stub without completing the EDGAR research.
 
 ### Priority Order
 
-1. Chase (most active volume by case count in Virginia)
-2. Citi (extensive securitization programs; Citibank/Citibank (South Dakota) distinction)
-3. Synchrony (large debt-buyer volume; retail-card complexity)
-4. Discover (simpler structure; lower priority)
-5. Wells Fargo (less common as plaintiff; lower priority)
-6. American Express (charge-card vs. credit-card distinction; research required)
+1. Chase — highest litigation volume; research stub exists; Chase Issuance Trust structure
+2. Citi — extensive programs; Citibank/Citibank (South Dakota) entity distinction
+3. Synchrony — large debt-buyer volume; retail-card vs. general-purpose complexity
+4. Discover — simpler structure; lower priority
+5. Wells Fargo — less common as plaintiff; lower priority
+6. American Express — charge-card vs. credit-card distinction
 
 ---
 
-## Version 1.0.0 — Production Ready
+## Version 1.0.0 — Production Ready (Planned)
 
-- [ ] All playbooks at substantive draft level
-- [ ] All templates tested against actual court filings
+- [ ] All six stub playbooks at substantive draft level (conforming to PLAYBOOK-SCHEMA.md)
+- [ ] All templates tested against actual court filings in at least one completed matter
 - [ ] All citations in Chapter 18 verified against primary sources
 - [ ] Virginia-specific case intake form
 - [ ] Arbitration demand response workflow
-- [ ] CHANGELOG complete and accurate
+- [ ] Worked example chapter using hypothetical (not fabricated) facts
+- [ ] CHANGELOG complete and accurate through 1.0.0
 
 ---
 
 ## Known Gaps (Not Scheduled)
 
-- No sample analysis / worked example (hypothetical, not fabricated facts)
+- No sample analysis / worked example (hypothetical, not fabricated facts) — see NEXT-STEPS.md §3
 - No chapter on sanctions and Rule 11 / Va. Sup. Ct. Rule 1:4 discipline
 - No coverage of states other than Virginia
 - No coverage of state courts outside the GDC/Circuit Court framework

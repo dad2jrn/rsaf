@@ -19,7 +19,7 @@ RSAF covers:
 5. Cases with and without securitization — the framework does not presume that receivables were transferred, retained, or reacquired in any particular way.
 6. Asset-backed securitization structures where applicable, including receivables purchase agreements, transfer and servicing agreements, trusts, bankruptcy-remote entities, and public SEC filings.
 
-Bank-specific playbooks in the `banks/` directory supplement the generic framework when verified EDGAR research supports them. The generic framework operates independently of any bank playbook.
+Bank-specific playbooks in the `banks/` directory supplement the generic framework when verified EDGAR research supports them. The generic framework operates independently of any bank playbook. RSAF is bank-neutral but currently jurisdiction-scoped to Virginia (procedural law) and Delaware or federal (substantive law); applying it to other forums requires jurisdiction-specific chapters that do not yet exist.
 
 ## Design Goals
 

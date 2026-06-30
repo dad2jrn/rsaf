@@ -62,7 +62,7 @@ OLQ-001 remains unresolved. The conservative default is unchanged. Chapter 22, O
 
 ### 2. Chase Bank Playbook — Medium Priority
 
-Chase (JPMorgan Chase Bank, N.A.) has high litigation volume. No playbook exists. The securitization structure runs through Chase Issuance Trust. EDGAR research is needed to confirm the governing agreements, participant entities, and transfer path before drafting. Build to the same standard as the Bank of America and Capital One playbooks.
+Chase (JPMorgan Chase Bank, N.A.) has high litigation volume. A research stub exists at banks/chase/README.md; a substantive, EDGAR-verified playbook does not. The securitization structure appears to run through Chase Issuance Trust, but governing agreements, participant entities, and transfer-path details must be confirmed from EDGAR before the stub can be elevated. Build to the same standard as the Bank of America and Capital One playbooks.
 
 ### 3. Sample Analysis Chapter — Medium Priority
 
@@ -111,7 +111,7 @@ After Chase, the priority order is: Citi, Synchrony, Discover, Wells Fargo, Amer
 | Glossary | Created |
 | Open legal questions | 3 documented (OLQ-001 through OLQ-003) |
 | Bank playbooks — substantive | Bank of America, Capital One |
-| Bank playbooks — stub/not started | Chase, Citi, Synchrony, Discover, Wells Fargo, American Express |
+| Bank playbooks — research stub | Chase, Citi, Synchrony, Discover, Wells Fargo, American Express |
 | Templates | 4 (answer, discovery, motion to compel arbitration, debt verification) |
 | Outstanding research | OLQ-001 (initial pass complete; follow-up research needed) — high priority |
 | Unresolved architectural issue | None |
