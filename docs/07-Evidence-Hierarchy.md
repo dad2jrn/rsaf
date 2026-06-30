@@ -142,6 +142,8 @@ The distinction is the difference between proving that a process exists and prov
 
 RSAF uses structural evidence to define the evidentiary framework. When a plaintiff's governing agreements require specific documentation for each transfer, the absence of that documentation is significant. Structural evidence tells RSAF what proof should exist. The evidentiary record tells RSAF what proof does exist.
 
+**For a full treatment of the structural/transaction evidence distinction and the "plaintiff's own transfer framework" principle, see Chapter 08 (Program vs. Account-Level Evidence).** That chapter is the definitive RSAF treatment of this distinction.
+
 ---
 
 ## 7.7 Authentication Requirements

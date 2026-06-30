@@ -1,7 +1,7 @@
 # 00 — Introduction
 
 **Status:** Current  
-**Version:** 0.2.0
+**Version:** 0.4.0
 
 ---
 
@@ -101,6 +101,14 @@ A bank may remain the account owner or servicer while the receivable has been tr
 | 14 | Delaware Law | Delaware trust and contract law; ABSFA; choice-of-law |
 | 15 | Federal Law | FDCPA, FAA, National Bank Act, Regulation AB, FDIC Safe Harbor |
 
+### Advanced Analysis
+
+| Chapter | Title | Purpose |
+|---|---|---|
+| 20 | Plaintiff Theory Identification | Identify which of seven enforcement theories the plaintiff asserts before evaluating evidence |
+| 21 | Inference Classification | Classify each conclusion: Proven Fact, Documentary Inference, Legal Inference, Competing Explanation, Open Legal Question, or Speculation |
+| 22 | Routine Securitization Practice | Open legal question: whether documented routine practice creates an inference of specific transfer |
+
 ### Research and Integrity
 
 | Chapter | Title | Purpose |
@@ -110,11 +118,13 @@ A bank may remain the account owner or servicer while the receivable has been tr
 | 18 | Authorities | Virginia table of authorities for chain-of-title challenges |
 | 19 | Research Methodology | How to research case law, statutes, and SEC filings |
 
-### Terminology
+### Terminology and Open Questions
 
 | Resource | Location | Purpose |
 |---|---|---|
-| Terminology | .project/TERMINOLOGY.md | Canonical definitions for all RSAF terms |
+| Glossary | Glossary.md | Plain-language definitions for judges and attorneys; common confusions clarified |
+| Terminology | .project/TERMINOLOGY.md | Canonical definitions for all RSAF terms (contributor reference) |
+| Open Legal Questions | OPEN-LEGAL-QUESTIONS.md | Registry of unresolved legal questions material to RSAF analysis |
 
 ---
 
@@ -137,12 +147,16 @@ RSAF includes bank-specific playbooks in the `banks/` directory. Each playbook i
 
 ## 0.10 How to Use RSAF on a New Matter
 
-1. **Read Chapter 05 (Legal Methodology).** It contains the complete analytical pipeline. Identify the claim, the forum, and the governing law.
-2. **Identify the originating bank.** Pull the applicable bank playbook from `banks/`.
-3. **Apply the securitization primer (Chapter 09)** and the receivable life cycle (Chapter 10) to understand what documents should exist at each stage.
-4. **Catalog the evidence produced.** Apply Chapter 07 (Evidence Hierarchy) and Chapter 08 (Program vs. Account-Level Evidence) to classify each document.
-5. **Evaluate the chain of title.** Apply Chapter 16 using the evidence catalog. Identify which links are supported and which are gaps.
-6. **Apply the burden (Chapter 06).** State what is unproven, why it is required, and what follows under the plaintiff's burden.
-7. **Apply the applicable law.** Use Chapter 13 (Virginia), Chapter 14 (Delaware), or Chapter 15 (Federal) as the forum requires.
-8. **Check citation integrity (Chapter 12)** before relying on any case, statute, or filing.
-9. **Draft only if requested (Chapter 11).** Court-facing documents are produced only when explicitly requested.
+1. **Read Chapter 05 (Legal Methodology).** The complete analytical pipeline. Identify the claim, the forum, and the governing law.
+2. **Identify the plaintiff's enforcement theory (Chapter 20).** Before evaluating evidence, determine what legal right the plaintiff is asserting and how it claims to hold it.
+3. **Identify the originating bank.** Pull the applicable bank playbook from `banks/`.
+4. **Apply the securitization primer (Chapter 09)** and the receivable life cycle (Chapter 10) to understand what documents should exist at each stage.
+5. **Catalog the evidence produced.** Apply Chapter 07 (Evidence Hierarchy) and Chapter 08 (Program vs. Account-Level Evidence) to classify each document.
+6. **Classify each inference (Chapter 21).** For every conclusion drawn from the evidence, identify whether it is a proven fact, supported inference, legal inference, competing explanation, open question, or speculation.
+7. **Evaluate the chain of title (Chapter 16).** Identify which links are supported by account-specific evidence and which are gaps.
+8. **Apply the burden (Chapter 06).** State what is unproven, why it is required, and what follows under the plaintiff's burden.
+9. **Apply the applicable law.** Use Chapter 13 (Virginia), Chapter 14 (Delaware), or Chapter 15 (Federal) as the forum requires.
+10. **Check citation integrity (Chapter 12)** before relying on any case, statute, or filing.
+11. **Draft only if requested (Chapter 11).** Court-facing documents are produced only when explicitly requested.
+
+**Unfamiliar terms:** See Glossary.md for plain-language definitions. See .project/TERMINOLOGY.md for the complete canonical term list.

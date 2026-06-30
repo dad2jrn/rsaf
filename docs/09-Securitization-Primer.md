@@ -171,6 +171,8 @@ When a bank or related entity later sues to collect a defaulted credit-card bala
 
 Monthly statements show that an account existed. They do not necessarily show who currently owns the right to collect the balance. That ownership question is answered by the documents that record the transfer path — and the absence of such documents is an evidentiary gap on the standing element.
 
+**To evaluate the specific documents required at each link in the transfer path, see Chapter 16 (Documentary Chain of Title).** Chapter 16 provides the link-by-link evidentiary analysis. Chapter 10 (Receivable Life Cycle) maps the chronological stages. Chapter 08 (Program vs. Account-Level Evidence) explains the distinction between structural and account-specific proof.
+
 ---
 
 ## Judge's Checklist
