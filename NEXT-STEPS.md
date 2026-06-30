@@ -110,25 +110,27 @@ The existing templates (answer, discovery, motion to compel arbitration, debt ve
 
 ## Questions Requiring Human Legal Review
 
-**1. Green v. Portfolio Recovery Associates**
+The following items were verified by primary source research on 2026-06-30 and updated in the relevant chapters.
 
-This case is referenced in Chapter 12 as a key Virginia authority. The exact citation, court, year, and holding require verification before the case can be cited in any court-facing document. A licensed Virginia attorney should verify this citation.
+**1. Green v. Portfolio Recovery Associates — RESOLVED**
 
-**2. Virginia Rules of Evidence Rule 2:803(6)**
+Full citation: Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc). The en banc court reversed the original panel and affirmed the circuit court's judgment for PRA. Chapter 12 has been corrected. Chapter 13 research table has been updated. The case confirms chain-of-title scrutiny in Virginia but does not establish that PRA-type evidence is insufficient. Read the full en banc opinion before citing.
 
-Chapter 13 cites this provision as the Virginia business records rule. The exact text of the current rule should be verified against the Virginia Rules of the Supreme Court.
+**2. Virginia Rules of Evidence Rule 2:803(6) — CONFIRMED**
 
-**3. Delaware ABSFA**
+The rule exists and governs the business records exception. The implementing statute is Va. Code § 8.01-390.3. Chapter 13 references are confirmed accurate.
 
-Chapter 14 references the Delaware Asset-Backed Securities Facilitation Act without a specific Code citation. The current location of this statute, its specific provisions, and any judicial interpretation should be verified by a Delaware attorney or through primary research.
+**3. Delaware ABSFA — RESOLVED**
 
-**4. FDIC Safe Harbor Rule**
+Codified at 6 Del. C. Chapter 27A, §§ 2701A et seq. Chapter 14 updated with correct citation.
 
-Chapter 15 references FDIC guidance on securitization transfers without a specific citation. The current Safe Harbor Rule and its effective date should be verified.
+**4. FDIC Safe Harbor Rule — RESOLVED**
 
-**5. Virginia limitations periods for credit-card debt claims**
+Codified at 12 C.F.R. § 360.6. Current version finalized March 2020 (effective May 4, 2020), amended by technical correction April 2021. Chapter 15 updated.
 
-Chapter 13 references Va. Code § 8.01-246 but does not specify which subsection applies to credit-card contract claims. This requires verification against the current statute and Virginia case law on when the cause of action accrues.
+**5. Virginia limitations periods — RESOLVED**
+
+Va. Code § 8.01-246(2): Five years for written signed contracts. Va. Code § 8.01-246(4): Three years for other contracts. For credit-card debt, the five-year period applies where a signed agreement exists. Chapter 13 updated.
 
 ---
 
