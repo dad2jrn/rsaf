@@ -1,5 +1,39 @@
 # Changelog
 
+## 0.3.0 — Active Case Preparation (2026-06-30)
+
+### Citation and Framing Corrections
+
+- **docs/12-Citation-Integrity.md** — Expanded *Green v. Portfolio Recovery Associates* analysis. Added: standing-vs-merits framing distinction; en banc majority treated ownership as a merits/sufficiency element, not a threshold standing gate; pure standing challenges may fail at summary judgment; correct framing is failure to prove ownership at trial; both framings must be preserved. Added guidance on where substantive chain-of-title analysis lives (dissent and vacated panel opinion are persuasive only). Added binding Virginia authority sources for chain-of-title requirements.
+- **docs/13-Virginia-Law.md** — Added standing-vs-merits procedural lesson to § 13.4. Pure standing challenge defeated at summary judgment if factual dispute exists. Failure-of-proof challenge requires plaintiff to prove ownership with competent evidence at trial. Both framings should be preserved; neither should be waived.
+
+### Expanded Framework Chapters
+
+- **docs/00-Introduction.md** — Expanded to include § 0.8 chapter map (all 19 chapters organized by function), § 0.9 bank playbook status index, and § 0.10 nine-step usage guide for new matters. Version updated to 0.2.0.
+- **docs/02-Guiding-Principles.md** — Added § 2.8 (Preserve the Standing Argument and the Merits Argument) and § 2.9 (The Servicer Is Not the Owner).
+- **docs/06-Burden-of-Proof.md** — Added § 6.2 standing/merits distinction. Pure standing challenge may fail at summary judgment if plaintiff shows factual dispute. Failure-of-proof challenge requires plaintiff to prove ownership at trial. RSAF practice rule: preserve both framings. Cross-references to Chapters 12 and 18.
+- **docs/11-Document-Standards.md** — Expanded from stub to full chapter covering: answer and affirmative defenses (structure, relevant defenses, no kitchen-sink rule); demurrer (Virginia practice note, grounds, structure); summary judgment and opposition (standing/merits dual framing, evidence requirements); discovery requests (interrogatories, RFPs, RFAs, bank-specific considerations); arbitration submissions (arbitrator education note); formatting table; and verification requirements.
+
+### New Bank Playbooks
+
+- **banks/bank-of-america/README.md** — New substantive playbook. Covers: institutional background (BANA / FIA Card Services / MBNA predecessor chain); securitization participants and roles (BANA, BA Credit Card Funding LLC, BA Master Credit Card Trust II, BA Credit Card Trust, BNY Mellon); governing agreements (RPA, PSA, Indenture, Trust Agreement); RSAF structural questions; link-by-link account-level proof requirements (5 links); predecessor entity complications; arbitration; EDGAR research checklist; applicable law table; research status tracker.
+- **banks/bank-of-america/transfer-path.md** — New document. Full structural transfer diagram with governing agreement annotations at each node; link-by-link evidence checklist; predecessor entity timeline (MBNA → FIA Card Services → BANA); six common deficiency patterns; research checklist.
+- **banks/capital-one/README.md** — Expanded from stub to substantive playbook. Covers: COBUSA vs. CONA originating entity distinction; securitization participants (CO Funding LLC as Virginia LLC, COMT master trust, COMET issuance trust, BNY Mellon); governing agreements including PSA §§ 6.01/6.02 removal provisions; RSAF structural questions; link-by-link account-level proof requirements; Capital One arbitration practice (AAA); servicer-is-not-owner analysis; EDGAR research checklist; Virginia UCC § 8.9A perfection note; research status tracker.
+- **banks/capital-one/transfer-path.md** — New document. Full structural transfer diagram; COMT/COMET distinction explained; link-by-link evidence checklist; Virginia LLC perfection analysis; seven common deficiency patterns including COMT/COMET confusion and wrong-originating-entity errors; research checklist.
+
+### Project Infrastructure
+
+- **.project/DECISIONS.md** — Populated with eight architectural decisions (D-001 through D-008): program/account distinction as central filter; standing/merits parallel framing requirement; no fabricated case law in substantive chapters; chapter numbering by function; bank playbooks as research frameworks only; structural vs. account-specific chain distinction; Virginia as primary forum; gap-analysis terminus rule.
+- **.project/ROADMAP.md** — Populated with v0.2.0 completion checklist, v0.3.0 template priorities, v0.4.0 bank playbook expansion order, v1.0.0 production targets, and known gaps.
+
+### Strengthened Templates
+
+- **templates/answer-and-affirmative-defenses.md** — Rewritten. Now includes seven substantive affirmative defenses with RSAF-specific language: (1) lack of standing / present right to enforce; (2) failure of proof on ownership element; (3) failure to state a claim / demurrer; (4) statute of limitations (Va. Code § 8.01-246(2) and (4)); (5) compulsory arbitration; (6) lack of privity / not the real party in interest; (7) failure to satisfy business records foundation. Virginia GDC and Circuit Court procedural notes. Adaptation checklist.
+- **templates/discovery-requests.md** — Rewritten. Now includes 28 requests for production (chain of title, securitization program documents, Bank of America specific, Capital One specific, servicing and account records, authentication and foundation), 8 interrogatories, and 7 requests for admission. Bank-specific request blocks labeled for easy removal. AAA arbitration note. Adaptation notes.
+- **templates/motion-to-compel-arbitration.md** — Rewritten. Now includes full argument structure (FAA § 2, validity of agreement, scope, no waiver, stay or dismiss), statement of facts template with exact-quote requirement for arbitration clause, filing checklist, Capital One and Bank of America specific notes.
+
+---
+
 ## 0.2.0 — Framework Expansion (2026-06-29)
 
 ### New Chapters
