@@ -40,6 +40,12 @@ In the context of assigned debts and purchased receivables, Virginia courts may 
 
 **Green v. Portfolio Recovery Associates.** The Virginia Court of Appeals decided Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) in December 2024. A panel had initially reversed the circuit court's judgment for PRA, finding PRA failed to prove chain of title. The en banc court reversed the panel and affirmed judgment for PRA, finding that PRA's bills of sale, a bank affidavit, a data sheet, billing statements, and a custodian declaration created a sufficient factual basis for the circuit court's ruling, notwithstanding account-number discrepancies. The case establishes that Virginia courts scrutinize chain-of-title evidence in debt collection actions. It does not stand for the proposition that PRA's type of evidence is categorically insufficient. See Chapter 12 for the full citation and cautions on use.
 
+**Critical procedural lesson — standing vs. merits framing.** The en banc majority in *Green* treated proof of ownership as a **merits and sufficiency-of-the-evidence** question, not a threshold standing question. A pure standing challenge was defeated at the summary-judgment stage because the court found that factual disputes about ownership precluded summary judgment in Green's favor — even where the plaintiff's documentary evidence had meaningful gaps. The court did not resolve the ultimate question of whether PRA's evidence was sufficient at trial; it only held that the disputed facts precluded summary judgment for the defendant.
+
+This has a direct implication for litigation strategy. A challenge framed solely as a "standing" defense may not succeed on a motion to dismiss or motion for summary judgment if the plaintiff can show that a material factual dispute exists. The durable framing is **failure to prove ownership as a required element of the claim at trial** — i.e., the plaintiff failed to carry its burden on the ownership element. This framing requires the plaintiff to prove its ownership case at trial with competent, admissible, account-specific evidence.
+
+**Preserve both framings.** Standing arguments and merits-based failure-of-proof arguments should each be preserved in pleadings and at every procedural stage. Virginia courts recognize both, and a defendant who raises only one may waive the other. See Chapter 06 (Burden of Proof) and Chapter 16 (Documentary Chain of Title).
+
 ---
 
 ## 13.5 Virginia Evidence Rules Governing Business Records
