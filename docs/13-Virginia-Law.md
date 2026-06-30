@@ -38,7 +38,7 @@ Virginia courts apply substantive Virginia law to the question of whether a part
 
 In the context of assigned debts and purchased receivables, Virginia courts may examine whether the plaintiff has produced competent evidence of an assignment or transfer that would entitle it to sue in its own name.
 
-**Case authority.** Virginia case law on the sufficiency of evidence to establish ownership of an assigned consumer receivable is developing. RSAF identifies this as an active research area. Before citing any Virginia case on ownership or chain-of-title sufficiency, verify the exact citation, the court, the year, the procedural posture, and the holding. Pay particular attention to whether the decision is binding on the court before which the current case is pending.
+**Green v. Portfolio Recovery Associates.** The Virginia Court of Appeals decided Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) in December 2024. A panel had initially reversed the circuit court's judgment for PRA, finding PRA failed to prove chain of title. The en banc court reversed the panel and affirmed judgment for PRA, finding that PRA's bills of sale, a bank affidavit, a data sheet, billing statements, and a custodian declaration created a sufficient factual basis for the circuit court's ruling, notwithstanding account-number discrepancies. The case establishes that Virginia courts scrutinize chain-of-title evidence in debt collection actions. It does not stand for the proposition that PRA's type of evidence is categorically insufficient. See Chapter 12 for the full citation and cautions on use.
 
 ---
 
@@ -94,7 +94,14 @@ The limitations period begins to run when the cause of action accrues — typica
 
 A defendant may raise the statute of limitations as an affirmative defense. RSAF must identify the applicable period, calculate when the period began to run, and evaluate whether the claim is timely.
 
-**Research target.** Verify the applicable Virginia limitations periods (Va. Code § 8.01-246 for written contracts and related provisions) before asserting or challenging timeliness. Choice-of-law analysis may affect which state's limitations period applies.
+**Virginia Code § 8.01-246 — Applicable Periods.**
+
+- § 8.01-246(2): Five years for written contracts signed by the defendant.
+- § 8.01-246(4): Three years for other contracts, including unsigned written contracts and oral or implied contracts.
+
+For credit-card debt, whether the five-year or three-year period applies depends on whether a written, signed contract exists between the parties. Where the cardmember agreement is signed, the five-year period under § 8.01-246(2) typically applies. Where the agreement was not signed, the three-year period under § 8.01-246(4) may apply. Verify with current case law.
+
+Choice-of-law analysis may affect which state's limitations period applies.
 
 ---
 
@@ -109,6 +116,6 @@ The following statutes, rules, and authorities should be researched and verified
 | Va. Code § 16.1-77 | General District Court jurisdiction | Current jurisdictional limits |
 | Va. Rules Evid. Rule 2:803(6) | Business records hearsay exception | Current text of rule |
 | Va. Code § 8.01-246 | Contract limitations periods | Current text and applicable period |
-| Green v. Portfolio Recovery Associates | Ownership sufficiency of generalized records | Verify citation, court, year, holding |
+| Green v. Portfolio Recovery Associates, LLC, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) | Chain-of-title scrutiny in debt collection; en banc affirmed PRA's judgment | Read en banc opinion directly before citing; vacated panel opinion not binding |
 
 RSAF must not cite any of these authorities in a court-facing document without verifying the current text and confirming the proposition stated. This chapter is a research checklist, not a substitute for primary research.

@@ -36,9 +36,10 @@ Delaware has adopted Article 9 of the Uniform Commercial Code at 6 Del. C. § 9-
 
 Delaware has enacted legislation intended to facilitate asset-backed securitization by clarifying the treatment of transfers of receivables into securitization structures and confirming that such transfers will be treated as true sales rather than secured transactions under Delaware law.
 
+The Delaware Asset-Backed Securities Facilitation Act is codified at Title 6, Chapter 27A of the Delaware Code (6 Del. C. §§ 2701A et seq.).
+
 RSAF identifies this statute as a potential source of authority on the true-sale characterization of transfers in Delaware-law-governed programs. Before citing this statute, verify:
 
-- the current location of the statute in the Delaware Code;
 - the specific provisions relevant to credit-card receivable transfers;
 - whether the statute applies to the program and transfer structure at issue;
 - any judicial interpretation of the statute's scope or effect.
@@ -82,7 +83,7 @@ RSAF must not assume that Delaware law governs every issue simply because the ca
 |---|---|---|
 | 6 Del. C. § 9-109 | Scope of Article 9; sale of accounts | Current text |
 | 6 Del. C. § 9-406 | Account debtor's right to proof of assignment | Current text |
-| Delaware Asset-Backed Securities Facilitation Act | True-sale characterization | Current location; scope; judicial interpretation |
+| Delaware ABSFA, 6 Del. C. §§ 2701A et seq. (Ch. 27A) | True-sale characterization | Current text; scope; judicial interpretation |
 | Delaware contract interpretation case law | Applicable standards for cardmember agreements | Verify leading Delaware Supreme Court cases |
 
 RSAF must not cite any Delaware authority in a court-facing document without verifying the current text and the exact proposition supported.

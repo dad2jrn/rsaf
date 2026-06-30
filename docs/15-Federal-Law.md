@@ -90,7 +90,7 @@ RSAF identifies FDIC regulatory guidance as a potential source of authority on:
 
 **Caution.** FDIC guidance is regulatory in nature. It does not bind courts in civil collection litigation. RSAF must distinguish between the FDIC's regulatory standards and the legal standards applicable in civil proceedings. The two may differ. Do not cite FDIC guidance as binding legal authority without identifying it accurately as regulatory guidance.
 
-**Research target.** Verify the current FDIC Safe Harbor Rule applicable to securitization transfers. Regulations in this area have been subject to revision. Any citation must reflect the rule in effect at the time of the relevant transfer.
+**Citation.** The FDIC Safe Harbor Rule is codified at 12 C.F.R. § 360.6. The current version was finalized in March 2020 (effective May 4, 2020) and amended by technical correction in April 2021. Any citation must identify the version of the rule in effect at the time of the relevant transfer, as earlier versions imposed different conditions.
 
 ---
 
@@ -119,7 +119,7 @@ CFPB rules and guidance are relevant where the plaintiff is a debt collector sub
 | 12 U.S.C. § 1 et seq. | National Bank Act; OCC authority | Verify current text and applicable OCC regulations |
 | Marquette Nat'l Bank v. First of Omaha Service Corp., 439 U.S. 299 (1978) | Interest rate preemption for national banks | Verify citation and applicability to current facts |
 | 17 C.F.R. Part 229 (Reg AB) | SEC disclosure requirements for ABS | Current text |
-| FDIC Safe Harbor Rule | Treatment of securitization transfers in receivership | Verify current rule and effective date |
+| FDIC Safe Harbor Rule, 12 C.F.R. § 360.6 | Treatment of securitization transfers in receivership | Verify version in effect at time of relevant transfer |
 | 12 C.F.R. Part 1006 (Regulation F) | CFPB FDCPA implementation rules | Current text; applicability to plaintiff |
 
 RSAF must not cite any federal statute, regulation, or case in a court-facing document without verifying the current text, the specific proposition it supports, and its binding or persuasive status in the forum court.
