@@ -14,7 +14,16 @@ This chapter identifies the federal legal frameworks most frequently relevant to
 
 The Fair Debt Collection Practices Act (FDCPA) prohibits abusive, deceptive, and unfair debt collection practices by "debt collectors."
 
-**Scope.** The FDCPA's coverage depends on whether the plaintiff qualifies as a "debt collector" as the statute defines that term. The statute generally defines a debt collector as a person who regularly collects debts owed to another. Creditors collecting their own debts — that is, debts the creditor originated and has continuously owned — are generally excluded from the definition. Debt buyers who acquire defaulted debt and collect it in their own name may or may not qualify as debt collectors depending on the specific facts and the applicable circuit's interpretation.
+**Scope.** The FDCPA's coverage depends on whether the plaintiff qualifies as a "debt collector" as the statute defines that term. The statute generally defines a debt collector as a person who regularly collects debts owed to another. Creditors collecting their own debts — that is, debts the creditor originated and has continuously owned — are generally excluded from the definition. Debt buyers who acquire defaulted debt and collect it in their own name are generally **not** "debt collectors" under the FDCPA. The Supreme Court unanimously resolved the core question in *Henson v. Santander Consumer USA, Inc.*, 582 U.S. 79 (2017): the statutory phrase "debts owed or due another" does not cover an entity that owns the debt it collects. Whether a particular debt-buyer plaintiff qualifies as a debt collector therefore turns on whether it acts as a purchaser-owner or as a servicer collecting on behalf of a third party.
+
+**Henson v. Santander Consumer USA, Inc., 582 U.S. 79 (2017).** The Supreme Court unanimously held that an entity that purchases defaulted debt for its own account and then seeks to collect it is not a "debt collector" under the FDCPA. The Court's analysis turned on the statutory text: the FDCPA defines a debt collector as one who regularly collects debts owed or due "another." A purchaser who owns the debt collects money owed to itself, not to another, and therefore falls outside the statutory definition. This holding is binding on all federal courts.
+
+*Ownership structure controls.* FDCPA coverage depends on how the collecting entity holds the debt at the time of collection:
+
+- A servicer that collects on behalf of a debt owner who is a third party may qualify as a debt collector.
+- A purchaser that has acquired ownership of the debt and collects for its own account generally does not qualify.
+
+*Practitioner note — verify before court use.* Before asserting or opposing FDCPA coverage as to any debt-buyer plaintiff, verify: (a) the precise holding of *Henson v. Santander Consumer USA, Inc.*, 582 U.S. 79 (2017), (b) any subsequent circuit-level decisions applying or distinguishing *Henson* in the forum jurisdiction, and (c) whether the plaintiff actually purchased the debt or acted in a servicer capacity — that fact-specific question remains subject to evidentiary proof. Do not cite this case in any court-facing document without independently confirming the citation and the current state of the law in the forum.
 
 **RSAF analysis.** Before asserting or evaluating any FDCPA obligation, RSAF must classify the plaintiff:
 
@@ -114,6 +123,7 @@ CFPB rules and guidance are relevant where the plaintiff is a debt collector sub
 |---|---|---|
 | 15 U.S.C. § 1692 et seq. | FDCPA — definitions, prohibitions, standing | Current text; plaintiff classification required |
 | 15 U.S.C. § 1692e, 1692g | False representations; debt validation | Current text |
+| *Henson v. Santander Consumer USA, Inc.*, 582 U.S. 79 (2017) | FDCPA "debt collector" definition — purchaser of defaulted debt for its own account is generally not a debt collector; binding on all federal courts | Required authority for any FDCPA scope analysis involving a debt-buyer plaintiff; verify citation and plaintiff's ownership structure before court use |
 | 9 U.S.C. § 2 | FAA — enforceability of arbitration agreements | Current text; applicable circuit law |
 | AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) | FAA preempts state class-action waiver prohibitions | Verify citation and applicability |
 | 12 U.S.C. § 1 et seq. | National Bank Act; OCC authority | Verify current text and applicable OCC regulations |
