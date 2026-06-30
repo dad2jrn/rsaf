@@ -1,161 +1,186 @@
 # NEXT-STEPS.md
 
-**Session:** Foundation expansion — 2026-06-29
-**Branch:** foundation
+**Last updated:** 2026-06-30
+**Branch:** main
 
 ---
 
-## Completed This Session
-
-### Legal Methodology Revision (docs/05-Legal-Methodology.md)
-
-Applied eleven editorial directives: added Required Proof Matrix, Evidence Classification Matrix, Evidence Weight, Alternate Explanations, Competing Theories, Analytical Boundaries, and The Judge's Question sections. Added Methodology Summary with conceptual sequence diagram. Updated pipeline to reflect new steps. Fixed burden language, generalized bank-specific examples. Sections renumbered 5.1–5.23.
-
-### Expanded Foundational Chapters
-
-| File | Previous State | Current State |
-|---|---|---|
-| 06-Burden-of-Proof.md | 40 lines, basic rule | 190 lines — claim-by-claim analysis, procedural stages, gap formulation |
-| 07-Evidence-Hierarchy.md | 67 lines, table only | 260 lines — four evidence functions, authentication, acquired records, weight table, admissibility analysis |
-| 08-Program-vs-Account-Level-Evidence.md | 57 lines, basic | 220 lines — distinction explained, inference limits, error catalog |
-| 09-Securitization-Primer.md | 65 lines, thin | 230 lines — participants, transfer path, true sale, removal, two ownership theories, judge's summary |
-| 10-Receivable-Life-Cycle.md | 45 lines, outline | 250 lines — eleven stages, stage-specific questions and documents, retention and reacquisition analysis |
-| 13-Virginia-Law.md | Stub only | Substantive chapter — court structure, pleading, evidence rules, UCC Article 9, research targets |
-| 14-Delaware-Law.md | Stub only | Substantive chapter — choice of law, UCC Article 9, ABSFA, contract interpretation |
-| 15-Federal-Law.md | Stub only | Substantive chapter — FDCPA, FAA, NBA preemption, Regulation AB, FDIC guidance |
+## Completed Since Last Update
 
 ### New Chapters Created
 
-- **docs/16-Documentary-Chain-of-Title.md** — New chapter explaining the structural vs. account-specific chain distinction, link-by-link evaluation, complete vs. incomplete chains, and RSAF's chain-of-title analytical process.
-- **docs/17-Rules-of-Evidence.md** — New chapter covering authentication, business records exception, acquired records, hearsay analysis, affidavit limitations, electronic records, and evidentiary checklist.
+| File | Description |
+|---|---|
+| docs/20-Plaintiff-Theory-Identification.md | Seven enforcement theories with full evidentiary analysis for each. Core framing shift: "present legal right to enforce" replaces "ownership only." |
+| docs/21-Inference-Classification.md | Six inference categories (Proven Fact, Supported Documentary Inference, Legal Inference, Competing Explanation, Open Legal Question, Speculation), hierarchy diagram, five common analytical errors. |
+| docs/22-Routine-Securitization-Practice.md | Research chapter on the open question of whether routine securitization practice creates an evidentiary inference of specific transfer. Four possible inferences identified but not adopted. Competing legal positions analyzed. Research required listed. |
+| OPEN-LEGAL-QUESTIONS.md | Register of open legal questions. Three entries: OLQ-001 (routine securitization inference), OLQ-002 (servicer standing to sue in own name), OLQ-003 (Delaware ABSFA effect on Virginia analysis). |
 
-### Project Files
+### Updated Chapters
 
-- **.project/TERMINOLOGY.md** — Populated with canonical definitions for all key RSAF terms.
-- **CHANGELOG.md** — Updated to reflect version 0.2.0 changes.
+| File | Change |
+|---|---|
+| docs/05-Legal-Methodology.md | Added "Identify Plaintiff's Enforcement Theory" step to analysis pipeline. New § 5.13 on theory identification (preceding account-level proof analysis). Added inference classification cross-reference (§ 5.9). Added routine securitization open-question cross-reference (§ 5.18). Sections renumbered 5.13–5.24. |
+| docs/08-Program-vs-Account-Level-Evidence.md | Reframed program-level evidence as "plaintiff's own transfer framework." Strengthened § 8.3 and § 8.6. Added cross-reference to Chapter 22 and OPEN-LEGAL-QUESTIONS.md in § 8.7. |
+| docs/19-Research-Methodology.md | Fixed chapter header (18→19). Added § 18.11 "Researching Unresolved Legal Questions" — covering factual vs. legal uncertainty, how to identify open questions, documentation standards, primary-authority priority, competing interpretations, confidence assessments, and what not to do with open questions. |
 
----
+### Prior Session (v0.3.0) — Also Completed
 
-## Files Changed This Session
-
-```
-docs/05-Legal-Methodology.md    (revised)
-docs/06-Burden-of-Proof.md      (expanded)
-docs/07-Evidence-Hierarchy.md   (expanded)
-docs/08-Program-vs-Account-Level-Evidence.md  (expanded)
-docs/09-Securitization-Primer.md (expanded)
-docs/10-Receivable-Life-Cycle.md (expanded)
-docs/13-Virginia-Law.md         (expanded from stub)
-docs/14-Delaware-Law.md         (expanded from stub)
-docs/15-Federal-Law.md          (expanded from stub)
-docs/16-Documentary-Chain-of-Title.md  (created)
-docs/17-Rules-of-Evidence.md    (created)
-.project/TERMINOLOGY.md         (created)
-CHANGELOG.md                    (updated)
-```
+- Chapters 12, 13, 06, 02 updated for standing-vs-merits framing.
+- Chapter 11 expanded from stub to full chapter.
+- Chapter 00 expanded with chapter map and usage guide.
+- Bank of America playbook (README.md + transfer-path.md) created.
+- Capital One playbook (README.md + transfer-path.md) created.
+- All four templates rewritten.
+- .project/DECISIONS.md and .project/ROADMAP.md populated.
+- CHANGELOG.md updated to v0.3.0.
 
 ---
 
-## Recommended Next Tasks
+## Open Legal Questions
 
-### High Priority — Framework Completion
+Three questions are currently documented in OPEN-LEGAL-QUESTIONS.md and remain unresolved:
 
-**1. Add a Research Methodology chapter (docs/18-Research-Methodology.md)**
+**OLQ-001 — Routine Securitization Inference (High Priority)**
 
-The existing 12-Citation-Integrity.md covers citation discipline but does not address the methodology for finding, verifying, and applying authority. A dedicated chapter should cover the authority hierarchy applied in practice, how to distinguish binding from persuasive authority in multi-jurisdictional cases, the use of PACER, Westlaw, and public SEC filings, and how to document research for a court-facing document.
+Whether Virginia law, Delaware law, or applicable federal evidence law recognizes a rebuttable evidentiary inference that a specific credit-card receivable was transferred because the issuing bank routinely transferred eligible receivables pursuant to a publicly disclosed securitization program.
 
-**2. Improve chapter 00-Introduction.md**
+Current RSAF position: No. Structural evidence alone does not establish the specific transfer. This is a default pending research, not a concluded position.
 
-Currently brief. Should be expanded to serve as the entry point for both human readers (judges, attorneys) and AI systems. Should include a brief orientation to the structure of the framework and how to use it.
+Research needed: Virginia Rule of Evidence 2:406 case law, Fourth Circuit opinions, bankruptcy court opinions on transfer documentation sufficiency, ASC 860 implications, FDIC guidance, SEC Regulation AB scope.
 
-**3. Add cross-references between chapters**
+**OLQ-002 — Servicer Standing to Sue in Own Name (Medium Priority)**
 
-Several chapters reference related content (e.g., Chapter 05 references "Chapter 07") but these references are sparse. A systematic cross-reference pass would make the framework more navigable and reduce redundancy.
+Whether a servicer that does not own the receivable has standing to sue in Virginia in its own name without joining the trust or owner.
 
-**4. Build out bank-specific playbooks**
+Research needed: Virginia Rule 3:17 (real party in interest) case law; servicer-authority provisions in governing agreements.
 
-The bank playbooks (Chase, Citi, Amex, Capital One, Discover, Synchrony, Wells Fargo) exist only as stubs. Chase has one transfer-path diagram. These should be expanded after the common framework stabilizes.
+**OLQ-003 — Delaware ABSFA Effect on Virginia Litigation (Low Priority)**
 
-Priority for first expansion: Chase (most active volume, has existing structure) and Citi (extensive securitization programs).
+Whether Delaware's ABSFA true-sale classification affects the chain-of-title analysis in Virginia consumer collection litigation.
 
-### Medium Priority — Framework Refinement
-
-**5. Review chapters 02, 03, 04 for expansion**
-
-Guiding Principles (02), Writing Standards (03), and Judicial Communication (04) are brief. They are methodologically sound but could each be doubled in depth without losing quality. Particularly, chapter 04 could add more examples of how to present the judge's summary in different procedural postures.
-
-**6. Populate .project/ROADMAP.md**
-
-The roadmap file is empty. A brief roadmap documenting the planned chapter order and completion status would help track progress across sessions.
-
-**7. Populate .project/DECISIONS.md**
-
-Document major architectural decisions already made — the program-level vs. account-level distinction, the decision to separate the life cycle from chain of title, the decision not to include specific case law in substantive chapters without verification. These decisions are not otherwise recorded.
-
-**8. Add a Sample Analysis chapter or template**
-
-A worked example — using hypothetical, not fabricated, facts — demonstrating how RSAF's methodology applies from start to finish would greatly improve the framework's usability. The example should show the pipeline, the required proof matrix, the evidentiary gap analysis, and the burden assessment, all in sequence.
-
-### Lower Priority
-
-**9. Rules of Evidence — jurisdiction-specific expansions**
-
-Chapter 17 covers general principles. Jurisdiction-specific expansions (Virginia, Delaware, federal arbitration) would improve precision. These should be added as subsections of the existing chapter rather than separate files.
-
-**10. Templates**
-
-The existing templates (answer, discovery, motion to compel arbitration, debt verification) should be reviewed for consistency with the expanded framework. The answer template in particular should reflect RSAF's standing and burden principles.
+Research needed: Virginia choice-of-law case law; Restatement (Second) Conflict of Laws as applied in Virginia.
 
 ---
 
-## Questions Requiring Human Legal Review
+## Remaining Research Tasks
 
-The following items were verified by primary source research on 2026-06-30 and updated in the relevant chapters.
+### For Active Case Analysis
 
-**1. Green v. Portfolio Recovery Associates — RESOLVED**
+The following items require primary source research before they can be stated as confirmed positions in any court-facing document:
 
-Full citation: Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc). The en banc court reversed the original panel and affirmed the circuit court's judgment for PRA. Chapter 12 has been corrected. Chapter 13 research table has been updated. The case confirms chain-of-title scrutiny in Virginia but does not establish that PRA-type evidence is insufficient. Read the full en banc opinion before citing.
+1. Virginia Rule of Evidence 2:406 — scope, predicate requirements, and application in commercial contexts. This directly governs OLQ-001.
 
-**2. Virginia Rules of Evidence Rule 2:803(6) — CONFIRMED**
+2. Virginia Rule 3:17 (real party in interest) case law in the collection context. This governs OLQ-002.
 
-The rule exists and governs the business records exception. The implementing statute is Va. Code § 8.01-390.3. Chapter 13 references are confirmed accurate.
+3. Fourth Circuit opinions on transfer documentation sufficiency in consumer receivable portfolios. These are the most likely source of binding or strongly persuasive authority on OLQ-001.
 
-**3. Delaware ABSFA — RESOLVED**
+4. Bankruptcy court opinions addressing securitization transfer documentation — particularly in the Fourth Circuit and other circuits. Bankruptcy trustees frequently litigate transfer completeness; there may be substantial relevant precedent.
 
-Codified at 6 Del. C. Chapter 27A, §§ 2701A et seq. Chapter 14 updated with correct citation.
+5. ASC 860 — what the derecognition accounting standard implies about the completeness and documentation of securitization transfers.
 
-**4. FDIC Safe Harbor Rule — RESOLVED**
+6. Virginia Rule 2:803(6) — business records exception — in the context of acquired records (records produced by one entity, authenticated by a custodian of a successor entity). The chain of custody is frequently contested in collection litigation.
 
-Codified at 12 C.F.R. § 360.6. Current version finalized March 2020 (effective May 4, 2020), amended by technical correction April 2021. Chapter 15 updated.
+### For Bank Playbooks
 
-**5. Virginia limitations periods — RESOLVED**
-
-Va. Code § 8.01-246(2): Five years for written signed contracts. Va. Code § 8.01-246(4): Three years for other contracts. For credit-card debt, the five-year period applies where a signed agreement exists. Chapter 13 updated.
-
----
-
-## Architectural Concerns
-
-**The "16-Documentary-Chain-of-Title.md" file number may conflict with future chapters.**
-
-The existing files skip from 15 (Federal Law) to the new 16 (Documentary Chain of Title) and 17 (Rules of Evidence). The original HANDOFF.md priority list did not specify file numbering for later chapters. If future chapters are added for Research Methodology (#12 in the HANDOFF list), they should continue with 18, 19, etc. to maintain sequential numbering.
-
-**Chapter 12 (Citation-Integrity) overlaps with the planned Research Methodology chapter.**
-
-Consider whether to expand Chapter 12 into a full Research Methodology chapter or create Chapter 18 as a dedicated Research Methodology chapter that builds on Chapter 12's foundation without replacing it.
+- Chase (JPMorgan Chase Bank, N.A.): No playbook exists. High litigation volume; should be prioritized after Bank of America and Capital One are verified.
+- Citi (Citibank, N.A. / Citibank South Dakota, N.A.): No playbook exists. Active securitization programs.
+- Synchrony Bank: No playbook exists.
+- Discover Bank: No playbook exists.
+- Wells Fargo Bank, N.A.: No playbook exists.
+- American Express National Bank: No playbook exists.
 
 ---
 
-## Suggested Future Commits
+## Recommended Implementation Order
 
-```
-docs: add research methodology chapter
-docs: expand introduction chapter
-docs: cross-reference all chapters
-docs: expand Chase bank playbook
-docs: expand Citi bank playbook
-docs: expand guiding principles, writing standards, judicial communication
-docs: add sample analysis chapter
-docs: populate project roadmap and decisions log
-docs: review and update templates for consistency
-```
+### Immediate — Research Completion (Before Framework Expands Further)
+
+The open legal questions (OLQ-001 through OLQ-003) should be researched before additional chapters are written that depend on their resolution. Building analytical chapters on top of an unresolved question risks propagating an assumed answer through multiple files.
+
+Specific priority:
+
+1. **Research Virginia Rule 2:406.** This is the key provision for OLQ-001. Find Virginia case law applying it and confirm whether its scope reaches the commercial/securitization context. Update OPEN-LEGAL-QUESTIONS.md with findings.
+
+2. **Research Fourth Circuit securitization sufficiency opinions.** These will either provide persuasive authority supporting OLQ-001 Position B or persuasive authority supporting Position A.
+
+3. **Update Chapter 22 and OPEN-LEGAL-QUESTIONS.md** with whatever the research finds. Do not update to adopt a position that the research has not established.
+
+### Near-Term — Framework Additions
+
+**Sample analysis chapter (new docs/23-*.md).** A worked example using hypothetical facts — showing the complete RSAF pipeline from claim identification through burden assessment — would make the framework substantially more usable. It should demonstrate: pipeline execution, required proof matrix, evidentiary gap analysis, inference classification applied to real document types, and burden assessment formulation.
+
+**Chase playbook (banks/chase/).** JPMorgan Chase Bank, N.A. has one of the highest volumes of consumer collection actions. The securitization structure runs through Chase Issuance Trust with WF Bank, N.A. (formerly Wilmington Trust) as owner trustee. EDGAR research is needed to confirm the current governing agreements.
+
+**Cross-reference audit.** A systematic pass through all chapters to verify that cross-references are current and that chapters added since the framework was last audited (Chapters 20, 21, 22, and OPEN-LEGAL-QUESTIONS.md) are referenced where appropriate in earlier chapters.
+
+### Medium-Term — Framework Refinement
+
+**Rules of Evidence — jurisdiction-specific depth.** Chapter 17 covers general principles. Virginia-specific and Delaware-specific sections would improve precision.
+
+**Chapter 04 (Judicial Communication) — expansion.** Currently brief. Could be expanded to include examples of how to present the judge's summary in different procedural postures and how to handle the theory-identification step in a motion brief.
+
+**Chapter 02 (Guiding Principles) and Chapter 03 (Writing Standards) — expansion.** Methodologically sound but brief. Both could be doubled without losing quality.
+
+---
+
+## Current Framework State
+
+### Completed Chapters
+
+| # | File | Status |
+|---|---|---|
+| 00 | Introduction | Complete |
+| 01 | Constitution | Complete (protected) |
+| 02 | Guiding Principles | Complete |
+| 03 | Writing Standards | Complete |
+| 04 | Judicial Communication | Brief but functional |
+| 05 | Legal Methodology | Complete — pipeline + theory identification |
+| 06 | Burden of Proof | Complete |
+| 07 | Evidence Hierarchy | Complete |
+| 08 | Program vs. Account-Level Evidence | Complete |
+| 09 | Securitization Primer | Complete |
+| 10 | Receivable Life Cycle | Complete |
+| 11 | Document Standards | Complete |
+| 12 | Citation Integrity | Complete |
+| 13 | Virginia Law | Complete |
+| 14 | Delaware Law | Complete |
+| 15 | Federal Law | Complete |
+| 16 | Documentary Chain of Title | Complete |
+| 17 | Rules of Evidence | Complete |
+| 18 | Authorities | Complete |
+| 19 | Research Methodology | Complete |
+| 20 | Plaintiff Theory Identification | Complete |
+| 21 | Inference Classification | Complete |
+| 22 | Routine Securitization Practice | Complete — research chapter, no concluded position |
+
+### Files Requiring Research Before Use in Court
+
+Any chapter that references or depends on OLQ-001 should be treated as subject to revision once the open question is resolved. This includes:
+
+- docs/05-Legal-Methodology.md (§ 5.18 reference to OLQ-001)
+- docs/08-Program-vs-Account-Level-Evidence.md (§ 8.7 reference to OLQ-001)
+- docs/21-Inference-Classification.md (§ 21.10 reference to Ch 22 and OLQ-001)
+- docs/22-Routine-Securitization-Practice.md (the entire chapter)
+- OPEN-LEGAL-QUESTIONS.md (OLQ-001 entry)
+
+### Bank Playbooks
+
+| Bank | README | Transfer Path | Status |
+|---|---|---|---|
+| Bank of America | ✓ | ✓ | Research framework — not verified |
+| Capital One | ✓ | ✓ | Research framework — not verified |
+| Chase | — | — | Not started |
+| Citi | — | — | Not started |
+| Synchrony | — | — | Not started |
+| Discover | — | — | Not started |
+| Wells Fargo | — | — | Not started |
+| American Express | — | — | Not started |
+
+---
+
+## Critical Constraint
+
+RSAF is not a conclusion-delivery system. It is an evidence-evaluation framework. Work product that states conclusions without evidentiary foundation is not RSAF-compliant regardless of how it is labeled.
+
+The open legal questions are open because the law has not resolved them. The correct RSAF posture is to identify the question, state the competing positions, hold the default that requires more evidence rather than less, and update the framework when authority is found. That is the methodology. Do not try to prove RSAF correct. Try to discover whether RSAF is correct.
