@@ -12,7 +12,7 @@ This chapter surveys Virginia law relevant to consumer credit-card receivable li
 
 Consumer credit-card collection actions in Virginia may proceed in General District Court or Circuit Court, depending on the amount in controversy and procedural posture.
 
-**General District Court.** The General District Court hears civil cases up to a statutory jurisdictional limit established by the Virginia Code. See Va. Code § 16.1-77. General District Court proceedings are governed by simplified procedure; the Virginia Rules of Evidence apply in modified form. Appeals from General District Court judgments proceed to Circuit Court as trials de novo.
+**General District Court.** The General District Court hears civil cases up to a statutory jurisdictional limit established by the Virginia Code. See Va. Code § 16.1-77. As of 2021, § 16.1-77 was amended to raise the GDC civil jurisdiction limit to $25,000. Before relying on this figure in any filing, verify the current limit against the text of § 16.1-77 in effect at the time of filing — the limit is subject to legislative change. Cases in which the amount in controversy exceeds the current GDC limit must be filed in Circuit Court. Cases at or below the limit may be filed in GDC, with appeal available to Circuit Court as a trial de novo. General District Court proceedings are governed by simplified procedure; the Virginia Rules of Evidence apply in modified form.
 
 **Circuit Court.** The Circuit Court is a court of general jurisdiction. It has jurisdiction over civil cases without a jurisdictional cap. Appeals from General District Court provide a fresh start in Circuit Court. The Virginia Rules of Evidence and Virginia Rules of Supreme Court apply in Circuit Court proceedings.
 
@@ -38,7 +38,7 @@ Virginia courts apply substantive Virginia law to the question of whether a part
 
 In the context of assigned debts and purchased receivables, Virginia courts may examine whether the plaintiff has produced competent evidence of an assignment or transfer that would entitle it to sue in its own name.
 
-**Green v. Portfolio Recovery Associates.** The Virginia Court of Appeals decided Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) in December 2024. A panel had initially reversed the circuit court's judgment for PRA, finding PRA failed to prove chain of title. The en banc court reversed the panel and affirmed judgment for PRA, finding that PRA's bills of sale, a bank affidavit, a data sheet, billing statements, and a custodian declaration created a sufficient factual basis for the circuit court's ruling, notwithstanding account-number discrepancies. The case establishes that Virginia courts scrutinize chain-of-title evidence in debt collection actions. It does not stand for the proposition that PRA's type of evidence is categorically insufficient. See Chapter 12 for the full citation and cautions on use.
+**Green v. Portfolio Recovery Associates.** The Virginia Court of Appeals decided *Mazie Green v. Portfolio Recovery Associates, LLC*, Record No. 0144-22-3 (Va. Ct. App. Dec. 17, 2024) (en banc) in December 2024. A panel had initially reversed the circuit court's judgment for PRA, finding PRA failed to prove chain of title. The en banc court reversed the panel and affirmed judgment for PRA, finding that PRA's bills of sale, a bank affidavit, a data sheet, billing statements, and a custodian declaration created a sufficient factual basis for the circuit court's ruling, notwithstanding account-number discrepancies. The case establishes that Virginia courts scrutinize chain-of-title evidence in debt collection actions. It does not stand for the proposition that PRA's type of evidence is categorically insufficient. See Chapter 12 for the full citation and cautions on use.
 
 **Critical procedural lesson — standing vs. merits framing.** The en banc majority in *Green* treated proof of ownership as a **merits and sufficiency-of-the-evidence** question, not a threshold standing question. A pure standing challenge was defeated at the summary-judgment stage because the court found that factual disputes about ownership precluded summary judgment in Green's favor — even where the plaintiff's documentary evidence had meaningful gaps. The court did not resolve the ultimate question of whether PRA's evidence was sufficient at trial; it only held that the disputed facts precluded summary judgment for the defendant.
 
@@ -109,6 +109,26 @@ For credit-card debt, whether the five-year or three-year period applies depends
 
 Choice-of-law analysis may affect which state's limitations period applies.
 
+### 13.8.1 Accrual Date Analysis
+
+Virginia courts have recognized competing accrual dates in credit-card collection cases. Two dates are frequently litigated: (a) the date of the first missed payment or default under the account agreement, and (b) the date of charge-off. The choice between these dates can determine whether a claim is timely. Neither rule has been definitively settled for all credit-card contexts in Virginia. RSAF must conduct jurisdiction-specific research to identify the accrual date that a Virginia court would apply to the specific account at issue before asserting or evaluating a limitations defense. Do not resolve this question from this chapter.
+
+**Verify:** Research current Virginia appellate authority on the accrual date for credit-card contract claims before relying on any accrual-date position in a court-facing document.
+
+### 13.8.2 Tolling — Partial Payment and Written Acknowledgment
+
+Va. Code § 8.01-229 addresses events that may toll or restart the limitations period. Under this provision, a partial payment or a written acknowledgment of the debt may restart the limitations clock. This mechanism is frequently relevant in credit-card cases where a consumer made a partial payment years before the ultimate default — if such a payment occurred, the limitations period may have restarted from that date, making an otherwise stale claim timely.
+
+**Verify:** Before relying on § 8.01-229 in any court-facing document, confirm the current statutory text, any applicable judicial construction, and whether a payment or acknowledgment in the specific record qualifies under the statute as it currently reads.
+
+### 13.8.3 Virginia Borrowing Statute
+
+Va. Code § 8.01-247 is Virginia's borrowing statute. Where a cause of action accrued in another state, the shorter of Virginia's limitations period or the other state's limitations period applies. Many cardmember agreements designate Delaware law as the governing contract law. Delaware's limitations period for contract claims is three years. If a Virginia court applies Virginia's borrowing statute and enforces the choice-of-law clause in the cardmember agreement, the applicable limitations period may be three years rather than Virginia's five-year period for signed written contracts — even if the Virginia five-year period would otherwise apply.
+
+This argument requires verification of: (a) the current text of Va. Code § 8.01-247; (b) the applicable limitations period in the state designated by the cardmember agreement's choice-of-law clause; and (c) Virginia case law on the interaction between the borrowing statute and choice-of-law clauses in consumer contracts.
+
+**Verify:** Do not cite Va. Code § 8.01-247 or assert a borrowing-statute argument in any court-facing document without confirming the current statutory text and supporting case law.
+
 ---
 
 ## 13.9 Key Research Targets
@@ -119,10 +139,12 @@ The following statutes, rules, and authorities should be researched and verified
 |---|---|---|
 | Va. Code § 8.9A-109 | Scope of Article 9; sale of accounts | Current text |
 | Va. Code § 8.9A-406 | Account debtor's right to proof of assignment | Current text |
-| Va. Code § 16.1-77 | General District Court jurisdiction | Current jurisdictional limits |
+| Va. Code § 16.1-77 | General District Court civil jurisdiction; limit raised to $25,000 as of 2021; cases above limit must file in Circuit Court | Verify current limit before filing; subject to legislative change |
 | Va. Rules Evid. Rule 2:803(6) | Business records hearsay exception | Current text of rule |
 | Va. Code § 8.01-246 | Contract limitations periods | Current text and applicable period |
-| Green v. Portfolio Recovery Associates, LLC, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc) | Chain-of-title scrutiny in debt collection; en banc affirmed PRA's judgment | Read en banc opinion directly before citing; vacated panel opinion not binding |
+| Va. Code § 8.01-229 | Tolling — partial payment or written acknowledgment of debt may restart limitations period | Verify current text before relying on tolling argument |
+| Va. Code § 8.01-247 | Borrowing statute — shorter period applies when cause of action accrued in another state; may shorten period when cardmember agreement designates out-of-state law | Verify current text; research limitations period of state designated in cardmember agreement's choice-of-law clause |
+| *Green v. Portfolio Recovery Associates, LLC*, Record No. 0144-22-3 (Va. Ct. App. Dec. 17, 2024) (en banc) | Chain-of-title scrutiny in debt collection; en banc affirmed PRA's judgment | Read en banc opinion directly before citing; vacated panel opinion not binding |
 
 RSAF must not cite any of these authorities in a court-facing document without verifying the current text and confirming the proposition stated. This chapter is a research checklist, not a substitute for primary research.
 

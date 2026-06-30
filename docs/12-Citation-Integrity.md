@@ -23,7 +23,7 @@ Do not quote from a case, statute, regulation, or filing unless the quotation ha
 
 ## 12.4 Green v. Portfolio Recovery Associates
 
-**Citation:** Mazie Green v. Portfolio Recovery Associates, LLC, No. 0144-22-3, 80 Va.App. 119, 897 S.E.2d 275 (Va. Ct. App. 2024) (en banc)
+**Citation:** *Mazie Green v. Portfolio Recovery Associates, LLC*, Record No. 0144-22-3 (Va. Ct. App. Dec. 17, 2024) (en banc)
 
 **Procedural history.** PRA obtained judgment against Green in circuit court ($8,914.31). A three-judge panel of the Court of Appeals reversed in February 2024, finding PRA had not proven ownership through chain of title. The full court granted rehearing en banc. In December 2024, the en banc court reversed the panel and affirmed the circuit court's judgment for PRA.
 
