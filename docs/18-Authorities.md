@@ -12,6 +12,10 @@ Taken together, these authorities establish a single, coherent rule for any part
 
 ---
 
+> **Verification Required.** The links below provide search references for case law research. Google Scholar does not reliably track subsequent history. Before citing any authority in a court-facing document, verify the citation on Westlaw, LexisNexis, or the official Virginia courts website (vacourts.gov). Where official court links are provided below, prefer those over Google Scholar links. See Chapter 19 (Research Methodology), § 19.3.3.
+
+---
+
 ## 1. The assignee bears the burden of proving the assignment
 
 ### *Tennent's Heirs v. Pattons*, 33 Va. (6 Leigh) 196, 207 (1835)
